@@ -1,0 +1,1201 @@
+StudentID,Gender,ParentalEducation,LunchType,TestPrepCourse,StudyHoursWeekly,AttendanceRate,ExtracurricularActivity,SleepHours,MathScore,ReadingScore,WritingScore,AverageScore
+STU3000,Male,High School,Free/Reduced,Not Completed,6.4,98.0,No,6.4,66.2,70.5,62.2,66.3
+STU3001,Female,High School,Free/Reduced,Not Completed,10.2,85.6,Yes,5.5,53.7,52.7,58.9,55.1
+STU3002,Male,High School,Standard,Completed,7.7,86.7,Yes,6.5,81.2,70.7,72.5,74.8
+STU3003,Male,High School,Standard,Not Completed,4.1,81.4,Yes,7.7,54.2,58.5,56.9,56.5
+STU3004,Male,High School,Standard,Not Completed,9.0,92.2,No,5.3,83.7,92.3,93.5,89.8
+STU3005,Female,Associate's Degree,Free/Reduced,Not Completed,4.3,86.2,No,6.6,55.2,61.4,58.0,58.2
+STU3006,Male,High School,Free/Reduced,Not Completed,14.7,80.8,No,9.3,100.0,100.0,100.0,100.0
+STU3007,Male,Associate's Degree,Standard,Completed,10.6,88.2,Yes,6.8,73.8,99.2,96.3,89.8
+STU3008,Male,Associate's Degree,Standard,Not Completed,3.8,82.6,Yes,8.2,64.6,77.9,68.4,70.3
+STU3009,Female,Bachelor's Degree,Standard,Completed,12.8,97.2,Yes,7.7,94.8,100.0,87.1,94.0
+STU3010,Male,High School,Free/Reduced,Not Completed,18.6,87.3,Yes,6.6,87.9,84.3,86.1,86.1
+STU3011,Male,Bachelor's Degree,Free/Reduced,Completed,11.2,79.9,No,6.8,81.9,74.3,70.4,75.5
+STU3012,Male,Associate's Degree,Standard,Completed,3.0,88.0,No,7.2,82.1,84.8,84.0,83.6
+STU3013,Male,High School,Standard,Completed,7.3,73.4,No,4.5,82.6,93.1,83.6,86.4
+STU3014,Female,Bachelor's Degree,Standard,Not Completed,12.0,77.7,No,8.1,100.0,93.5,95.5,96.3
+STU3015,Male,Master's Degree,Free/Reduced,Completed,6.9,91.6,Yes,6.9,86.7,97.1,95.5,93.1
+STU3016,Female,High School,Standard,Not Completed,4.0,88.4,Yes,8.2,74.5,75.5,69.8,73.3
+STU3017,Female,High School,Free/Reduced,Not Completed,15.7,80.8,No,7.5,94.1,91.2,94.3,93.2
+STU3018,Female,Bachelor's Degree,Standard,Completed,6.7,64.8,Yes,6.8,98.3,97.9,84.2,93.5
+STU3019,Male,Bachelor's Degree,Standard,Not Completed,18.6,84.9,Yes,7.2,100.0,99.3,98.3,99.2
+STU3020,Female,High School,Standard,Completed,5.7,80.3,Yes,7.2,91.8,90.5,81.9,88.1
+STU3021,Male,High School,Standard,Not Completed,6.4,73.2,Yes,8.8,92.3,90.8,84.3,89.1
+STU3022,Female,Associate's Degree,Standard,Not Completed,5.4,95.6,Yes,7.1,75.2,74.9,71.2,73.8
+STU3023,Female,Associate's Degree,Free/Reduced,Completed,7.2,61.3,No,7.3,70.0,78.1,76.7,74.9
+STU3024,Female,Associate's Degree,Standard,Completed,10.5,73.2,No,5.5,81.5,80.7,79.9,80.7
+STU3025,Female,Associate's Degree,Standard,Completed,4.1,94.8,Yes,6.9,72.8,70.7,72.9,72.1
+STU3026,Female,Associate's Degree,Standard,Not Completed,3.6,72.5,Yes,8.7,74.8,79.6,80.1,78.2
+STU3027,Female,Bachelor's Degree,Free/Reduced,Not Completed,2.3,68.2,No,7.5,59.4,47.7,51.0,52.7
+STU3028,Female,High School,Free/Reduced,Not Completed,2.0,74.0,Yes,5.7,71.2,67.7,60.9,66.6
+STU3029,Female,High School,Standard,Not Completed,3.0,92.5,Yes,5.8,68.4,70.6,52.6,63.9
+STU3030,Male,Bachelor's Degree,Free/Reduced,Completed,5.7,84.6,Yes,6.1,83.9,94.2,93.1,90.4
+STU3031,Male,Bachelor's Degree,Standard,Not Completed,8.9,75.6,Yes,8.2,62.6,62.1,66.4,63.7
+STU3032,Female,Associate's Degree,Standard,Not Completed,10.1,80.9,No,8.1,75.6,82.0,82.7,80.1
+STU3033,Female,Associate's Degree,Free/Reduced,Completed,8.7,92.7,No,4.0,67.3,75.6,64.7,69.2
+STU3034,Female,High School,Free/Reduced,Completed,17.4,71.5,Yes,6.9,100.0,100.0,100.0,100.0
+STU3035,Male,Associate's Degree,Free/Reduced,Completed,20.5,72.3,Yes,7.2,100.0,100.0,100.0,100.0
+STU3036,Female,Associate's Degree,Standard,Not Completed,6.7,86.9,Yes,5.8,56.7,55.9,58.0,56.9
+STU3037,Male,High School,Standard,Not Completed,4.1,77.4,Yes,6.5,78.0,78.8,84.3,80.4
+STU3038,Male,High School,Free/Reduced,Completed,24.0,68.5,No,8.6,100.0,100.0,100.0,100.0
+STU3039,Male,Associate's Degree,Standard,Not Completed,15.4,79.2,No,7.5,92.3,93.8,89.4,91.8
+STU3040,Male,High School,Standard,Completed,14.7,65.2,No,6.4,89.8,100.0,89.3,93.0
+STU3041,Male,High School,Standard,Not Completed,5.5,85.9,No,6.8,89.2,79.4,69.1,79.2
+STU3042,Female,High School,Standard,Completed,13.0,84.9,No,6.7,100.0,100.0,93.4,97.8
+STU3043,Female,High School,Standard,Not Completed,8.7,96.3,No,7.3,71.4,68.6,68.8,69.6
+STU3044,Female,High School,Free/Reduced,Not Completed,7.6,89.7,Yes,5.3,76.8,74.0,76.9,75.9
+STU3045,Female,Bachelor's Degree,Standard,Not Completed,7.6,72.0,Yes,6.2,84.9,83.8,80.8,83.2
+STU3046,Female,Associate's Degree,Standard,Not Completed,10.7,65.5,No,8.2,85.8,89.6,69.5,81.6
+STU3047,Male,Bachelor's Degree,Standard,Completed,17.7,67.4,Yes,6.9,100.0,100.0,100.0,100.0
+STU3048,Female,Bachelor's Degree,Free/Reduced,Completed,25.1,77.3,No,6.0,91.0,95.0,99.5,95.2
+STU3049,Female,Associate's Degree,Standard,Completed,6.2,90.6,No,6.0,71.2,79.3,73.1,74.5
+STU3050,Male,High School,Standard,Completed,9.0,97.3,No,7.9,85.7,90.9,78.5,85.0
+STU3051,Female,Associate's Degree,Free/Reduced,Not Completed,7.5,79.5,Yes,6.4,88.5,85.1,87.9,87.2
+STU3052,Male,Associate's Degree,Free/Reduced,Completed,10.3,67.1,No,7.6,74.5,70.7,72.1,72.4
+STU3053,Female,Bachelor's Degree,Free/Reduced,Completed,7.0,87.0,Yes,6.2,89.2,91.7,86.9,89.3
+STU3054,Male,Associate's Degree,Free/Reduced,Not Completed,22.8,91.1,No,5.6,93.3,80.4,93.3,89.0
+STU3055,Female,High School,Standard,Not Completed,5.1,95.1,Yes,7.3,73.1,75.5,66.2,71.6
+STU3056,Female,High School,Free/Reduced,Not Completed,6.2,77.9,No,6.9,76.7,79.2,73.7,76.5
+STU3057,Male,Associate's Degree,Standard,Completed,5.6,48.4,No,7.8,77.3,74.2,78.3,76.6
+STU3058,Male,Associate's Degree,Free/Reduced,Completed,7.3,41.1,Yes,8.1,74.3,70.4,72.0,72.2
+STU3059,Male,Associate's Degree,Free/Reduced,Not Completed,3.2,66.7,No,6.6,82.4,70.4,80.8,77.9
+STU3060,Male,Associate's Degree,Free/Reduced,Completed,5.7,80.8,No,7.4,80.6,77.9,82.0,80.2
+STU3061,Male,Master's Degree,Free/Reduced,Completed,10.3,94.1,Yes,6.5,90.7,90.1,84.3,88.4
+STU3062,Male,Associate's Degree,Standard,Not Completed,10.2,76.2,No,7.8,84.8,80.1,80.1,81.7
+STU3063,Male,High School,Standard,Not Completed,9.3,93.0,Yes,7.3,94.1,100.0,86.2,93.4
+STU3064,Male,High School,Free/Reduced,Not Completed,16.9,88.3,No,6.3,82.5,97.6,86.8,89.0
+STU3065,Female,High School,Free/Reduced,Completed,10.5,74.0,No,6.2,69.6,84.0,77.7,77.1
+STU3066,Female,High School,Standard,Completed,16.6,88.7,Yes,7.3,90.2,96.0,95.7,94.0
+STU3067,Male,High School,Standard,Not Completed,25.1,83.7,Yes,8.4,90.4,100.0,100.0,96.8
+STU3068,Female,High School,Standard,Completed,13.2,92.4,No,8.1,90.8,100.0,100.0,96.9
+STU3069,Female,High School,Free/Reduced,Not Completed,3.2,82.2,Yes,5.9,70.1,68.6,64.9,67.9
+STU3070,Female,High School,Free/Reduced,Not Completed,9.5,86.9,Yes,6.0,93.0,95.6,86.7,91.8
+STU3071,Female,Bachelor's Degree,Standard,Not Completed,8.7,56.5,No,6.2,73.1,75.4,73.5,74.0
+STU3072,Male,High School,Standard,Completed,18.6,92.3,Yes,6.3,80.7,81.6,82.0,81.4
+STU3073,Female,Associate's Degree,Free/Reduced,Completed,7.5,83.4,Yes,4.8,85.1,82.3,75.7,81.0
+STU3074,Male,Associate's Degree,Free/Reduced,Not Completed,4.7,88.3,No,7.9,74.8,72.7,72.6,73.4
+STU3075,Female,Master's Degree,Standard,Not Completed,5.9,68.9,Yes,6.5,69.3,66.0,70.1,68.5
+STU3076,Female,High School,Standard,Not Completed,3.3,92.6,Yes,7.6,72.4,70.3,64.0,68.9
+STU3077,Female,Associate's Degree,Standard,Completed,0.5,63.1,Yes,6.6,66.4,66.1,67.8,66.8
+STU3078,Male,Master's Degree,Standard,Completed,22.9,77.4,No,7.0,100.0,100.0,100.0,100.0
+STU3079,Female,Bachelor's Degree,Standard,Not Completed,8.1,93.5,No,6.2,65.3,67.5,76.7,69.8
+STU3080,Male,Bachelor's Degree,Free/Reduced,Not Completed,3.5,91.6,No,7.0,75.3,85.7,66.9,76.0
+STU3081,Female,High School,Free/Reduced,Not Completed,19.5,67.6,Yes,6.0,100.0,100.0,100.0,100.0
+STU3082,Male,High School,Standard,Completed,21.4,76.2,Yes,7.0,89.4,96.4,97.3,94.4
+STU3083,Female,Bachelor's Degree,Free/Reduced,Not Completed,8.9,86.1,Yes,8.7,81.8,75.1,80.6,79.2
+STU3084,Male,Master's Degree,Standard,Not Completed,3.1,96.2,Yes,7.6,91.0,83.0,86.8,86.9
+STU3085,Male,Associate's Degree,Standard,Not Completed,6.0,92.4,No,7.3,87.9,87.0,83.9,86.3
+STU3086,Female,Associate's Degree,Standard,Not Completed,7.0,87.8,Yes,5.4,98.3,93.6,84.4,92.1
+STU3087,Male,High School,Standard,Completed,8.3,83.6,Yes,7.7,84.1,88.5,77.0,83.2
+STU3088,Female,Bachelor's Degree,Free/Reduced,Not Completed,3.8,59.6,Yes,7.8,75.2,84.5,78.4,79.4
+STU3089,Female,High School,Free/Reduced,Completed,13.8,56.7,No,7.3,80.2,98.9,91.3,90.1
+STU3090,Female,High School,Standard,Not Completed,1.5,75.1,No,7.3,66.5,71.3,66.8,68.2
+STU3091,Female,Associate's Degree,Standard,Not Completed,15.1,75.3,No,6.8,89.8,86.5,90.2,88.8
+STU3092,Female,Associate's Degree,Free/Reduced,Completed,16.9,74.3,No,7.8,85.2,94.9,86.2,88.8
+STU3093,Female,High School,Standard,Not Completed,6.4,65.5,No,8.7,61.0,53.0,58.7,57.6
+STU3094,Female,High School,Standard,Completed,7.7,49.7,Yes,7.4,74.4,79.5,79.0,77.6
+STU3095,Female,Associate's Degree,Free/Reduced,Not Completed,18.1,66.6,Yes,5.8,97.1,97.2,95.3,96.5
+STU3096,Female,High School,Standard,Not Completed,11.7,99.3,No,5.9,92.7,98.4,87.7,92.9
+STU3097,Female,Associate's Degree,Standard,Completed,6.5,87.8,No,7.9,77.3,78.3,77.7,77.8
+STU3098,Female,High School,Standard,Completed,7.0,57.1,No,5.8,74.5,78.1,78.9,77.2
+STU3099,Male,Associate's Degree,Free/Reduced,Not Completed,10.8,95.3,No,7.2,92.0,86.1,79.3,85.8
+STU3100,Male,Associate's Degree,Standard,Completed,21.7,66.4,No,6.6,100.0,100.0,100.0,100.0
+STU3101,Female,High School,Standard,Not Completed,7.1,62.8,No,5.7,72.9,68.9,73.7,71.8
+STU3102,Female,High School,Free/Reduced,Not Completed,6.4,44.9,No,8.0,72.9,78.1,62.1,71.0
+STU3103,Female,High School,Standard,Not Completed,8.2,94.1,No,7.8,79.6,87.8,87.6,85.0
+STU3104,Female,High School,Free/Reduced,Completed,8.3,90.3,Yes,5.4,69.0,74.6,60.6,68.1
+STU3105,Female,Master's Degree,Standard,Not Completed,9.7,83.8,No,7.6,85.5,81.9,78.2,81.9
+STU3106,Female,High School,Free/Reduced,Not Completed,7.7,93.2,No,7.4,74.1,81.7,81.2,79.0
+STU3107,Female,Bachelor's Degree,Standard,Completed,15.6,73.5,Yes,8.0,95.1,94.5,89.7,93.1
+STU3108,Female,High School,Standard,Not Completed,4.4,75.4,No,7.2,59.5,60.5,58.2,59.4
+STU3109,Male,Bachelor's Degree,Standard,Not Completed,10.3,86.0,No,8.7,84.2,81.7,79.8,81.9
+STU3110,Female,Bachelor's Degree,Standard,Not Completed,10.6,86.7,Yes,6.8,94.5,100.0,97.5,97.3
+STU3111,Male,Associate's Degree,Free/Reduced,Completed,4.7,75.6,No,6.7,46.4,62.1,77.7,62.1
+STU3112,Female,Associate's Degree,Free/Reduced,Not Completed,10.3,94.4,Yes,5.8,64.8,82.3,69.0,72.0
+STU3113,Female,Associate's Degree,Standard,Completed,10.7,72.6,No,5.9,86.4,86.5,86.9,86.6
+STU3114,Male,High School,Standard,Completed,0.9,96.1,No,5.8,82.3,85.4,77.0,81.6
+STU3115,Female,Master's Degree,Free/Reduced,Not Completed,4.1,91.4,Yes,7.3,88.6,90.7,86.1,88.5
+STU3116,Male,Bachelor's Degree,Free/Reduced,Not Completed,18.9,92.2,Yes,6.7,100.0,100.0,100.0,100.0
+STU3117,Female,Master's Degree,Standard,Completed,5.5,53.9,No,7.4,88.4,88.3,88.8,88.5
+STU3118,Female,High School,Standard,Completed,3.5,68.9,Yes,5.5,65.6,73.7,61.1,66.8
+STU3119,Male,Bachelor's Degree,Standard,Completed,2.0,67.8,Yes,6.0,82.8,88.4,79.1,83.4
+STU3120,Female,Master's Degree,Free/Reduced,Completed,3.9,74.9,No,6.0,82.3,72.2,79.0,77.8
+STU3121,Male,High School,Standard,Completed,7.5,84.3,Yes,9.6,73.7,71.3,74.6,73.2
+STU3122,Female,High School,Standard,Completed,3.3,67.3,Yes,6.8,64.7,70.6,70.8,68.7
+STU3123,Male,Bachelor's Degree,Standard,Not Completed,11.8,65.4,No,6.9,96.4,100.0,94.7,97.0
+STU3124,Male,Associate's Degree,Free/Reduced,Not Completed,4.6,74.6,No,6.9,69.7,57.3,65.0,64.0
+STU3125,Female,Bachelor's Degree,Standard,Not Completed,9.7,68.7,No,8.9,86.4,85.7,88.4,86.8
+STU3126,Female,High School,Standard,Not Completed,17.4,83.1,No,5.1,83.8,81.1,84.3,83.1
+STU3127,Male,Bachelor's Degree,Standard,Completed,16.8,43.1,Yes,6.9,95.1,100.0,100.0,98.4
+STU3128,Female,High School,Standard,Not Completed,9.6,89.5,Yes,5.1,65.6,73.4,65.3,68.1
+STU3129,Female,High School,Standard,Not Completed,3.7,85.7,Yes,4.1,65.5,59.8,67.6,64.3
+STU3130,Female,High School,Standard,Not Completed,7.8,80.5,No,6.1,78.0,92.9,78.3,83.1
+STU3131,Male,Bachelor's Degree,Standard,Not Completed,9.8,86.0,No,7.5,91.0,82.3,75.3,82.9
+STU3132,Male,Bachelor's Degree,Standard,Not Completed,27.7,89.6,No,6.0,90.1,98.7,82.1,90.3
+STU3133,Male,Associate's Degree,Standard,Not Completed,1.9,87.0,No,7.5,61.0,67.6,59.7,62.8
+STU3134,Male,Associate's Degree,Free/Reduced,Completed,7.8,92.0,No,7.1,72.3,71.2,77.6,73.7
+STU3135,Male,Bachelor's Degree,Free/Reduced,Not Completed,11.6,78.5,Yes,6.8,67.7,74.5,70.2,70.8
+STU3136,Male,Associate's Degree,Standard,Not Completed,8.6,78.9,Yes,8.5,85.0,83.1,88.1,85.4
+STU3137,Male,Bachelor's Degree,Free/Reduced,Not Completed,9.2,69.3,Yes,6.3,82.8,76.3,80.6,79.9
+STU3138,Male,Associate's Degree,Standard,Not Completed,4.8,39.2,Yes,7.5,69.8,71.2,72.4,71.1
+STU3139,Male,Associate's Degree,Standard,Completed,13.7,93.3,No,4.8,100.0,100.0,100.0,100.0
+STU3140,Female,Associate's Degree,Standard,Completed,8.3,69.4,Yes,7.1,90.2,94.7,93.5,92.8
+STU3141,Male,High School,Standard,Not Completed,9.2,91.3,No,6.7,79.8,97.7,89.8,89.1
+STU3142,Female,Bachelor's Degree,Free/Reduced,Not Completed,14.5,76.0,No,5.6,69.8,75.8,69.2,71.6
+STU3143,Female,Associate's Degree,Free/Reduced,Not Completed,6.6,92.6,Yes,7.5,77.0,75.2,72.3,74.8
+STU3144,Female,High School,Free/Reduced,Completed,16.3,71.6,No,6.1,89.5,89.1,80.2,86.3
+STU3145,Male,Bachelor's Degree,Standard,Completed,3.3,88.8,No,9.1,81.3,80.3,82.0,81.2
+STU3146,Male,Associate's Degree,Standard,Not Completed,9.5,81.1,Yes,4.1,95.0,100.0,86.3,93.8
+STU3147,Male,Associate's Degree,Standard,Not Completed,4.6,73.9,No,7.3,78.3,71.0,70.9,73.4
+STU3148,Male,Master's Degree,Standard,Not Completed,3.8,74.2,No,7.1,73.5,71.2,62.9,69.2
+STU3149,Female,Associate's Degree,Standard,Not Completed,21.6,63.6,No,6.7,91.7,91.0,84.5,89.1
+STU3150,Male,High School,Standard,Not Completed,3.4,80.3,No,6.4,91.2,96.8,98.2,95.4
+STU3151,Male,Master's Degree,Standard,Completed,8.4,87.3,No,7.1,91.4,90.0,90.4,90.6
+STU3152,Male,Associate's Degree,Standard,Not Completed,3.2,97.6,No,8.3,68.9,56.4,55.0,60.1
+STU3153,Male,High School,Free/Reduced,Not Completed,15.7,71.9,Yes,5.0,76.3,75.8,69.1,73.7
+STU3154,Male,High School,Free/Reduced,Not Completed,6.2,64.2,Yes,6.0,48.9,61.7,44.9,51.8
+STU3155,Female,Bachelor's Degree,Free/Reduced,Not Completed,14.5,56.6,Yes,5.7,77.4,87.3,80.0,81.6
+STU3156,Male,Associate's Degree,Standard,Not Completed,11.3,61.2,Yes,5.7,60.0,59.0,53.8,57.6
+STU3157,Female,Associate's Degree,Standard,Completed,25.4,80.1,No,7.4,99.9,99.4,97.2,98.8
+STU3158,Male,Bachelor's Degree,Standard,Not Completed,2.7,75.4,No,7.7,79.6,68.7,76.1,74.8
+STU3159,Female,Bachelor's Degree,Free/Reduced,Completed,4.1,83.5,Yes,8.3,82.5,89.6,88.1,86.7
+STU3160,Male,High School,Standard,Not Completed,14.0,61.4,Yes,7.7,84.5,88.7,81.7,85.0
+STU3161,Male,High School,Standard,Completed,9.8,84.5,Yes,7.8,81.0,81.7,70.5,77.7
+STU3162,Female,High School,Free/Reduced,Completed,6.9,83.8,No,5.3,78.0,76.3,68.3,74.2
+STU3163,Female,Bachelor's Degree,Standard,Not Completed,22.8,69.4,No,8.8,98.4,100.0,89.5,96.0
+STU3164,Female,High School,Standard,Completed,8.0,71.6,No,6.7,89.5,100.0,83.2,90.9
+STU3165,Male,Associate's Degree,Standard,Not Completed,4.8,45.7,No,8.2,74.6,82.3,77.7,78.2
+STU3166,Female,Bachelor's Degree,Standard,Not Completed,14.6,92.4,Yes,5.3,88.5,79.2,93.6,87.1
+STU3167,Male,Bachelor's Degree,Standard,Completed,8.2,72.4,Yes,6.7,96.7,86.4,87.5,90.2
+STU3168,Male,High School,Standard,Not Completed,8.6,84.7,Yes,8.1,78.4,89.0,77.3,81.6
+STU3169,Female,Bachelor's Degree,Standard,Not Completed,11.9,76.9,Yes,7.0,100.0,100.0,98.0,99.3
+STU3170,Female,High School,Standard,Not Completed,12.2,83.8,No,6.1,80.8,98.5,85.9,88.4
+STU3171,Male,Bachelor's Degree,Free/Reduced,Completed,4.1,90.4,No,8.6,84.1,80.6,85.9,83.5
+STU3172,Male,High School,Standard,Completed,6.7,79.9,No,5.6,83.5,88.5,83.4,85.1
+STU3173,Female,Associate's Degree,Standard,Completed,3.0,85.2,No,7.0,81.7,86.9,75.4,81.3
+STU3174,Female,Bachelor's Degree,Standard,Completed,9.8,91.7,Yes,7.8,76.6,84.7,84.4,81.9
+STU3175,Female,High School,Free/Reduced,Completed,21.4,81.8,Yes,9.5,100.0,100.0,98.3,99.4
+STU3176,Male,High School,Standard,Not Completed,4.2,71.1,No,6.4,72.3,68.7,72.7,71.2
+STU3177,Male,Bachelor's Degree,Standard,Not Completed,2.6,64.9,No,6.7,79.3,80.1,78.8,79.4
+STU3178,Male,Bachelor's Degree,Free/Reduced,Not Completed,5.3,78.5,Yes,6.5,73.6,71.2,72.9,72.6
+STU3179,Male,Associate's Degree,Free/Reduced,Not Completed,6.9,64.1,No,7.3,78.4,78.1,78.0,78.2
+STU3180,Male,Bachelor's Degree,Standard,Completed,12.2,87.4,No,7.7,87.0,98.3,89.3,91.5
+STU3181,Male,Associate's Degree,Free/Reduced,Completed,6.5,44.2,Yes,8.3,82.9,82.1,75.6,80.2
+STU3182,Female,High School,Standard,Completed,10.0,68.9,No,7.9,72.4,71.1,71.3,71.6
+STU3183,Male,High School,Standard,Completed,5.8,84.7,Yes,6.4,87.0,96.9,84.8,89.6
+STU3184,Male,High School,Standard,Not Completed,7.1,82.1,No,8.0,88.6,81.4,86.4,85.5
+STU3185,Male,Master's Degree,Standard,Not Completed,4.6,84.7,No,7.1,87.6,95.1,83.8,88.8
+STU3186,Female,Associate's Degree,Free/Reduced,Completed,3.7,54.9,No,7.9,73.7,70.2,66.5,70.1
+STU3187,Male,Associate's Degree,Standard,Completed,12.5,86.5,Yes,8.0,92.3,93.8,91.5,92.5
+STU3188,Male,Associate's Degree,Standard,Not Completed,6.1,66.4,Yes,9.0,71.0,79.7,76.5,75.7
+STU3189,Female,Master's Degree,Free/Reduced,Not Completed,10.4,85.9,Yes,6.6,87.6,83.0,92.1,87.6
+STU3190,Male,High School,Free/Reduced,Completed,4.6,74.4,Yes,6.3,95.3,91.4,85.6,90.8
+STU3191,Male,Associate's Degree,Standard,Not Completed,8.0,69.0,No,7.5,77.8,87.4,75.1,80.1
+STU3192,Male,Associate's Degree,Standard,Not Completed,1.5,80.6,No,8.4,57.1,51.0,68.8,59.0
+STU3193,Male,Associate's Degree,Standard,Completed,6.4,88.0,Yes,7.1,72.2,77.5,77.7,75.8
+STU3194,Male,High School,Free/Reduced,Completed,4.9,75.6,Yes,8.5,59.5,63.8,63.5,62.3
+STU3195,Female,Bachelor's Degree,Free/Reduced,Not Completed,15.4,59.6,Yes,7.8,77.4,91.1,72.4,80.3
+STU3196,Female,Master's Degree,Free/Reduced,Not Completed,3.3,81.2,No,6.8,90.6,83.5,81.6,85.2
+STU3197,Female,Associate's Degree,Standard,Not Completed,7.3,77.9,Yes,7.7,68.6,65.1,63.5,65.7
+STU3198,Male,Bachelor's Degree,Standard,Completed,9.8,77.1,Yes,6.5,92.3,100.0,100.0,97.4
+STU3199,Male,Master's Degree,Standard,Completed,14.2,99.1,No,7.3,100.0,100.0,95.1,98.4
+STU3200,Male,Bachelor's Degree,Standard,Not Completed,13.1,84.7,Yes,5.7,87.4,90.6,97.6,91.9
+STU3201,Female,High School,Standard,Not Completed,7.7,86.5,No,6.9,83.5,80.3,79.1,81.0
+STU3202,Male,Associate's Degree,Free/Reduced,Completed,8.4,42.7,No,8.2,86.5,73.0,74.1,77.9
+STU3203,Male,Associate's Degree,Standard,Not Completed,15.4,92.1,Yes,7.9,88.5,89.1,91.5,89.7
+STU3204,Female,Associate's Degree,Standard,Not Completed,7.6,71.0,No,7.7,48.7,62.0,61.0,57.2
+STU3205,Male,Bachelor's Degree,Free/Reduced,Not Completed,8.9,87.7,No,7.3,66.2,77.1,68.7,70.7
+STU3206,Female,Master's Degree,Standard,Not Completed,15.7,73.2,No,7.2,83.9,90.7,86.2,86.9
+STU3207,Female,Master's Degree,Free/Reduced,Not Completed,27.4,56.2,Yes,5.5,100.0,100.0,100.0,100.0
+STU3208,Female,Associate's Degree,Standard,Not Completed,9.4,75.7,Yes,6.8,88.3,77.4,79.3,81.7
+STU3209,Male,High School,Standard,Not Completed,10.9,69.5,No,7.2,77.9,76.9,83.8,79.5
+STU3210,Male,Master's Degree,Standard,Completed,12.9,74.5,No,5.7,100.0,100.0,100.0,100.0
+STU3211,Male,Bachelor's Degree,Standard,Not Completed,15.6,82.8,Yes,4.9,76.1,84.4,74.5,78.3
+STU3212,Male,High School,Free/Reduced,Completed,14.4,92.5,Yes,8.4,71.4,65.3,70.0,68.9
+STU3213,Male,Master's Degree,Standard,Not Completed,5.5,68.3,Yes,7.1,79.1,89.5,73.0,80.5
+STU3214,Male,Bachelor's Degree,Standard,Completed,9.7,91.3,Yes,7.3,100.0,99.0,100.0,99.7
+STU3215,Male,Associate's Degree,Standard,Completed,14.4,96.9,No,7.7,100.0,94.3,97.6,97.3
+STU3216,Female,Associate's Degree,Standard,Completed,17.4,57.7,Yes,5.8,96.5,89.6,82.6,89.6
+STU3217,Male,Associate's Degree,Free/Reduced,Completed,7.3,67.1,Yes,6.5,80.8,80.9,88.9,83.5
+STU3218,Female,High School,Standard,Not Completed,9.6,86.9,No,8.8,98.5,99.2,93.2,97.0
+STU3219,Male,High School,Free/Reduced,Not Completed,10.3,82.2,Yes,6.4,69.8,75.1,72.0,72.3
+STU3220,Male,Bachelor's Degree,Free/Reduced,Not Completed,8.2,89.5,No,6.7,75.0,85.9,84.0,81.6
+STU3221,Male,High School,Standard,Completed,9.5,71.2,No,6.2,88.5,90.4,96.2,91.7
+STU3222,Female,High School,Free/Reduced,Completed,1.4,88.0,Yes,6.1,70.5,77.8,66.0,71.4
+STU3223,Female,Associate's Degree,Standard,Completed,36.7,89.2,No,8.3,100.0,100.0,100.0,100.0
+STU3224,Female,Associate's Degree,Standard,Completed,7.1,71.6,No,4.0,71.3,83.0,83.2,79.2
+STU3225,Female,Master's Degree,Standard,Not Completed,7.5,93.0,Yes,6.5,85.2,84.4,86.3,85.3
+STU3226,Male,High School,Free/Reduced,Completed,2.4,71.2,Yes,7.3,75.6,85.9,73.7,78.4
+STU3227,Female,High School,Free/Reduced,Completed,2.1,94.3,No,9.0,80.2,84.3,75.0,79.8
+STU3228,Male,Bachelor's Degree,Standard,Completed,10.7,87.7,No,5.6,100.0,100.0,100.0,100.0
+STU3229,Male,Associate's Degree,Free/Reduced,Completed,14.5,95.8,No,5.4,84.1,78.0,79.2,80.4
+STU3230,Female,High School,Standard,Not Completed,13.0,88.5,Yes,6.0,100.0,100.0,90.0,96.7
+STU3231,Female,Associate's Degree,Standard,Not Completed,4.6,65.5,No,7.8,69.1,61.9,72.6,67.9
+STU3232,Female,High School,Standard,Completed,12.5,98.2,Yes,7.2,95.1,91.5,94.4,93.7
+STU3233,Female,High School,Free/Reduced,Completed,7.4,87.1,No,5.3,92.1,92.1,84.3,89.5
+STU3234,Female,Associate's Degree,Standard,Completed,6.3,93.7,No,7.1,97.0,98.3,90.7,95.3
+STU3235,Female,Associate's Degree,Standard,Completed,3.0,58.1,No,8.9,88.5,82.7,83.9,85.0
+STU3236,Female,Master's Degree,Standard,Completed,5.0,62.2,No,7.3,86.7,99.4,100.0,95.4
+STU3237,Female,Associate's Degree,Standard,Not Completed,10.8,87.3,No,7.2,81.0,80.9,85.7,82.5
+STU3238,Male,Associate's Degree,Standard,Not Completed,9.7,51.1,No,7.3,86.3,88.7,96.2,90.4
+STU3239,Female,Associate's Degree,Standard,Not Completed,8.9,87.3,Yes,7.5,83.6,80.3,66.9,76.9
+STU3240,Female,High School,Free/Reduced,Not Completed,1.4,71.7,No,5.5,52.5,60.7,59.7,57.6
+STU3241,Male,Bachelor's Degree,Standard,Not Completed,8.9,89.8,No,6.7,83.2,89.2,78.5,83.6
+STU3242,Female,High School,Standard,Not Completed,5.5,83.2,Yes,6.8,73.6,77.6,68.1,73.1
+STU3243,Male,Master's Degree,Standard,Not Completed,9.7,86.1,No,6.4,85.1,85.0,94.9,88.3
+STU3244,Male,High School,Free/Reduced,Not Completed,15.8,58.2,Yes,7.8,87.8,88.6,80.4,85.6
+STU3245,Female,Associate's Degree,Free/Reduced,Completed,6.0,96.9,No,6.2,87.3,84.3,96.1,89.2
+STU3246,Male,High School,Standard,Not Completed,8.5,97.3,No,6.6,79.1,74.7,79.3,77.7
+STU3247,Male,Master's Degree,Free/Reduced,Not Completed,22.8,79.5,Yes,5.5,94.3,89.2,92.9,92.1
+STU3248,Male,Associate's Degree,Standard,Not Completed,9.4,87.7,No,7.5,78.7,80.0,69.9,76.2
+STU3249,Male,Associate's Degree,Standard,Not Completed,7.9,68.1,Yes,8.1,79.2,85.5,76.3,80.3
+STU3250,Female,High School,Standard,Not Completed,4.6,83.1,No,6.6,51.4,67.3,57.0,58.6
+STU3251,Male,Bachelor's Degree,Standard,Completed,12.7,78.0,No,8.0,87.8,83.6,79.9,83.8
+STU3252,Female,High School,Standard,Not Completed,4.1,56.8,Yes,6.8,64.5,65.6,68.6,66.2
+STU3253,Male,Bachelor's Degree,Free/Reduced,Completed,16.2,80.0,Yes,4.0,100.0,95.8,96.5,97.4
+STU3254,Male,High School,Free/Reduced,Completed,11.7,81.7,Yes,6.9,80.3,78.6,80.5,79.8
+STU3255,Male,High School,Free/Reduced,Completed,5.6,72.4,No,6.8,82.4,80.9,80.6,81.3
+STU3256,Male,High School,Standard,Not Completed,4.7,81.1,No,7.1,74.1,77.5,71.7,74.4
+STU3257,Female,Associate's Degree,Standard,Completed,4.8,94.1,Yes,7.3,76.0,84.2,81.2,80.5
+STU3258,Female,Associate's Degree,Free/Reduced,Completed,2.1,91.3,Yes,6.2,66.2,77.2,67.8,70.4
+STU3259,Male,High School,Standard,Not Completed,10.5,73.6,Yes,8.8,71.3,74.3,73.5,73.0
+STU3260,Male,Bachelor's Degree,Standard,Completed,1.5,78.0,No,6.9,100.0,96.6,94.9,97.2
+STU3261,Female,Associate's Degree,Standard,Not Completed,7.6,85.3,No,6.8,85.4,96.5,87.4,89.8
+STU3262,Male,Associate's Degree,Free/Reduced,Not Completed,7.3,90.3,Yes,7.9,79.8,86.9,73.3,80.0
+STU3263,Male,Associate's Degree,Standard,Completed,6.5,86.8,No,7.0,78.2,74.0,78.4,76.9
+STU3264,Male,Associate's Degree,Standard,Not Completed,10.5,86.5,Yes,10.0,84.6,80.1,85.6,83.4
+STU3265,Female,Associate's Degree,Free/Reduced,Completed,5.6,72.1,No,6.7,70.4,68.0,71.9,70.1
+STU3266,Female,High School,Standard,Not Completed,8.9,91.4,No,7.4,82.4,75.8,80.2,79.5
+STU3267,Female,High School,Standard,Not Completed,16.2,99.1,No,6.1,85.2,87.8,81.3,84.8
+STU3268,Male,Bachelor's Degree,Standard,Not Completed,11.2,86.3,No,8.0,85.7,88.3,73.3,82.4
+STU3269,Male,Master's Degree,Standard,Not Completed,6.1,78.9,No,7.4,70.2,72.9,67.8,70.3
+STU3270,Female,Associate's Degree,Free/Reduced,Completed,8.0,58.7,No,6.6,85.9,72.1,79.0,79.0
+STU3271,Female,High School,Standard,Completed,6.5,83.4,No,6.0,82.9,78.8,79.6,80.4
+STU3272,Female,Associate's Degree,Standard,Not Completed,7.2,58.1,Yes,5.4,73.0,71.9,61.6,68.8
+STU3273,Female,Associate's Degree,Free/Reduced,Not Completed,9.1,83.5,Yes,7.5,85.8,84.7,81.6,84.0
+STU3274,Male,High School,Free/Reduced,Not Completed,2.9,59.4,Yes,5.3,64.2,72.8,67.3,68.1
+STU3275,Female,High School,Free/Reduced,Not Completed,2.4,92.9,No,8.6,62.7,68.1,64.2,65.0
+STU3276,Male,Bachelor's Degree,Standard,Not Completed,4.4,61.9,Yes,5.5,64.6,77.7,64.9,69.1
+STU3277,Female,Bachelor's Degree,Standard,Not Completed,10.8,83.2,Yes,6.8,76.4,87.0,80.7,81.4
+STU3278,Male,High School,Free/Reduced,Completed,11.7,85.7,No,5.9,73.3,79.2,77.8,76.8
+STU3279,Female,High School,Free/Reduced,Not Completed,12.7,58.3,Yes,7.0,72.7,83.4,75.2,77.1
+STU3280,Female,High School,Standard,Not Completed,4.5,77.1,No,7.0,77.3,72.2,81.9,77.1
+STU3281,Female,Bachelor's Degree,Standard,Completed,8.5,98.2,No,7.5,86.7,96.0,84.4,89.0
+STU3282,Female,High School,Standard,Not Completed,6.3,56.9,No,5.2,65.0,57.4,48.3,56.9
+STU3283,Male,High School,Free/Reduced,Not Completed,7.4,68.7,No,6.1,65.0,72.0,68.7,68.6
+STU3284,Female,Bachelor's Degree,Standard,Not Completed,6.2,79.9,No,8.2,84.7,98.0,89.4,90.7
+STU3285,Male,High School,Standard,Completed,9.4,74.4,No,7.8,73.9,79.2,75.5,76.2
+STU3286,Male,Bachelor's Degree,Standard,Completed,5.1,95.5,Yes,4.0,80.9,95.2,83.3,86.5
+STU3287,Male,High School,Free/Reduced,Not Completed,15.2,89.0,No,7.5,91.2,92.8,90.4,91.5
+STU3288,Male,High School,Free/Reduced,Not Completed,15.3,83.1,Yes,5.8,76.5,68.5,73.4,72.8
+STU3289,Female,High School,Standard,Completed,10.6,52.7,Yes,6.3,93.5,87.7,89.7,90.3
+STU3290,Male,Bachelor's Degree,Free/Reduced,Completed,14.2,81.5,No,6.7,95.4,100.0,100.0,98.5
+STU3291,Male,Bachelor's Degree,Free/Reduced,Not Completed,2.9,87.8,Yes,8.9,89.9,94.4,85.0,89.8
+STU3292,Male,Bachelor's Degree,Standard,Completed,15.7,81.1,Yes,5.7,100.0,100.0,100.0,100.0
+STU3293,Female,Associate's Degree,Standard,Not Completed,10.0,69.5,Yes,5.3,74.0,68.5,71.8,71.4
+STU3294,Female,Bachelor's Degree,Standard,Not Completed,5.4,80.7,Yes,7.5,89.7,90.1,80.7,86.8
+STU3295,Female,High School,Free/Reduced,Completed,5.0,80.1,Yes,7.0,86.4,85.6,88.6,86.9
+STU3296,Female,High School,Standard,Not Completed,18.8,66.6,Yes,8.4,91.0,88.8,90.8,90.2
+STU3297,Male,Bachelor's Degree,Standard,Completed,12.8,90.5,No,6.6,100.0,100.0,93.1,97.7
+STU3298,Male,High School,Free/Reduced,Completed,7.3,72.2,No,8.5,63.8,59.0,67.7,63.5
+STU3299,Female,High School,Standard,Not Completed,2.8,83.3,Yes,7.0,59.9,51.9,54.7,55.5
+STU3300,Male,High School,Free/Reduced,Not Completed,16.2,67.6,No,7.6,69.4,74.7,73.4,72.5
+STU3301,Male,High School,Standard,Not Completed,3.7,94.1,Yes,8.9,82.0,88.6,75.7,82.1
+STU3302,Male,High School,Standard,Not Completed,6.3,67.5,Yes,6.8,80.2,82.0,73.9,78.7
+STU3303,Female,Associate's Degree,Free/Reduced,Completed,7.3,62.7,Yes,8.3,72.5,84.2,73.3,76.7
+STU3304,Female,Associate's Degree,Free/Reduced,Completed,5.0,73.4,No,6.3,83.7,91.9,77.0,84.2
+STU3305,Male,Bachelor's Degree,Standard,Completed,7.1,67.7,Yes,7.3,93.4,96.6,96.9,95.6
+STU3306,Female,Bachelor's Degree,Free/Reduced,Completed,8.0,93.1,No,5.3,63.7,72.8,65.0,67.2
+STU3307,Female,High School,Free/Reduced,Completed,7.0,69.0,No,6.4,74.5,75.8,77.9,76.1
+STU3308,Female,High School,Standard,Completed,9.7,97.0,No,5.7,75.6,84.7,83.0,81.1
+STU3309,Female,Associate's Degree,Free/Reduced,Not Completed,19.1,77.5,No,8.5,99.3,100.0,88.9,96.1
+STU3310,Female,Associate's Degree,Standard,Not Completed,2.9,87.8,No,9.1,76.2,73.7,69.5,73.1
+STU3311,Male,High School,Standard,Not Completed,8.8,72.9,Yes,6.6,74.2,63.1,73.4,70.2
+STU3312,Female,Associate's Degree,Standard,Not Completed,3.7,92.7,Yes,6.1,86.8,91.0,85.9,87.9
+STU3313,Male,Associate's Degree,Free/Reduced,Completed,2.7,86.4,No,5.4,79.6,68.2,77.5,75.1
+STU3314,Male,Associate's Degree,Free/Reduced,Completed,13.6,72.6,No,7.3,88.7,86.4,79.8,85.0
+STU3315,Female,Associate's Degree,Standard,Not Completed,9.3,96.2,Yes,6.3,83.6,78.1,87.7,83.1
+STU3316,Male,High School,Standard,Not Completed,2.6,74.6,Yes,6.3,72.5,89.8,79.0,80.4
+STU3317,Male,Master's Degree,Standard,Completed,7.1,75.0,No,9.0,100.0,100.0,97.4,99.1
+STU3318,Male,Bachelor's Degree,Standard,Not Completed,4.4,85.7,Yes,6.6,86.1,82.6,81.2,83.3
+STU3319,Female,High School,Free/Reduced,Not Completed,7.2,75.7,Yes,7.7,62.8,70.1,64.3,65.7
+STU3320,Female,Bachelor's Degree,Free/Reduced,Not Completed,11.9,59.1,No,7.1,73.8,77.6,78.0,76.5
+STU3321,Male,Associate's Degree,Standard,Completed,11.2,97.2,No,5.4,81.7,89.0,76.0,82.2
+STU3322,Female,Bachelor's Degree,Free/Reduced,Not Completed,6.2,66.8,No,4.8,66.0,83.3,71.1,73.5
+STU3323,Female,Bachelor's Degree,Standard,Not Completed,14.0,63.7,No,7.6,91.0,95.1,93.1,93.1
+STU3324,Female,Associate's Degree,Free/Reduced,Not Completed,17.0,88.5,No,9.0,90.9,87.6,77.7,85.4
+STU3325,Female,High School,Free/Reduced,Not Completed,12.0,82.6,Yes,7.4,89.8,81.1,88.3,86.4
+STU3326,Male,High School,Standard,Not Completed,5.6,80.4,Yes,7.7,62.2,68.5,62.5,64.4
+STU3327,Male,Associate's Degree,Standard,Not Completed,7.4,85.4,No,5.9,67.6,83.8,65.7,72.4
+STU3328,Female,Associate's Degree,Free/Reduced,Completed,18.8,92.8,No,8.2,96.4,91.8,89.5,92.6
+STU3329,Female,High School,Standard,Not Completed,6.5,87.0,Yes,8.2,58.6,65.2,57.4,60.4
+STU3330,Male,High School,Standard,Not Completed,11.2,54.2,No,6.2,65.8,72.7,63.4,67.3
+STU3331,Male,Bachelor's Degree,Standard,Not Completed,4.9,50.7,No,7.7,71.6,75.7,75.3,74.2
+STU3332,Female,Master's Degree,Standard,Completed,14.0,91.3,Yes,4.9,82.2,92.1,94.7,89.7
+STU3333,Male,Associate's Degree,Standard,Completed,4.5,99.6,Yes,7.9,93.1,95.8,95.6,94.8
+STU3334,Female,High School,Free/Reduced,Not Completed,7.6,88.8,Yes,6.3,63.1,70.2,56.7,63.3
+STU3335,Female,High School,Free/Reduced,Not Completed,11.0,76.2,No,5.5,68.7,77.9,75.6,74.1
+STU3336,Male,High School,Standard,Not Completed,21.0,82.7,No,7.5,100.0,100.0,100.0,100.0
+STU3337,Male,Master's Degree,Free/Reduced,Not Completed,9.1,78.5,Yes,4.9,73.5,82.0,83.9,79.8
+STU3338,Female,High School,Standard,Not Completed,6.8,85.1,No,7.4,72.0,76.4,69.8,72.7
+STU3339,Female,Associate's Degree,Free/Reduced,Not Completed,6.5,86.0,No,5.6,67.1,70.9,76.2,71.4
+STU3340,Male,High School,Free/Reduced,Not Completed,13.7,80.6,No,5.4,70.4,75.8,68.3,71.5
+STU3341,Female,Associate's Degree,Standard,Not Completed,10.5,80.3,No,7.1,70.1,80.6,70.2,73.6
+STU3342,Male,Bachelor's Degree,Free/Reduced,Not Completed,11.8,90.8,Yes,6.8,90.2,99.2,79.3,89.6
+STU3343,Female,Bachelor's Degree,Standard,Completed,18.1,75.0,No,8.7,97.7,99.7,91.8,96.4
+STU3344,Male,High School,Standard,Not Completed,8.3,75.0,Yes,5.5,86.5,78.8,79.4,81.6
+STU3345,Male,High School,Free/Reduced,Not Completed,10.1,88.5,No,8.7,79.8,84.3,82.3,82.1
+STU3346,Male,High School,Standard,Completed,6.4,92.5,Yes,5.6,87.6,75.8,81.6,81.7
+STU3347,Female,Master's Degree,Standard,Completed,4.8,90.4,No,8.1,92.5,100.0,100.0,97.5
+STU3348,Female,Bachelor's Degree,Standard,Completed,5.4,85.7,No,8.3,80.3,73.2,80.7,78.1
+STU3349,Male,Associate's Degree,Free/Reduced,Completed,1.1,87.5,Yes,7.4,88.6,86.9,79.2,84.9
+STU3350,Female,Associate's Degree,Standard,Completed,10.9,72.8,Yes,6.1,100.0,100.0,98.9,99.6
+STU3351,Male,Bachelor's Degree,Standard,Not Completed,10.3,63.0,No,5.2,84.9,63.8,76.6,75.1
+STU3352,Male,High School,Free/Reduced,Not Completed,10.8,49.7,No,4.7,62.9,72.4,58.4,64.6
+STU3353,Female,Master's Degree,Free/Reduced,Not Completed,4.6,89.6,Yes,9.2,83.6,88.2,77.4,83.1
+STU3354,Female,Associate's Degree,Standard,Completed,5.5,82.6,No,6.6,100.0,98.8,86.6,95.1
+STU3355,Male,Associate's Degree,Standard,Completed,5.4,76.0,Yes,5.7,77.3,71.6,69.9,72.9
+STU3356,Female,Associate's Degree,Standard,Not Completed,14.8,87.6,Yes,5.6,76.7,79.6,72.3,76.2
+STU3357,Female,High School,Standard,Completed,8.9,68.6,Yes,7.2,92.5,89.5,92.0,91.3
+STU3358,Male,High School,Standard,Not Completed,8.2,92.4,Yes,6.5,76.5,87.6,84.1,82.7
+STU3359,Male,Bachelor's Degree,Free/Reduced,Not Completed,12.4,36.5,No,4.7,75.7,80.3,74.8,76.9
+STU3360,Female,High School,Free/Reduced,Not Completed,5.4,73.2,No,8.0,78.2,86.3,74.3,79.6
+STU3361,Male,Associate's Degree,Standard,Completed,9.9,97.9,Yes,7.4,76.9,76.7,79.0,77.5
+STU3362,Male,High School,Standard,Not Completed,22.5,64.7,No,9.2,97.7,94.9,89.4,94.0
+STU3363,Female,Associate's Degree,Free/Reduced,Completed,16.1,97.9,Yes,8.4,91.5,86.9,93.1,90.5
+STU3364,Male,High School,Standard,Not Completed,9.8,61.4,No,4.0,63.9,60.5,67.0,63.8
+STU3365,Male,Associate's Degree,Free/Reduced,Not Completed,8.4,69.6,Yes,8.7,63.0,67.5,54.5,61.7
+STU3366,Female,Bachelor's Degree,Standard,Completed,10.7,73.9,No,8.4,78.6,79.5,73.8,77.3
+STU3367,Female,High School,Standard,Completed,17.4,91.5,No,6.1,99.1,100.0,93.6,97.6
+STU3368,Male,Associate's Degree,Free/Reduced,Completed,16.7,75.8,Yes,6.5,88.2,98.8,79.0,88.7
+STU3369,Male,Associate's Degree,Standard,Not Completed,19.0,57.3,No,7.5,84.9,85.2,85.3,85.1
+STU3370,Female,Bachelor's Degree,Free/Reduced,Completed,9.2,94.7,Yes,5.8,79.5,86.0,86.9,84.1
+STU3371,Female,Master's Degree,Standard,Not Completed,1.5,87.4,Yes,6.7,73.1,80.6,71.9,75.2
+STU3372,Female,Bachelor's Degree,Standard,Completed,21.6,85.6,Yes,8.2,100.0,100.0,100.0,100.0
+STU3373,Female,High School,Free/Reduced,Not Completed,4.8,85.1,Yes,7.6,64.9,67.6,61.7,64.7
+STU3374,Male,High School,Standard,Not Completed,12.3,94.1,Yes,6.2,92.0,100.0,98.2,96.7
+STU3375,Female,High School,Free/Reduced,Not Completed,1.5,42.4,Yes,8.2,65.5,60.1,59.5,61.7
+STU3376,Female,Associate's Degree,Standard,Not Completed,8.1,83.1,Yes,7.4,78.4,80.7,69.8,76.3
+STU3377,Male,High School,Standard,Completed,6.5,94.1,Yes,7.3,80.6,78.2,81.5,80.1
+STU3378,Female,Associate's Degree,Free/Reduced,Completed,19.1,76.8,No,6.4,100.0,100.0,100.0,100.0
+STU3379,Male,Associate's Degree,Standard,Not Completed,9.9,72.2,No,7.0,80.6,90.4,90.1,87.0
+STU3380,Female,High School,Standard,Completed,8.1,82.5,Yes,6.1,80.1,77.7,69.3,75.7
+STU3381,Female,Bachelor's Degree,Standard,Not Completed,10.5,56.2,Yes,4.7,86.0,81.4,78.6,82.0
+STU3382,Female,High School,Standard,Completed,0.7,70.7,Yes,6.7,50.2,42.4,49.3,47.3
+STU3383,Male,High School,Standard,Completed,5.3,96.1,No,6.9,61.0,78.6,65.4,68.3
+STU3384,Male,Bachelor's Degree,Free/Reduced,Completed,5.8,85.1,No,7.2,78.1,72.0,82.4,77.5
+STU3385,Female,Associate's Degree,Free/Reduced,Not Completed,11.5,61.0,No,8.5,71.1,67.6,70.9,69.9
+STU3386,Male,Bachelor's Degree,Free/Reduced,Completed,4.1,66.1,Yes,6.2,79.2,86.8,78.6,81.5
+STU3387,Male,Associate's Degree,Free/Reduced,Not Completed,9.0,87.7,Yes,6.6,65.6,55.6,59.1,60.1
+STU3388,Male,High School,Free/Reduced,Completed,7.6,93.1,Yes,7.9,71.1,72.8,72.1,72.0
+STU3389,Male,Bachelor's Degree,Free/Reduced,Not Completed,5.5,76.7,No,6.1,70.9,82.1,73.0,75.3
+STU3390,Male,Bachelor's Degree,Standard,Completed,5.7,85.7,No,7.2,97.6,87.7,82.3,89.2
+STU3391,Male,Bachelor's Degree,Free/Reduced,Not Completed,7.6,88.5,Yes,6.5,80.1,75.0,74.6,76.6
+STU3392,Female,High School,Free/Reduced,Not Completed,1.9,94.8,No,6.7,73.7,81.6,84.5,79.9
+STU3393,Female,Associate's Degree,Standard,Completed,12.5,80.5,Yes,7.9,100.0,100.0,91.6,97.2
+STU3394,Male,Associate's Degree,Standard,Not Completed,4.8,97.7,Yes,6.6,91.6,81.7,88.6,87.3
+STU3395,Female,High School,Standard,Not Completed,6.8,90.9,No,7.9,83.1,76.0,75.2,78.1
+STU3396,Female,Master's Degree,Standard,Not Completed,18.7,60.7,No,4.7,84.9,82.4,87.8,85.0
+STU3397,Female,High School,Free/Reduced,Not Completed,12.6,86.4,Yes,5.3,75.2,76.9,58.1,70.1
+STU3398,Female,Master's Degree,Standard,Completed,3.6,91.5,Yes,4.2,89.6,91.1,89.9,90.2
+STU3399,Male,Associate's Degree,Standard,Not Completed,0.6,85.5,No,5.6,70.0,77.5,70.5,72.7
+STU3400,Female,High School,Free/Reduced,Completed,10.8,76.6,No,9.2,75.5,88.0,80.7,81.4
+STU3401,Female,Associate's Degree,Standard,Completed,7.0,47.6,No,7.0,73.5,91.3,78.7,81.2
+STU3402,Male,Bachelor's Degree,Standard,Not Completed,9.0,76.8,Yes,6.1,93.6,87.8,88.1,89.8
+STU3403,Male,Bachelor's Degree,Standard,Completed,12.4,77.5,Yes,7.9,87.9,92.8,90.9,90.5
+STU3404,Female,Bachelor's Degree,Free/Reduced,Not Completed,13.5,85.4,No,8.1,70.0,91.2,89.8,83.7
+STU3405,Female,Bachelor's Degree,Free/Reduced,Not Completed,6.1,77.0,No,5.5,75.4,80.5,67.4,74.4
+STU3406,Female,Bachelor's Degree,Standard,Not Completed,7.5,88.6,Yes,10.0,74.5,74.7,70.3,73.2
+STU3407,Female,Bachelor's Degree,Free/Reduced,Not Completed,10.1,53.7,No,7.3,74.4,74.0,86.0,78.1
+STU3408,Female,High School,Standard,Completed,10.5,97.8,No,7.5,75.8,84.7,81.8,80.8
+STU3409,Female,Associate's Degree,Free/Reduced,Completed,9.0,89.4,Yes,7.6,93.8,89.7,96.4,93.3
+STU3410,Male,High School,Free/Reduced,Not Completed,17.5,96.1,Yes,7.6,91.6,100.0,100.0,97.2
+STU3411,Female,Master's Degree,Free/Reduced,Completed,10.4,76.9,No,6.3,81.8,89.7,89.7,87.1
+STU3412,Female,Master's Degree,Standard,Completed,12.3,88.5,No,9.5,89.2,92.4,82.8,88.1
+STU3413,Male,High School,Free/Reduced,Completed,9.4,84.9,No,6.7,76.7,81.0,78.8,78.8
+STU3414,Male,Bachelor's Degree,Free/Reduced,Not Completed,4.1,77.0,No,8.1,64.3,79.3,67.2,70.3
+STU3415,Male,Master's Degree,Standard,Not Completed,5.3,71.6,Yes,6.4,79.7,90.5,82.6,84.3
+STU3416,Male,High School,Free/Reduced,Completed,3.5,76.0,Yes,6.2,65.8,77.4,64.2,69.1
+STU3417,Female,Associate's Degree,Standard,Not Completed,14.4,79.6,No,9.3,82.1,82.6,74.4,79.7
+STU3418,Female,Master's Degree,Free/Reduced,Completed,2.6,72.1,Yes,6.9,85.2,83.9,84.8,84.6
+STU3419,Female,High School,Standard,Completed,7.3,98.4,No,7.0,87.1,87.2,65.3,79.9
+STU3420,Female,Bachelor's Degree,Free/Reduced,Not Completed,6.3,88.0,No,7.3,84.2,79.1,84.3,82.5
+STU3421,Female,High School,Standard,Not Completed,6.2,42.0,No,10.0,85.1,87.0,73.8,82.0
+STU3422,Female,Master's Degree,Standard,Not Completed,6.6,74.4,Yes,9.6,68.5,79.4,67.9,71.9
+STU3423,Male,Master's Degree,Standard,Completed,19.4,82.2,No,8.5,83.5,100.0,96.3,93.3
+STU3424,Female,Master's Degree,Standard,Not Completed,1.8,77.4,No,10.0,83.0,79.4,73.5,78.6
+STU3425,Male,Associate's Degree,Standard,Not Completed,16.3,78.4,No,5.9,73.2,78.2,74.5,75.3
+STU3426,Male,Bachelor's Degree,Standard,Not Completed,7.0,59.8,No,7.8,71.5,72.0,72.6,72.0
+STU3427,Female,Bachelor's Degree,Standard,Not Completed,13.0,85.3,Yes,7.1,79.3,79.1,76.0,78.1
+STU3428,Male,High School,Standard,Not Completed,8.4,85.7,Yes,4.9,77.2,80.3,77.4,78.3
+STU3429,Female,Bachelor's Degree,Standard,Not Completed,3.7,69.1,Yes,7.6,76.7,66.1,65.5,69.4
+STU3430,Male,High School,Free/Reduced,Not Completed,17.2,88.2,Yes,6.4,90.0,88.1,81.6,86.6
+STU3431,Female,Associate's Degree,Standard,Not Completed,15.7,78.7,No,8.8,86.6,88.9,83.0,86.2
+STU3432,Male,High School,Free/Reduced,Not Completed,3.9,91.6,No,6.5,65.1,66.9,58.1,63.4
+STU3433,Female,High School,Free/Reduced,Not Completed,11.3,57.1,No,6.5,71.1,75.1,67.8,71.3
+STU3434,Female,High School,Free/Reduced,Not Completed,5.4,97.1,No,8.8,70.9,61.2,60.7,64.3
+STU3435,Female,Bachelor's Degree,Standard,Completed,2.7,65.2,Yes,6.9,79.8,84.3,89.2,84.4
+STU3436,Female,High School,Free/Reduced,Completed,4.8,73.8,No,8.4,60.4,60.1,57.0,59.2
+STU3437,Female,Bachelor's Degree,Standard,Not Completed,16.6,71.3,Yes,7.5,78.1,75.4,64.3,72.6
+STU3438,Male,High School,Standard,Not Completed,13.2,69.5,Yes,7.5,60.6,68.5,59.0,62.7
+STU3439,Male,High School,Standard,Not Completed,6.6,82.6,No,6.7,78.5,71.4,81.1,77.0
+STU3440,Male,Associate's Degree,Free/Reduced,Completed,16.7,40.2,No,7.6,86.8,77.9,90.7,85.1
+STU3441,Female,Bachelor's Degree,Standard,Not Completed,15.0,91.5,No,6.8,100.0,97.8,91.1,96.3
+STU3442,Male,High School,Standard,Completed,4.8,86.8,Yes,6.0,85.1,80.1,77.8,81.0
+STU3443,Female,Associate's Degree,Free/Reduced,Not Completed,18.9,65.4,No,6.9,80.6,90.1,80.9,83.9
+STU3444,Female,Bachelor's Degree,Free/Reduced,Not Completed,6.3,65.7,Yes,8.5,94.4,91.8,90.9,92.4
+STU3445,Male,Associate's Degree,Standard,Not Completed,6.9,82.4,Yes,7.6,91.9,93.7,81.3,89.0
+STU3446,Male,High School,Standard,Not Completed,1.9,89.5,No,7.9,78.9,81.3,71.6,77.3
+STU3447,Female,High School,Free/Reduced,Not Completed,5.4,76.4,No,7.0,62.7,64.1,76.5,67.8
+STU3448,Male,Bachelor's Degree,Standard,Not Completed,7.3,67.1,No,4.7,71.5,82.1,70.2,74.6
+STU3449,Female,High School,Standard,Completed,9.6,96.2,No,5.5,76.5,79.0,75.8,77.1
+STU3450,Female,Bachelor's Degree,Standard,Not Completed,3.7,58.3,No,6.7,72.2,81.9,73.5,75.9
+STU3451,Female,Associate's Degree,Free/Reduced,Not Completed,4.9,84.3,No,5.6,61.6,65.3,63.4,63.4
+STU3452,Female,Master's Degree,Free/Reduced,Not Completed,19.2,80.2,No,6.4,94.4,88.9,87.3,90.2
+STU3453,Female,Bachelor's Degree,Free/Reduced,Completed,14.5,97.1,No,6.3,86.8,94.3,80.8,87.3
+STU3454,Male,Master's Degree,Free/Reduced,Not Completed,16.0,79.4,No,6.4,91.5,100.0,92.1,94.5
+STU3455,Male,Associate's Degree,Standard,Completed,7.7,94.3,No,8.7,93.1,92.2,82.5,89.3
+STU3456,Female,Bachelor's Degree,Standard,Not Completed,9.8,91.7,Yes,6.9,79.5,88.3,82.2,83.3
+STU3457,Female,Associate's Degree,Standard,Not Completed,11.4,67.2,No,8.1,72.7,80.7,83.3,78.9
+STU3458,Male,Associate's Degree,Standard,Not Completed,19.0,79.9,No,7.2,81.0,81.1,76.6,79.6
+STU3459,Male,Associate's Degree,Standard,Not Completed,2.6,74.8,Yes,8.7,69.6,64.8,79.7,71.4
+STU3460,Female,Bachelor's Degree,Free/Reduced,Completed,5.7,83.8,No,8.2,76.2,76.9,82.1,78.4
+STU3461,Male,Master's Degree,Standard,Completed,9.3,73.2,Yes,6.3,100.0,98.5,100.0,99.5
+STU3462,Female,Bachelor's Degree,Free/Reduced,Not Completed,8.4,60.6,No,9.4,80.5,81.4,75.4,79.1
+STU3463,Male,Associate's Degree,Standard,Not Completed,4.9,96.3,No,6.5,81.6,77.2,79.3,79.4
+STU3464,Female,Associate's Degree,Standard,Completed,10.9,78.4,Yes,7.2,80.7,88.3,96.3,88.4
+STU3465,Male,Bachelor's Degree,Standard,Not Completed,5.9,93.2,Yes,7.5,79.4,81.9,86.1,82.5
+STU3466,Female,High School,Standard,Not Completed,8.1,67.2,No,7.6,91.8,84.6,80.4,85.6
+STU3467,Male,High School,Free/Reduced,Not Completed,10.6,93.0,Yes,8.0,81.0,80.5,83.7,81.7
+STU3468,Male,Associate's Degree,Standard,Not Completed,6.1,84.1,Yes,6.1,88.4,80.1,83.5,84.0
+STU3469,Female,High School,Standard,Completed,12.6,79.2,Yes,7.9,86.0,83.8,76.6,82.1
+STU3470,Male,High School,Standard,Completed,13.9,86.6,No,7.7,88.3,88.6,86.9,87.9
+STU3471,Female,High School,Standard,Not Completed,5.0,73.7,No,7.0,88.8,84.4,86.9,86.7
+STU3472,Male,High School,Standard,Not Completed,5.9,94.2,No,6.8,87.3,82.7,87.5,85.8
+STU3473,Female,High School,Free/Reduced,Not Completed,4.1,87.3,No,6.0,61.7,72.7,74.9,69.8
+STU3474,Male,Master's Degree,Free/Reduced,Not Completed,8.0,74.1,No,7.6,80.3,80.8,83.0,81.4
+STU3475,Female,Associate's Degree,Standard,Not Completed,9.6,81.5,No,6.2,63.9,82.2,73.5,73.2
+STU3476,Male,Associate's Degree,Free/Reduced,Not Completed,6.4,82.3,Yes,7.3,68.2,67.7,67.8,67.9
+STU3477,Female,Bachelor's Degree,Standard,Not Completed,9.4,79.9,No,6.9,79.9,83.4,71.1,78.1
+STU3478,Male,High School,Standard,Not Completed,5.8,96.6,No,5.4,72.7,75.3,66.2,71.4
+STU3479,Female,Master's Degree,Standard,Not Completed,5.9,94.1,No,5.9,83.9,76.7,80.2,80.3
+STU3480,Female,Bachelor's Degree,Standard,Completed,9.9,95.8,Yes,7.5,100.0,100.0,100.0,100.0
+STU3481,Female,High School,Standard,Not Completed,6.1,86.7,Yes,6.4,81.3,83.5,84.0,82.9
+STU3482,Male,Associate's Degree,Standard,Completed,7.7,78.4,Yes,6.3,81.0,83.3,80.5,81.6
+STU3483,Female,Bachelor's Degree,Standard,Not Completed,10.1,64.0,Yes,6.1,82.1,79.9,84.5,82.2
+STU3484,Male,Master's Degree,Standard,Not Completed,9.4,72.5,No,6.1,82.9,84.9,99.6,89.1
+STU3485,Female,Associate's Degree,Standard,Not Completed,5.8,82.8,Yes,9.0,66.8,71.2,64.9,67.6
+STU3486,Male,Associate's Degree,Free/Reduced,Completed,14.7,87.9,No,5.7,84.1,73.1,74.1,77.1
+STU3487,Female,High School,Standard,Completed,2.5,75.7,Yes,8.8,69.2,67.7,75.6,70.8
+STU3488,Male,Master's Degree,Standard,Completed,0.5,89.2,Yes,6.6,89.4,88.8,89.3,89.2
+STU3489,Male,High School,Standard,Not Completed,11.1,79.8,No,6.2,81.3,91.7,75.0,82.7
+STU3490,Female,Master's Degree,Standard,Completed,9.3,78.3,Yes,7.5,85.6,88.8,83.2,85.9
+STU3491,Male,Associate's Degree,Standard,Not Completed,3.8,67.6,No,7.1,64.4,59.0,59.1,60.8
+STU3492,Male,Associate's Degree,Standard,Not Completed,8.6,93.2,Yes,6.8,72.7,75.8,73.5,74.0
+STU3493,Female,Associate's Degree,Standard,Not Completed,5.3,74.3,Yes,7.3,79.8,66.8,70.2,72.3
+STU3494,Male,High School,Standard,Not Completed,10.7,83.8,No,7.0,73.5,78.4,72.3,74.7
+STU3495,Male,High School,Standard,Completed,0.6,66.1,No,6.7,48.7,58.7,46.0,51.1
+STU3496,Male,High School,Standard,Not Completed,6.8,80.5,Yes,8.1,94.1,92.4,92.8,93.1
+STU3497,Female,High School,Standard,Not Completed,5.6,64.1,Yes,5.3,40.0,51.3,46.9,46.1
+STU3498,Male,Bachelor's Degree,Standard,Completed,12.6,91.7,No,5.9,92.5,94.3,92.7,93.2
+STU3499,Female,Associate's Degree,Standard,Not Completed,1.9,89.8,No,6.1,80.4,85.9,76.6,81.0
+STU3500,Male,High School,Free/Reduced,Completed,8.2,67.9,No,5.7,73.6,67.9,60.2,67.2
+STU3501,Male,Master's Degree,Standard,Not Completed,11.1,68.5,Yes,7.1,100.0,95.2,92.2,95.8
+STU3502,Male,Bachelor's Degree,Standard,Not Completed,21.0,99.8,No,7.6,93.6,100.0,94.4,96.0
+STU3503,Female,Master's Degree,Standard,Completed,5.9,76.7,Yes,4.6,89.4,86.4,89.9,88.6
+STU3504,Male,Master's Degree,Free/Reduced,Not Completed,9.7,87.9,Yes,6.4,63.3,61.2,73.8,66.1
+STU3505,Male,High School,Standard,Not Completed,2.0,90.7,No,6.6,77.4,88.4,73.5,79.8
+STU3506,Female,Associate's Degree,Standard,Not Completed,8.0,72.0,Yes,6.7,85.0,85.3,79.0,83.1
+STU3507,Male,Bachelor's Degree,Standard,Not Completed,15.3,95.0,Yes,5.5,77.2,68.3,65.3,70.3
+STU3508,Female,Bachelor's Degree,Standard,Not Completed,21.1,72.8,Yes,6.6,100.0,100.0,100.0,100.0
+STU3509,Female,High School,Standard,Completed,10.2,82.4,Yes,5.9,89.5,96.6,99.2,95.1
+STU3510,Male,Bachelor's Degree,Standard,Completed,2.5,81.6,No,6.6,76.2,82.9,59.7,72.9
+STU3511,Female,High School,Free/Reduced,Completed,16.6,75.7,No,4.9,87.0,85.2,80.6,84.3
+STU3512,Male,High School,Standard,Not Completed,2.5,95.6,Yes,6.6,71.1,70.3,62.0,67.8
+STU3513,Female,Associate's Degree,Free/Reduced,Not Completed,3.5,60.5,No,6.1,54.4,63.4,57.8,58.5
+STU3514,Female,Associate's Degree,Free/Reduced,Not Completed,17.4,80.0,No,6.7,85.6,80.3,76.9,80.9
+STU3515,Male,Associate's Degree,Standard,Not Completed,7.6,96.4,No,7.4,71.2,84.7,75.0,77.0
+STU3516,Female,High School,Standard,Completed,5.4,73.1,Yes,6.9,73.1,71.3,77.2,73.9
+STU3517,Female,Bachelor's Degree,Standard,Completed,11.9,90.7,No,8.0,84.1,91.8,89.7,88.5
+STU3518,Female,High School,Standard,Completed,8.8,56.1,No,6.6,75.5,78.4,70.5,74.8
+STU3519,Female,High School,Standard,Completed,14.5,63.2,Yes,7.7,89.4,89.7,92.4,90.5
+STU3520,Female,Bachelor's Degree,Free/Reduced,Completed,9.1,86.0,Yes,8.3,89.9,100.0,89.8,93.2
+STU3521,Male,Master's Degree,Free/Reduced,Not Completed,9.2,68.2,Yes,7.3,69.2,70.9,67.5,69.2
+STU3522,Female,Bachelor's Degree,Standard,Completed,14.2,79.2,No,7.0,95.7,97.7,87.5,93.6
+STU3523,Male,Bachelor's Degree,Standard,Completed,7.6,80.9,Yes,7.5,100.0,95.2,98.8,98.0
+STU3524,Female,Bachelor's Degree,Free/Reduced,Completed,4.4,96.8,No,7.4,72.9,90.2,90.1,84.4
+STU3525,Male,Associate's Degree,Free/Reduced,Completed,12.3,77.7,Yes,8.2,92.7,95.3,82.0,90.0
+STU3526,Male,High School,Free/Reduced,Not Completed,6.7,80.7,No,8.0,73.8,79.4,74.0,75.7
+STU3527,Female,Associate's Degree,Standard,Not Completed,9.5,89.1,Yes,8.0,77.8,92.1,84.4,84.8
+STU3528,Female,Associate's Degree,Standard,Not Completed,1.7,76.4,No,7.1,65.9,69.6,67.2,67.6
+STU3529,Female,High School,Standard,Not Completed,7.4,87.0,No,7.4,73.1,74.5,78.7,75.4
+STU3530,Male,Bachelor's Degree,Standard,Completed,5.7,97.0,Yes,7.4,96.0,92.6,93.5,94.0
+STU3531,Female,Associate's Degree,Standard,Not Completed,1.6,68.0,No,5.6,64.0,63.6,55.5,61.0
+STU3532,Male,High School,Standard,Completed,7.5,83.6,Yes,8.3,80.4,86.7,74.0,80.4
+STU3533,Male,High School,Free/Reduced,Completed,7.7,70.9,No,5.0,65.9,83.6,81.5,77.0
+STU3534,Male,Bachelor's Degree,Standard,Completed,9.9,49.0,No,7.9,81.1,93.8,86.1,87.0
+STU3535,Female,High School,Standard,Completed,15.1,75.9,Yes,7.3,84.5,94.9,97.3,92.2
+STU3536,Female,Bachelor's Degree,Standard,Completed,13.8,93.1,Yes,6.7,100.0,97.0,97.4,98.1
+STU3537,Male,Associate's Degree,Standard,Completed,6.0,84.8,Yes,7.5,83.1,79.3,81.3,81.2
+STU3538,Male,Associate's Degree,Standard,Not Completed,8.9,59.4,No,7.5,78.6,81.2,76.3,78.7
+STU3539,Female,Associate's Degree,Standard,Completed,10.8,92.3,No,5.4,85.8,83.8,82.0,83.9
+STU3540,Male,Bachelor's Degree,Free/Reduced,Completed,6.1,94.9,No,8.7,80.1,84.9,75.8,80.3
+STU3541,Female,High School,Standard,Not Completed,2.7,75.8,Yes,7.1,65.4,67.4,63.8,65.5
+STU3542,Male,Bachelor's Degree,Standard,Completed,7.0,61.5,Yes,9.8,89.8,100.0,82.9,90.9
+STU3543,Female,Associate's Degree,Standard,Completed,15.5,73.2,No,7.9,89.0,100.0,94.4,94.5
+STU3544,Male,High School,Free/Reduced,Not Completed,2.6,90.0,Yes,7.1,55.0,61.2,53.1,56.4
+STU3545,Female,Bachelor's Degree,Free/Reduced,Completed,4.1,73.3,No,6.2,76.4,78.8,60.4,71.9
+STU3546,Male,Bachelor's Degree,Free/Reduced,Completed,4.7,88.8,Yes,6.9,76.1,73.7,72.7,74.2
+STU3547,Female,Bachelor's Degree,Standard,Not Completed,4.1,92.9,Yes,7.2,67.5,66.9,70.4,68.3
+STU3548,Female,Bachelor's Degree,Standard,Completed,12.0,89.3,No,8.8,91.2,92.8,100.0,94.7
+STU3549,Male,Bachelor's Degree,Standard,Not Completed,5.3,84.6,No,8.5,77.3,81.7,75.2,78.1
+STU3550,Male,Bachelor's Degree,Standard,Not Completed,12.1,89.1,No,7.5,100.0,100.0,100.0,100.0
+STU3551,Female,Bachelor's Degree,Free/Reduced,Completed,8.2,59.5,Yes,9.1,82.2,82.4,74.3,79.6
+STU3552,Male,Bachelor's Degree,Standard,Not Completed,2.1,60.7,Yes,4.6,61.8,45.5,57.8,55.0
+STU3553,Female,Bachelor's Degree,Free/Reduced,Not Completed,6.2,77.3,No,7.6,65.5,74.7,73.4,71.2
+STU3554,Male,Associate's Degree,Free/Reduced,Completed,14.0,82.8,No,8.5,85.2,82.5,93.2,87.0
+STU3555,Female,Bachelor's Degree,Standard,Not Completed,8.8,83.2,No,7.7,83.4,85.9,79.2,82.8
+STU3556,Female,High School,Free/Reduced,Completed,6.5,89.1,Yes,5.4,77.8,88.3,74.4,80.2
+STU3557,Female,Bachelor's Degree,Standard,Not Completed,15.6,82.2,No,8.7,100.0,100.0,100.0,100.0
+STU3558,Female,Bachelor's Degree,Standard,Completed,3.8,58.8,No,7.9,63.4,76.3,69.0,69.6
+STU3559,Female,High School,Standard,Not Completed,5.4,89.4,No,7.4,74.8,72.1,71.7,72.9
+STU3560,Female,Bachelor's Degree,Standard,Completed,13.3,78.2,No,7.1,85.8,96.4,90.3,90.8
+STU3561,Male,High School,Standard,Not Completed,11.8,76.4,Yes,9.4,76.9,84.9,85.9,82.6
+STU3562,Male,High School,Standard,Completed,3.6,55.4,No,7.5,93.4,86.6,85.8,88.6
+STU3563,Male,Bachelor's Degree,Standard,Not Completed,10.5,68.0,No,6.7,97.0,100.0,81.5,92.8
+STU3564,Female,High School,Standard,Not Completed,5.2,72.1,No,6.0,58.9,58.1,60.8,59.3
+STU3565,Female,Bachelor's Degree,Standard,Not Completed,1.6,62.9,No,7.9,75.5,83.6,67.5,75.5
+STU3566,Female,Bachelor's Degree,Standard,Not Completed,6.5,63.0,No,8.2,50.9,64.9,68.7,61.5
+STU3567,Female,Associate's Degree,Standard,Not Completed,21.8,89.9,No,7.1,71.8,80.7,77.0,76.5
+STU3568,Male,High School,Standard,Not Completed,14.1,85.1,Yes,6.3,77.5,79.6,75.3,77.5
+STU3569,Male,High School,Free/Reduced,Not Completed,7.8,72.6,Yes,8.6,75.7,76.8,72.2,74.9
+STU3570,Female,Associate's Degree,Free/Reduced,Completed,2.5,72.1,Yes,5.9,71.3,69.8,71.9,71.0
+STU3571,Male,Master's Degree,Free/Reduced,Not Completed,1.6,87.7,Yes,9.4,91.1,97.4,92.1,93.5
+STU3572,Male,Associate's Degree,Free/Reduced,Not Completed,8.2,71.0,Yes,6.1,78.6,77.6,80.7,79.0
+STU3573,Female,High School,Standard,Not Completed,10.1,82.5,Yes,5.5,76.0,73.3,74.0,74.4
+STU3574,Male,Associate's Degree,Free/Reduced,Not Completed,12.0,91.5,Yes,5.6,82.2,82.4,84.9,83.2
+STU3575,Female,Associate's Degree,Standard,Completed,11.3,95.1,Yes,5.7,86.6,84.6,87.4,86.2
+STU3576,Male,Bachelor's Degree,Standard,Completed,11.8,69.4,Yes,6.7,98.0,100.0,97.1,98.4
+STU3577,Female,High School,Free/Reduced,Not Completed,9.4,75.4,Yes,6.4,75.0,79.7,76.7,77.1
+STU3578,Female,Bachelor's Degree,Standard,Not Completed,15.4,88.4,No,8.2,76.3,86.6,88.6,83.8
+STU3579,Female,Associate's Degree,Free/Reduced,Not Completed,5.7,89.7,No,8.1,82.9,87.5,72.9,81.1
+STU3580,Female,Master's Degree,Free/Reduced,Not Completed,8.2,80.9,Yes,6.7,99.7,99.2,98.2,99.0
+STU3581,Male,High School,Free/Reduced,Not Completed,2.1,53.9,No,10.0,56.0,67.9,58.7,60.9
+STU3582,Female,Associate's Degree,Free/Reduced,Completed,5.6,78.3,No,6.7,81.7,75.3,77.3,78.1
+STU3583,Female,Master's Degree,Standard,Not Completed,13.9,71.5,Yes,6.9,100.0,100.0,100.0,100.0
+STU3584,Female,High School,Standard,Not Completed,11.6,90.4,No,5.5,96.3,83.2,90.1,89.9
+STU3585,Male,Master's Degree,Standard,Completed,1.1,95.5,No,6.9,90.0,86.2,83.9,86.7
+STU3586,Female,Bachelor's Degree,Standard,Not Completed,22.8,77.2,No,7.4,99.4,100.0,100.0,99.8
+STU3587,Male,High School,Standard,Not Completed,8.8,75.2,Yes,5.6,79.1,78.0,77.5,78.2
+STU3588,Female,High School,Free/Reduced,Completed,8.9,82.6,No,6.4,77.3,75.6,76.8,76.6
+STU3589,Male,Bachelor's Degree,Free/Reduced,Completed,5.4,90.1,Yes,7.4,83.0,85.7,84.1,84.3
+STU3590,Male,High School,Standard,Not Completed,6.2,77.9,No,6.4,82.7,79.2,78.1,80.0
+STU3591,Female,Associate's Degree,Standard,Completed,8.7,93.8,No,6.1,91.7,97.2,100.0,96.3
+STU3592,Male,High School,Standard,Not Completed,11.2,67.8,No,7.9,88.3,90.3,88.3,89.0
+STU3593,Female,Associate's Degree,Standard,Not Completed,9.7,82.4,No,5.5,73.2,73.5,69.7,72.1
+STU3594,Female,High School,Free/Reduced,Not Completed,5.7,93.3,Yes,5.7,54.4,60.4,47.2,54.0
+STU3595,Female,Bachelor's Degree,Standard,Not Completed,4.3,79.5,No,7.2,87.7,75.0,82.5,81.7
+STU3596,Male,Master's Degree,Standard,Completed,4.1,80.1,No,8.0,83.2,84.1,74.6,80.6
+STU3597,Male,Master's Degree,Standard,Not Completed,14.5,64.5,Yes,7.4,91.5,93.6,89.8,91.6
+STU3598,Female,Bachelor's Degree,Standard,Completed,13.6,91.0,No,6.7,96.7,98.8,96.0,97.2
+STU3599,Female,High School,Standard,Not Completed,10.6,89.1,Yes,6.6,86.1,68.5,78.3,77.6
+STU3600,Male,Bachelor's Degree,Standard,Completed,14.5,76.0,Yes,8.2,78.6,79.4,84.9,81.0
+STU3601,Female,High School,Standard,Not Completed,7.4,98.8,No,8.0,72.9,90.7,79.6,81.1
+STU3602,Female,High School,Standard,Completed,12.9,86.7,Yes,7.1,98.4,88.1,99.3,95.3
+STU3603,Female,High School,Standard,Completed,11.0,79.8,No,6.7,84.3,92.0,89.3,88.5
+STU3604,Male,Associate's Degree,Free/Reduced,Completed,13.1,82.6,Yes,7.0,94.6,95.1,94.3,94.7
+STU3605,Male,Bachelor's Degree,Standard,Completed,3.9,86.7,Yes,6.1,87.4,75.8,74.4,79.2
+STU3606,Male,Bachelor's Degree,Standard,Not Completed,0.9,74.3,No,6.8,77.1,74.3,68.2,73.2
+STU3607,Female,Associate's Degree,Standard,Completed,9.4,63.1,Yes,6.4,100.0,100.0,93.1,97.7
+STU3608,Female,High School,Free/Reduced,Not Completed,6.4,90.5,No,6.9,70.5,89.3,61.4,73.7
+STU3609,Female,Master's Degree,Standard,Not Completed,1.3,80.4,No,6.5,88.4,92.4,89.3,90.0
+STU3610,Male,Associate's Degree,Free/Reduced,Not Completed,15.9,70.2,No,7.6,72.8,84.7,87.6,81.7
+STU3611,Female,Associate's Degree,Standard,Completed,13.6,78.6,No,8.0,87.2,79.5,89.6,85.4
+STU3612,Female,High School,Standard,Completed,9.8,65.5,No,6.5,78.2,83.1,86.7,82.7
+STU3613,Female,Bachelor's Degree,Standard,Not Completed,4.5,91.5,Yes,6.0,80.3,76.4,92.4,83.0
+STU3614,Female,Bachelor's Degree,Standard,Completed,2.1,92.6,No,7.9,98.3,90.8,96.4,95.2
+STU3615,Male,High School,Free/Reduced,Completed,1.3,88.5,Yes,7.2,74.2,76.1,73.1,74.5
+STU3616,Male,High School,Standard,Not Completed,5.6,72.0,No,6.6,70.4,74.9,74.2,73.2
+STU3617,Female,Bachelor's Degree,Standard,Not Completed,11.9,76.8,No,8.7,100.0,100.0,95.3,98.4
+STU3618,Male,Bachelor's Degree,Standard,Not Completed,6.4,90.5,No,6.3,81.2,83.4,78.2,80.9
+STU3619,Male,High School,Standard,Completed,10.7,88.7,No,4.6,71.7,64.8,63.1,66.5
+STU3620,Female,Master's Degree,Standard,Not Completed,11.0,72.1,No,6.2,95.1,96.8,88.1,93.3
+STU3621,Female,High School,Standard,Completed,11.8,66.4,No,8.9,76.8,88.3,89.8,85.0
+STU3622,Male,Associate's Degree,Free/Reduced,Completed,1.8,87.2,No,6.6,90.6,80.4,83.7,84.9
+STU3623,Female,Master's Degree,Standard,Not Completed,4.8,75.9,Yes,6.4,72.4,65.7,72.9,70.3
+STU3624,Male,Associate's Degree,Standard,Completed,10.6,86.8,Yes,7.0,83.4,86.5,86.7,85.5
+STU3625,Female,Associate's Degree,Free/Reduced,Completed,17.8,91.4,No,8.2,94.6,82.6,87.5,88.2
+STU3626,Male,Associate's Degree,Standard,Completed,15.1,70.2,No,6.9,100.0,97.0,100.0,99.0
+STU3627,Female,High School,Free/Reduced,Not Completed,9.5,91.9,Yes,7.7,77.6,86.1,81.6,81.8
+STU3628,Male,Master's Degree,Standard,Not Completed,16.0,43.8,Yes,6.8,85.7,95.0,89.8,90.2
+STU3629,Male,Associate's Degree,Free/Reduced,Not Completed,9.5,81.1,Yes,7.7,81.6,81.4,71.7,78.2
+STU3630,Male,Bachelor's Degree,Standard,Not Completed,2.6,88.5,No,7.2,63.2,75.3,73.5,70.7
+STU3631,Female,High School,Free/Reduced,Completed,11.7,72.6,No,6.5,88.8,86.6,91.8,89.1
+STU3632,Male,High School,Free/Reduced,Not Completed,15.3,74.9,Yes,7.3,89.3,92.8,86.4,89.5
+STU3633,Male,High School,Standard,Completed,20.9,94.2,Yes,6.3,100.0,100.0,100.0,100.0
+STU3634,Female,Bachelor's Degree,Free/Reduced,Completed,5.5,66.5,Yes,5.3,89.5,82.3,86.2,86.0
+STU3635,Female,Associate's Degree,Standard,Not Completed,3.6,82.5,Yes,7.0,80.3,81.9,76.3,79.5
+STU3636,Male,Bachelor's Degree,Standard,Not Completed,12.9,67.7,Yes,5.5,84.6,89.8,82.4,85.6
+STU3637,Male,Associate's Degree,Standard,Completed,10.2,82.4,No,7.7,91.3,83.1,81.8,85.4
+STU3638,Female,Master's Degree,Standard,Completed,9.7,77.8,No,7.0,100.0,100.0,100.0,100.0
+STU3639,Female,High School,Standard,Completed,16.1,97.1,Yes,8.7,95.9,99.0,93.2,96.0
+STU3640,Female,Bachelor's Degree,Standard,Completed,12.9,74.6,Yes,6.6,93.6,87.3,74.5,85.1
+STU3641,Female,Bachelor's Degree,Standard,Not Completed,10.8,63.9,Yes,7.0,82.7,88.8,82.8,84.8
+STU3642,Female,Bachelor's Degree,Free/Reduced,Not Completed,5.9,86.6,No,5.2,72.9,68.0,75.7,72.2
+STU3643,Male,Bachelor's Degree,Free/Reduced,Not Completed,12.3,81.0,Yes,5.7,75.7,73.9,70.8,73.5
+STU3644,Female,Bachelor's Degree,Standard,Not Completed,3.5,76.6,Yes,5.0,68.9,77.0,80.6,75.5
+STU3645,Male,Associate's Degree,Standard,Completed,9.5,75.6,Yes,8.3,86.0,90.9,89.3,88.7
+STU3646,Male,High School,Standard,Not Completed,7.8,84.3,No,6.4,84.1,78.4,76.7,79.7
+STU3647,Male,High School,Standard,Not Completed,2.5,71.7,No,8.6,67.8,75.6,65.9,69.8
+STU3648,Female,Master's Degree,Standard,Not Completed,10.2,87.7,No,4.0,84.7,82.3,86.4,84.5
+STU3649,Male,Associate's Degree,Standard,Not Completed,5.5,86.2,Yes,8.9,68.2,72.0,73.4,71.2
+STU3650,Male,Bachelor's Degree,Standard,Not Completed,10.1,86.7,No,6.9,85.8,71.8,78.6,78.7
+STU3651,Female,Associate's Degree,Free/Reduced,Completed,4.2,74.8,No,7.4,80.6,73.9,79.9,78.1
+STU3652,Male,High School,Standard,Not Completed,13.0,82.4,Yes,5.7,66.9,68.6,70.5,68.7
+STU3653,Male,High School,Standard,Completed,19.4,77.9,Yes,7.6,80.3,92.4,88.0,86.9
+STU3654,Female,Bachelor's Degree,Standard,Completed,3.5,86.9,No,6.6,81.5,90.9,72.8,81.7
+STU3655,Male,Associate's Degree,Standard,Completed,4.2,46.8,Yes,5.6,66.8,79.3,70.3,72.1
+STU3656,Male,High School,Standard,Completed,3.0,81.9,Yes,5.6,85.9,72.5,80.0,79.5
+STU3657,Male,Associate's Degree,Standard,Not Completed,7.0,77.8,No,5.5,73.4,71.0,74.6,73.0
+STU3658,Female,High School,Standard,Not Completed,10.0,69.7,No,7.5,88.0,80.1,82.4,83.5
+STU3659,Female,Associate's Degree,Standard,Not Completed,11.9,93.7,Yes,6.2,88.2,79.2,89.6,85.7
+STU3660,Female,High School,Free/Reduced,Not Completed,9.4,73.4,No,5.0,67.7,71.0,76.9,71.9
+STU3661,Male,Bachelor's Degree,Free/Reduced,Not Completed,11.7,76.8,No,7.4,91.6,99.1,88.5,93.1
+STU3662,Male,High School,Standard,Completed,7.7,77.4,Yes,4.4,87.1,79.8,90.6,85.8
+STU3663,Female,Associate's Degree,Standard,Completed,5.4,87.5,No,8.6,87.2,91.5,93.0,90.6
+STU3664,Male,High School,Standard,Not Completed,4.2,87.8,Yes,9.4,76.1,73.6,65.1,71.6
+STU3665,Male,High School,Standard,Not Completed,7.2,76.7,Yes,5.4,66.7,76.3,68.2,70.4
+STU3666,Female,Associate's Degree,Standard,Not Completed,4.3,80.2,No,8.3,79.6,80.6,78.3,79.5
+STU3667,Female,Associate's Degree,Standard,Completed,9.8,94.0,Yes,7.4,83.0,88.6,75.7,82.4
+STU3668,Male,Associate's Degree,Standard,Completed,4.4,85.6,Yes,6.4,62.7,64.5,61.2,62.8
+STU3669,Male,High School,Standard,Not Completed,5.8,77.5,Yes,6.5,72.8,73.3,78.0,74.7
+STU3670,Male,Bachelor's Degree,Standard,Completed,14.5,80.2,No,7.8,100.0,100.0,99.8,99.9
+STU3671,Female,Bachelor's Degree,Free/Reduced,Completed,15.3,85.8,No,7.0,82.4,90.6,86.8,86.6
+STU3672,Female,Bachelor's Degree,Free/Reduced,Not Completed,15.0,71.6,Yes,4.0,73.4,87.0,77.5,79.3
+STU3673,Female,High School,Free/Reduced,Completed,7.7,76.4,No,9.5,71.9,69.5,84.9,75.4
+STU3674,Female,Associate's Degree,Standard,Not Completed,5.6,54.3,Yes,7.5,55.8,63.0,51.6,56.8
+STU3675,Male,High School,Free/Reduced,Completed,10.7,74.5,No,6.9,84.9,73.1,74.0,77.3
+STU3676,Female,High School,Standard,Completed,4.4,95.6,Yes,6.1,67.7,77.0,69.1,71.3
+STU3677,Female,Master's Degree,Free/Reduced,Completed,12.2,63.6,No,6.8,91.9,91.7,91.7,91.8
+STU3678,Female,High School,Standard,Not Completed,5.3,29.7,No,8.5,51.7,63.8,46.8,54.1
+STU3679,Female,Associate's Degree,Free/Reduced,Completed,7.0,62.2,No,7.3,61.6,64.0,70.0,65.2
+STU3680,Female,Associate's Degree,Standard,Not Completed,12.4,65.2,Yes,7.5,65.4,77.7,71.5,71.5
+STU3681,Male,Bachelor's Degree,Free/Reduced,Completed,2.0,79.2,No,5.5,80.6,76.5,74.6,77.2
+STU3682,Male,Associate's Degree,Free/Reduced,Not Completed,5.4,57.2,Yes,6.6,65.0,62.1,58.5,61.9
+STU3683,Female,High School,Standard,Completed,10.0,62.9,No,7.1,76.3,75.8,71.3,74.5
+STU3684,Male,High School,Standard,Not Completed,11.2,89.4,Yes,7.8,88.7,94.1,82.1,88.3
+STU3685,Female,Associate's Degree,Free/Reduced,Not Completed,10.2,88.7,Yes,6.5,80.6,79.6,76.9,79.0
+STU3686,Female,High School,Standard,Not Completed,6.9,74.5,Yes,8.1,56.7,58.9,41.9,52.5
+STU3687,Male,Associate's Degree,Free/Reduced,Completed,13.1,58.7,Yes,5.6,99.6,86.3,79.1,88.3
+STU3688,Male,High School,Standard,Completed,4.1,84.4,No,7.1,76.2,75.4,79.3,77.0
+STU3689,Female,High School,Standard,Completed,4.0,92.6,No,6.9,95.5,85.6,90.6,90.6
+STU3690,Female,Associate's Degree,Standard,Not Completed,9.9,93.1,No,5.2,82.3,78.7,93.2,84.7
+STU3691,Female,High School,Standard,Not Completed,3.8,80.1,No,6.9,85.6,89.1,87.4,87.4
+STU3692,Male,Associate's Degree,Free/Reduced,Not Completed,19.7,87.7,No,6.3,91.5,84.5,85.1,87.0
+STU3693,Female,Bachelor's Degree,Standard,Completed,5.5,72.4,Yes,8.7,46.9,75.7,52.0,58.2
+STU3694,Female,Bachelor's Degree,Standard,Completed,12.9,71.4,Yes,6.5,85.1,79.4,88.1,84.2
+STU3695,Female,High School,Standard,Completed,3.4,89.3,Yes,7.4,78.5,85.0,73.6,79.0
+STU3696,Male,High School,Standard,Not Completed,17.4,88.0,Yes,5.5,97.7,87.7,82.1,89.2
+STU3697,Female,High School,Free/Reduced,Not Completed,8.1,77.4,Yes,7.3,69.5,69.9,74.6,71.3
+STU3698,Female,Associate's Degree,Free/Reduced,Not Completed,5.4,61.8,Yes,6.5,61.2,62.5,61.9,61.9
+STU3699,Male,Bachelor's Degree,Standard,Completed,6.6,87.8,Yes,6.1,87.7,93.3,82.3,87.8
+STU3700,Female,High School,Free/Reduced,Not Completed,4.9,87.7,Yes,10.0,62.9,75.5,59.9,66.1
+STU3701,Female,Master's Degree,Free/Reduced,Not Completed,7.0,89.4,No,6.6,78.5,82.2,81.4,80.7
+STU3702,Male,High School,Standard,Completed,3.5,48.4,Yes,6.7,80.2,79.8,76.8,78.9
+STU3703,Female,Associate's Degree,Free/Reduced,Not Completed,5.5,97.7,No,8.1,65.6,71.6,82.8,73.3
+STU3704,Male,Bachelor's Degree,Standard,Not Completed,12.8,90.1,No,6.1,89.7,89.2,74.7,84.5
+STU3705,Male,Bachelor's Degree,Standard,Not Completed,9.1,86.8,No,7.5,72.3,80.8,76.4,76.5
+STU3706,Female,Bachelor's Degree,Free/Reduced,Not Completed,4.1,90.8,Yes,7.6,92.3,76.4,89.4,86.0
+STU3707,Female,Bachelor's Degree,Standard,Completed,7.1,90.3,Yes,7.3,100.0,100.0,100.0,100.0
+STU3708,Female,High School,Free/Reduced,Completed,15.4,91.7,Yes,9.8,96.1,100.0,94.7,96.9
+STU3709,Female,Bachelor's Degree,Free/Reduced,Not Completed,6.0,69.0,Yes,6.0,77.7,88.1,74.1,80.0
+STU3710,Male,High School,Standard,Completed,3.8,95.3,Yes,8.8,68.1,68.7,65.0,67.3
+STU3711,Female,Bachelor's Degree,Free/Reduced,Not Completed,11.0,87.0,No,7.6,67.5,73.4,65.5,68.8
+STU3712,Male,Associate's Degree,Standard,Not Completed,1.4,78.3,No,8.1,66.9,66.8,66.7,66.8
+STU3713,Female,Bachelor's Degree,Standard,Not Completed,6.7,78.3,No,7.4,79.9,85.2,85.4,83.5
+STU3714,Female,Associate's Degree,Standard,Not Completed,16.1,93.2,Yes,9.3,95.5,96.0,88.1,93.2
+STU3715,Female,Associate's Degree,Free/Reduced,Completed,7.0,74.6,Yes,6.6,83.0,76.3,85.9,81.7
+STU3716,Male,Associate's Degree,Standard,Completed,13.5,86.0,No,7.6,82.1,85.9,80.7,82.9
+STU3717,Female,Bachelor's Degree,Standard,Completed,3.8,87.1,Yes,8.6,97.0,100.0,97.6,98.2
+STU3718,Female,High School,Free/Reduced,Not Completed,6.8,78.4,No,6.3,77.2,89.6,81.1,82.6
+STU3719,Female,High School,Free/Reduced,Completed,6.4,92.5,No,8.2,75.0,69.8,68.5,71.1
+STU3720,Female,High School,Free/Reduced,Completed,10.6,96.5,Yes,7.0,84.2,73.0,71.1,76.1
+STU3721,Male,High School,Standard,Not Completed,8.3,78.4,Yes,5.5,70.2,78.4,74.0,74.2
+STU3722,Female,Bachelor's Degree,Standard,Not Completed,17.3,90.7,No,5.3,100.0,98.5,100.0,99.5
+STU3723,Male,High School,Standard,Completed,5.7,85.6,Yes,6.9,85.1,84.4,62.3,77.3
+STU3724,Male,Master's Degree,Free/Reduced,Completed,8.3,82.8,Yes,8.2,95.3,82.4,92.3,90.0
+STU3725,Male,High School,Standard,Not Completed,6.6,99.2,Yes,4.5,70.8,76.3,59.1,68.7
+STU3726,Male,High School,Standard,Completed,7.9,91.2,Yes,7.2,80.2,85.2,81.1,82.2
+STU3727,Male,Bachelor's Degree,Free/Reduced,Completed,7.5,67.7,No,8.1,98.6,91.0,76.5,88.7
+STU3728,Male,Bachelor's Degree,Standard,Completed,4.4,93.5,No,5.5,88.4,84.3,92.5,88.4
+STU3729,Female,Associate's Degree,Free/Reduced,Not Completed,12.4,82.0,Yes,6.2,87.1,87.8,87.1,87.3
+STU3730,Male,Associate's Degree,Free/Reduced,Completed,5.2,83.9,No,7.7,61.4,68.3,62.4,64.0
+STU3731,Male,Bachelor's Degree,Free/Reduced,Not Completed,4.9,77.2,No,8.0,91.3,96.8,97.2,95.1
+STU3732,Male,High School,Standard,Not Completed,2.6,71.2,No,8.9,45.8,63.3,56.5,55.2
+STU3733,Female,Master's Degree,Standard,Not Completed,5.6,79.9,No,6.3,87.2,85.8,83.1,85.4
+STU3734,Female,Master's Degree,Free/Reduced,Completed,5.1,82.1,Yes,6.0,87.7,76.4,83.7,82.6
+STU3735,Male,Bachelor's Degree,Free/Reduced,Not Completed,1.6,94.9,Yes,9.0,72.6,80.0,68.5,73.7
+STU3736,Female,High School,Free/Reduced,Not Completed,6.9,90.6,No,6.1,74.7,74.2,72.3,73.7
+STU3737,Male,Bachelor's Degree,Standard,Not Completed,16.9,62.4,No,7.6,87.9,85.6,89.5,87.7
+STU3738,Male,High School,Free/Reduced,Not Completed,2.9,78.9,No,9.6,66.1,61.7,60.8,62.9
+STU3739,Female,High School,Free/Reduced,Not Completed,7.8,85.0,No,7.9,60.0,65.8,53.9,59.9
+STU3740,Male,High School,Free/Reduced,Not Completed,6.8,68.6,No,7.9,82.8,73.8,79.6,78.7
+STU3741,Female,Associate's Degree,Free/Reduced,Not Completed,11.5,77.5,Yes,8.5,84.3,77.1,80.9,80.8
+STU3742,Female,Bachelor's Degree,Free/Reduced,Not Completed,12.0,97.5,Yes,7.6,90.0,93.2,98.8,94.0
+STU3743,Male,Bachelor's Degree,Standard,Completed,23.9,95.7,Yes,7.9,100.0,100.0,100.0,100.0
+STU3744,Male,Bachelor's Degree,Standard,Completed,9.3,78.4,No,6.6,100.0,100.0,98.9,99.6
+STU3745,Female,Associate's Degree,Standard,Completed,4.7,83.4,No,8.4,91.3,95.4,86.2,91.0
+STU3746,Male,High School,Standard,Not Completed,5.5,79.7,No,7.5,77.0,72.5,81.0,76.8
+STU3747,Male,Associate's Degree,Standard,Not Completed,5.9,80.8,No,5.2,76.8,84.4,72.7,78.0
+STU3748,Male,Master's Degree,Standard,Not Completed,5.3,76.4,No,7.3,82.9,81.4,71.8,78.7
+STU3749,Female,High School,Standard,Not Completed,19.2,78.8,No,4.4,94.2,100.0,88.1,94.1
+STU3750,Female,Bachelor's Degree,Standard,Not Completed,11.6,78.4,No,7.9,94.5,84.9,98.0,92.5
+STU3751,Male,Associate's Degree,Standard,Not Completed,2.4,62.6,Yes,6.7,62.3,66.7,65.0,64.7
+STU3752,Female,Associate's Degree,Free/Reduced,Completed,10.6,88.1,No,9.3,87.4,96.2,96.2,93.3
+STU3753,Female,Bachelor's Degree,Free/Reduced,Not Completed,3.9,68.6,No,7.6,77.3,81.6,79.7,79.5
+STU3754,Female,Associate's Degree,Standard,Completed,11.9,61.2,Yes,8.1,85.8,78.9,73.5,79.4
+STU3755,Female,Bachelor's Degree,Free/Reduced,Completed,14.7,89.8,Yes,5.7,95.3,100.0,100.0,98.4
+STU3756,Female,Master's Degree,Standard,Completed,6.9,85.7,No,7.8,92.3,94.6,87.3,91.4
+STU3757,Male,Associate's Degree,Standard,Completed,5.5,64.7,Yes,6.2,70.7,73.4,82.8,75.6
+STU3758,Male,High School,Standard,Not Completed,17.6,88.5,No,8.3,84.1,80.2,87.0,83.8
+STU3759,Male,Associate's Degree,Standard,Not Completed,5.0,90.2,Yes,5.7,51.8,54.6,57.4,54.6
+STU3760,Female,Master's Degree,Free/Reduced,Completed,4.7,51.2,No,7.1,66.5,74.1,66.2,68.9
+STU3761,Female,High School,Free/Reduced,Not Completed,4.2,76.2,No,5.6,50.0,62.5,51.3,54.6
+STU3762,Male,Associate's Degree,Standard,Not Completed,7.6,72.8,Yes,7.2,76.8,80.7,83.0,80.2
+STU3763,Female,Associate's Degree,Standard,Completed,9.3,84.0,Yes,9.4,94.8,91.4,92.3,92.8
+STU3764,Male,Bachelor's Degree,Standard,Not Completed,13.6,87.6,No,7.9,94.5,90.4,98.8,94.6
+STU3765,Male,High School,Standard,Completed,10.9,84.7,No,7.0,71.0,81.5,80.4,77.6
+STU3766,Male,Bachelor's Degree,Standard,Not Completed,10.8,73.7,No,4.0,69.2,80.3,66.4,72.0
+STU3767,Female,Master's Degree,Standard,Not Completed,16.0,90.6,Yes,6.4,94.9,94.3,98.7,96.0
+STU3768,Female,High School,Free/Reduced,Completed,4.1,85.5,Yes,7.6,77.8,84.2,68.2,76.7
+STU3769,Male,High School,Free/Reduced,Completed,2.8,71.3,Yes,6.4,68.3,66.9,69.6,68.3
+STU3770,Male,Master's Degree,Standard,Not Completed,11.2,92.8,No,8.7,88.2,89.0,100.0,92.4
+STU3771,Male,High School,Free/Reduced,Not Completed,7.4,91.1,Yes,7.1,79.0,87.1,81.7,82.6
+STU3772,Male,Bachelor's Degree,Standard,Completed,13.7,47.7,Yes,8.3,94.9,84.5,73.1,84.2
+STU3773,Female,Associate's Degree,Standard,Not Completed,7.8,92.8,Yes,7.2,67.3,72.5,70.7,70.2
+STU3774,Female,High School,Standard,Not Completed,5.4,79.3,Yes,6.7,75.9,76.4,83.9,78.7
+STU3775,Male,Bachelor's Degree,Standard,Not Completed,11.3,52.5,No,6.4,92.5,76.0,79.9,82.8
+STU3776,Male,Associate's Degree,Free/Reduced,Not Completed,8.4,76.9,Yes,5.8,76.0,70.7,83.0,76.6
+STU3777,Female,Associate's Degree,Standard,Not Completed,7.8,83.5,No,8.3,88.9,82.2,73.9,81.7
+STU3778,Female,Associate's Degree,Standard,Not Completed,26.3,88.3,No,6.5,100.0,100.0,100.0,100.0
+STU3779,Male,Associate's Degree,Standard,Not Completed,15.3,92.4,Yes,7.6,68.2,87.0,76.0,77.1
+STU3780,Male,High School,Standard,Completed,12.1,73.0,No,6.4,90.5,99.8,100.0,96.8
+STU3781,Male,Associate's Degree,Free/Reduced,Completed,8.6,96.0,No,5.7,78.4,87.4,79.6,81.8
+STU3782,Female,Master's Degree,Standard,Completed,8.1,95.0,No,7.7,74.2,90.9,72.1,79.1
+STU3783,Female,High School,Standard,Not Completed,6.6,85.4,Yes,6.1,56.8,63.3,69.8,63.3
+STU3784,Female,Bachelor's Degree,Standard,Not Completed,9.1,92.5,Yes,6.5,81.7,77.0,76.8,78.5
+STU3785,Male,High School,Standard,Completed,5.8,54.8,Yes,5.5,78.5,88.0,83.7,83.4
+STU3786,Male,Bachelor's Degree,Standard,Not Completed,3.5,90.0,No,6.4,84.9,93.2,77.8,85.3
+STU3787,Female,High School,Free/Reduced,Not Completed,7.8,83.3,No,7.0,78.5,73.6,71.9,74.7
+STU3788,Female,Master's Degree,Standard,Completed,9.5,76.9,No,6.7,86.2,86.0,89.1,87.1
+STU3789,Male,Associate's Degree,Free/Reduced,Not Completed,13.7,82.5,Yes,8.0,79.4,69.4,70.5,73.1
+STU3790,Female,High School,Free/Reduced,Completed,4.7,48.3,Yes,7.2,59.3,74.1,70.2,67.9
+STU3791,Female,High School,Free/Reduced,Completed,8.2,78.7,No,10.0,69.8,79.1,65.1,71.3
+STU3792,Male,High School,Standard,Not Completed,10.8,95.8,No,7.5,95.0,100.0,90.2,95.1
+STU3793,Female,Associate's Degree,Standard,Not Completed,10.7,49.3,No,4.9,70.5,70.8,69.5,70.3
+STU3794,Male,High School,Standard,Completed,18.7,91.1,Yes,6.7,96.6,98.6,96.5,97.2
+STU3795,Male,Bachelor's Degree,Free/Reduced,Not Completed,6.7,92.8,Yes,6.8,88.1,85.3,89.2,87.5
+STU3796,Male,Associate's Degree,Standard,Not Completed,4.5,72.2,Yes,6.3,81.2,84.5,79.3,81.7
+STU3797,Male,High School,Standard,Completed,8.5,87.8,Yes,7.1,77.4,83.2,72.4,77.7
+STU3798,Male,Associate's Degree,Standard,Completed,6.9,78.9,Yes,6.2,66.3,75.2,73.9,71.8
+STU3799,Male,Bachelor's Degree,Standard,Not Completed,6.2,70.7,Yes,7.4,78.3,75.4,80.7,78.1
+STU3800,Male,High School,Standard,Completed,5.7,82.3,Yes,4.7,82.4,80.2,68.4,77.0
+STU3801,Female,High School,Standard,Not Completed,9.5,70.9,Yes,8.4,80.9,83.2,82.2,82.1
+STU3802,Male,High School,Free/Reduced,Not Completed,5.2,79.7,Yes,5.1,70.8,63.4,63.9,66.0
+STU3803,Male,Bachelor's Degree,Standard,Not Completed,12.1,90.2,No,6.7,82.8,87.3,82.1,84.1
+STU3804,Female,Bachelor's Degree,Standard,Completed,11.8,79.4,Yes,6.1,95.8,91.6,88.4,91.9
+STU3805,Female,Associate's Degree,Standard,Not Completed,10.0,79.2,No,7.4,74.3,72.9,72.0,73.1
+STU3806,Female,Bachelor's Degree,Standard,Not Completed,4.1,73.5,No,6.8,81.8,81.6,64.6,76.0
+STU3807,Male,Bachelor's Degree,Standard,Completed,9.3,74.1,No,7.3,75.3,76.0,82.1,77.8
+STU3808,Female,Associate's Degree,Free/Reduced,Completed,14.2,92.2,No,8.3,100.0,100.0,97.1,99.0
+STU3809,Male,Bachelor's Degree,Standard,Completed,12.6,89.1,Yes,7.9,100.0,100.0,93.9,98.0
+STU3810,Male,High School,Free/Reduced,Not Completed,11.6,89.0,No,7.0,85.5,83.6,86.7,85.3
+STU3811,Male,High School,Standard,Not Completed,8.1,75.4,No,7.6,63.9,68.6,53.7,62.1
+STU3812,Male,High School,Standard,Completed,7.9,80.3,No,9.4,81.9,88.4,72.2,80.8
+STU3813,Female,High School,Free/Reduced,Not Completed,15.5,96.6,Yes,8.0,72.3,85.0,91.2,82.8
+STU3814,Female,Associate's Degree,Standard,Completed,9.4,86.6,Yes,6.6,97.8,94.2,88.8,93.6
+STU3815,Male,Master's Degree,Standard,Not Completed,9.5,84.1,Yes,8.5,89.2,94.2,87.5,90.3
+STU3816,Male,High School,Standard,Completed,30.5,90.8,No,7.5,100.0,100.0,100.0,100.0
+STU3817,Male,High School,Standard,Not Completed,6.6,86.4,No,5.8,61.1,74.9,65.8,67.3
+STU3818,Female,Associate's Degree,Free/Reduced,Not Completed,1.5,86.8,Yes,6.8,76.8,84.8,72.6,78.1
+STU3819,Male,Master's Degree,Standard,Not Completed,7.2,91.9,No,5.2,75.8,81.2,74.6,77.2
+STU3820,Male,High School,Free/Reduced,Completed,7.5,90.8,No,4.3,67.9,71.1,67.4,68.8
+STU3821,Female,Associate's Degree,Free/Reduced,Completed,9.4,92.7,Yes,5.9,69.5,88.9,81.9,80.1
+STU3822,Female,High School,Standard,Not Completed,10.6,84.8,No,7.1,84.1,92.4,85.9,87.5
+STU3823,Male,High School,Free/Reduced,Completed,1.7,66.0,No,7.2,62.7,59.3,55.3,59.1
+STU3824,Female,Master's Degree,Standard,Completed,10.7,88.6,Yes,5.3,100.0,100.0,100.0,100.0
+STU3825,Female,Master's Degree,Free/Reduced,Completed,7.7,84.4,No,4.1,72.6,69.2,78.5,73.4
+STU3826,Male,High School,Standard,Not Completed,6.8,48.8,Yes,8.8,80.4,87.4,84.8,84.2
+STU3827,Female,Master's Degree,Free/Reduced,Not Completed,2.5,77.8,No,7.1,75.6,94.3,87.7,85.9
+STU3828,Male,Associate's Degree,Standard,Not Completed,17.2,56.8,No,8.9,81.3,82.6,75.5,79.8
+STU3829,Female,Bachelor's Degree,Standard,Completed,6.1,79.8,No,8.8,65.6,80.8,73.0,73.1
+STU3830,Male,Associate's Degree,Standard,Completed,11.7,79.3,Yes,7.9,94.8,96.0,94.0,94.9
+STU3831,Male,Associate's Degree,Free/Reduced,Not Completed,4.7,71.7,Yes,7.1,61.7,71.3,71.6,68.2
+STU3832,Male,Associate's Degree,Standard,Not Completed,9.6,60.8,Yes,6.5,75.5,76.0,67.8,73.1
+STU3833,Female,Bachelor's Degree,Standard,Completed,6.8,93.5,No,7.9,100.0,100.0,97.4,99.1
+STU3834,Male,High School,Free/Reduced,Not Completed,11.5,66.7,Yes,6.8,63.6,70.8,67.0,67.1
+STU3835,Female,High School,Free/Reduced,Completed,6.7,76.9,No,6.3,73.9,74.7,68.7,72.4
+STU3836,Male,High School,Free/Reduced,Not Completed,4.5,88.9,Yes,4.5,52.9,65.8,60.6,59.8
+STU3837,Male,Bachelor's Degree,Free/Reduced,Completed,7.9,91.9,Yes,6.9,63.3,60.5,66.2,63.3
+STU3838,Female,High School,Free/Reduced,Not Completed,7.7,89.5,Yes,8.3,68.9,82.5,70.3,73.9
+STU3839,Male,Bachelor's Degree,Free/Reduced,Not Completed,9.2,96.8,No,8.5,80.3,79.4,73.1,77.6
+STU3840,Male,Master's Degree,Standard,Not Completed,13.4,60.4,No,7.1,97.8,97.4,93.4,96.2
+STU3841,Female,High School,Standard,Completed,3.9,89.4,Yes,5.9,85.3,83.5,87.4,85.4
+STU3842,Male,Bachelor's Degree,Free/Reduced,Not Completed,13.1,52.6,Yes,8.1,80.0,84.6,81.8,82.1
+STU3843,Male,Associate's Degree,Standard,Not Completed,3.5,78.8,No,7.0,79.0,73.2,75.1,75.8
+STU3844,Male,Bachelor's Degree,Standard,Completed,11.2,91.2,Yes,6.6,90.0,100.0,88.8,92.9
+STU3845,Male,High School,Standard,Not Completed,11.4,72.0,No,5.3,65.1,76.8,72.7,71.5
+STU3846,Female,Bachelor's Degree,Free/Reduced,Not Completed,5.9,89.0,No,9.5,71.2,79.3,73.2,74.6
+STU3847,Female,Bachelor's Degree,Standard,Not Completed,4.8,96.0,No,7.9,86.6,100.0,86.0,90.9
+STU3848,Male,Master's Degree,Standard,Not Completed,4.7,64.4,No,8.0,88.2,87.6,93.3,89.7
+STU3849,Female,Bachelor's Degree,Standard,Completed,8.4,84.1,No,6.0,88.8,84.9,91.9,88.5
+STU3850,Male,Associate's Degree,Standard,Not Completed,11.9,78.2,No,7.1,83.6,94.1,84.9,87.5
+STU3851,Female,Associate's Degree,Standard,Completed,7.3,98.8,No,6.9,80.8,91.8,85.8,86.1
+STU3852,Male,Bachelor's Degree,Standard,Not Completed,1.4,77.0,No,7.9,78.3,84.6,72.0,78.3
+STU3853,Male,Associate's Degree,Standard,Not Completed,5.7,62.9,Yes,8.6,65.9,86.0,85.3,79.1
+STU3854,Male,High School,Free/Reduced,Not Completed,5.6,87.2,No,5.3,44.7,52.4,53.4,50.2
+STU3855,Male,Master's Degree,Standard,Completed,10.6,97.7,Yes,5.7,100.0,100.0,100.0,100.0
+STU3856,Male,Bachelor's Degree,Free/Reduced,Completed,10.9,96.4,No,7.8,95.6,100.0,100.0,98.5
+STU3857,Male,Bachelor's Degree,Free/Reduced,Not Completed,8.8,63.8,No,6.4,74.3,59.5,64.6,66.1
+STU3858,Female,High School,Standard,Not Completed,13.1,77.4,Yes,8.0,94.7,95.8,95.5,95.3
+STU3859,Male,Bachelor's Degree,Free/Reduced,Not Completed,13.6,55.8,Yes,6.6,63.4,71.0,66.0,66.8
+STU3860,Female,Associate's Degree,Standard,Not Completed,5.9,87.4,No,5.5,68.3,78.0,74.5,73.6
+STU3861,Male,Bachelor's Degree,Free/Reduced,Not Completed,4.6,90.0,No,4.9,65.2,71.9,69.7,68.9
+STU3862,Female,High School,Standard,Completed,7.6,68.9,No,7.6,71.0,81.2,81.4,77.9
+STU3863,Female,Bachelor's Degree,Free/Reduced,Completed,8.7,92.9,No,7.6,89.8,96.1,90.6,92.2
+STU3864,Female,Master's Degree,Standard,Completed,5.7,85.0,Yes,8.2,97.2,98.1,85.7,93.7
+STU3865,Male,High School,Standard,Completed,34.5,91.6,No,7.4,99.8,100.0,100.0,99.9
+STU3866,Male,Master's Degree,Standard,Not Completed,16.7,67.7,Yes,4.0,98.5,100.0,100.0,99.5
+STU3867,Female,Associate's Degree,Free/Reduced,Not Completed,5.4,67.5,No,7.6,66.9,75.9,64.5,69.1
+STU3868,Male,Bachelor's Degree,Free/Reduced,Not Completed,4.0,84.7,Yes,5.3,78.4,76.0,73.1,75.8
+STU3869,Female,Bachelor's Degree,Standard,Completed,5.1,91.2,No,4.8,83.6,100.0,92.0,91.9
+STU3870,Male,Associate's Degree,Standard,Completed,13.7,77.7,Yes,4.6,93.2,87.0,86.5,88.9
+STU3871,Female,Bachelor's Degree,Standard,Completed,13.9,95.2,Yes,4.5,97.1,100.0,96.3,97.8
+STU3872,Female,Bachelor's Degree,Free/Reduced,Completed,16.8,90.2,No,7.3,97.6,100.0,99.1,98.9
+STU3873,Male,Associate's Degree,Standard,Not Completed,4.5,93.8,Yes,6.1,87.2,88.3,94.8,90.1
+STU3874,Female,High School,Free/Reduced,Completed,10.6,97.7,Yes,5.2,67.1,71.1,74.6,70.9
+STU3875,Male,Bachelor's Degree,Standard,Not Completed,4.8,93.4,No,7.0,78.7,79.1,73.1,77.0
+STU3876,Female,Bachelor's Degree,Standard,Completed,18.8,86.2,No,5.7,84.3,79.4,82.8,82.2
+STU3877,Female,Bachelor's Degree,Standard,Not Completed,4.6,58.2,Yes,8.2,76.4,81.8,76.5,78.2
+STU3878,Male,Bachelor's Degree,Standard,Not Completed,3.4,97.4,No,8.7,64.5,66.6,84.5,71.9
+STU3879,Male,Associate's Degree,Standard,Completed,3.8,69.1,No,6.7,71.6,76.4,72.5,73.5
+STU3880,Male,Bachelor's Degree,Standard,Not Completed,8.0,75.0,Yes,8.7,93.0,92.2,94.3,93.2
+STU3881,Female,High School,Free/Reduced,Not Completed,11.8,66.7,Yes,8.7,73.6,73.7,72.2,73.2
+STU3882,Male,Associate's Degree,Standard,Not Completed,11.3,78.1,Yes,7.1,77.5,73.1,79.0,76.5
+STU3883,Female,High School,Standard,Completed,3.9,73.3,No,9.1,65.0,66.1,75.4,68.8
+STU3884,Female,High School,Standard,Not Completed,6.3,83.0,Yes,6.3,73.7,70.5,70.5,71.6
+STU3885,Male,Associate's Degree,Standard,Not Completed,5.8,88.8,Yes,4.7,95.7,100.0,100.0,98.6
+STU3886,Male,Associate's Degree,Standard,Not Completed,3.6,82.5,No,5.1,47.6,59.3,50.5,52.5
+STU3887,Female,Bachelor's Degree,Standard,Not Completed,5.7,70.7,No,6.2,74.8,90.4,93.7,86.3
+STU3888,Female,Associate's Degree,Standard,Not Completed,16.4,92.9,Yes,7.6,100.0,100.0,100.0,100.0
+STU3889,Male,Associate's Degree,Standard,Not Completed,3.2,92.7,No,5.6,79.3,81.6,81.3,80.7
+STU3890,Male,High School,Standard,Not Completed,9.1,62.2,Yes,6.2,82.5,72.2,74.6,76.4
+STU3891,Male,Associate's Degree,Standard,Not Completed,16.6,83.5,Yes,5.5,72.3,78.6,71.3,74.1
+STU3892,Male,High School,Standard,Not Completed,16.2,94.1,No,6.2,100.0,100.0,100.0,100.0
+STU3893,Male,High School,Standard,Not Completed,19.2,79.2,No,8.6,88.5,90.1,96.0,91.5
+STU3894,Female,Associate's Degree,Free/Reduced,Not Completed,9.6,81.6,Yes,7.4,67.3,63.0,67.1,65.8
+STU3895,Female,Bachelor's Degree,Standard,Not Completed,10.4,83.7,No,6.3,91.0,87.8,78.5,85.8
+STU3896,Female,Associate's Degree,Free/Reduced,Completed,5.8,78.0,No,8.5,69.3,71.5,66.3,69.0
+STU3897,Female,Associate's Degree,Standard,Not Completed,3.2,85.6,Yes,7.0,47.8,51.9,48.7,49.5
+STU3898,Male,Associate's Degree,Free/Reduced,Not Completed,7.3,86.5,No,7.2,71.8,64.6,67.4,67.9
+STU3899,Male,Bachelor's Degree,Free/Reduced,Not Completed,14.7,97.4,Yes,8.4,92.3,83.8,91.1,89.1
+STU3900,Male,Associate's Degree,Standard,Not Completed,1.4,85.7,No,6.6,77.1,67.4,74.4,73.0
+STU3901,Female,Associate's Degree,Free/Reduced,Completed,6.0,97.0,No,8.1,73.7,79.2,75.9,76.3
+STU3902,Female,High School,Standard,Not Completed,11.0,72.2,Yes,8.0,91.9,99.6,90.7,94.1
+STU3903,Male,High School,Standard,Completed,8.0,84.7,Yes,6.8,87.9,93.5,91.3,90.9
+STU3904,Male,Associate's Degree,Free/Reduced,Not Completed,15.7,80.8,Yes,5.3,82.1,87.6,80.2,83.3
+STU3905,Female,Associate's Degree,Free/Reduced,Not Completed,13.8,88.6,Yes,7.0,82.5,78.3,91.1,84.0
+STU3906,Female,Associate's Degree,Standard,Not Completed,2.9,75.4,Yes,8.4,80.6,78.6,76.9,78.7
+STU3907,Male,Associate's Degree,Standard,Completed,8.4,95.6,Yes,8.0,85.2,86.6,96.7,89.5
+STU3908,Male,Associate's Degree,Standard,Not Completed,4.9,86.7,No,9.1,64.2,63.3,63.6,63.7
+STU3909,Female,Bachelor's Degree,Standard,Completed,4.9,73.0,Yes,6.4,84.9,86.7,79.7,83.8
+STU3910,Male,Bachelor's Degree,Free/Reduced,Completed,3.1,68.1,No,7.9,80.4,83.0,78.0,80.5
+STU3911,Male,Bachelor's Degree,Standard,Completed,9.2,65.1,No,5.8,94.1,89.3,94.8,92.7
+STU3912,Male,Master's Degree,Standard,Completed,15.8,64.3,No,7.2,100.0,100.0,100.0,100.0
+STU3913,Female,High School,Standard,Not Completed,9.7,70.8,No,8.3,79.1,78.3,76.6,78.0
+STU3914,Female,High School,Standard,Not Completed,2.9,91.4,Yes,8.1,86.5,77.9,72.6,79.0
+STU3915,Female,High School,Standard,Completed,7.8,73.0,Yes,7.1,93.7,81.5,90.8,88.7
+STU3916,Female,Associate's Degree,Standard,Not Completed,10.7,85.5,No,6.7,74.6,95.3,80.1,83.3
+STU3917,Female,Bachelor's Degree,Free/Reduced,Completed,7.4,67.0,No,5.8,83.2,97.6,95.9,92.2
+STU3918,Female,High School,Free/Reduced,Not Completed,9.6,75.9,No,6.7,78.9,71.6,78.1,76.2
+STU3919,Female,Master's Degree,Standard,Not Completed,5.2,77.6,No,5.4,88.1,88.9,90.0,89.0
+STU3920,Male,High School,Free/Reduced,Not Completed,6.9,77.2,No,6.6,60.0,62.5,60.4,61.0
+STU3921,Male,Master's Degree,Free/Reduced,Not Completed,6.6,79.1,No,4.8,65.8,69.2,69.6,68.2
+STU3922,Male,Associate's Degree,Free/Reduced,Not Completed,17.4,83.0,No,5.4,71.4,76.2,71.5,73.0
+STU3923,Male,High School,Standard,Completed,4.0,81.7,Yes,8.0,75.9,84.6,83.8,81.4
+STU3924,Male,Associate's Degree,Standard,Not Completed,1.5,89.8,Yes,7.9,91.1,93.7,84.2,89.7
+STU3925,Male,High School,Standard,Completed,16.8,70.2,No,6.7,83.7,90.5,86.9,87.0
+STU3926,Male,High School,Standard,Not Completed,8.6,86.9,Yes,7.1,88.8,89.1,77.2,85.0
+STU3927,Female,High School,Standard,Not Completed,3.4,85.6,Yes,7.2,55.6,66.7,56.9,59.7
+STU3928,Female,Bachelor's Degree,Standard,Not Completed,13.2,82.8,Yes,7.6,100.0,100.0,100.0,100.0
+STU3929,Male,Associate's Degree,Standard,Completed,11.1,67.9,No,7.4,72.0,69.0,73.0,71.3
+STU3930,Male,High School,Free/Reduced,Not Completed,19.0,91.0,Yes,5.4,92.6,84.3,91.6,89.5
+STU3931,Female,Associate's Degree,Standard,Completed,9.0,70.3,No,4.1,87.7,86.0,88.3,87.3
+STU3932,Male,Bachelor's Degree,Standard,Not Completed,26.4,95.4,Yes,5.8,100.0,100.0,100.0,100.0
+STU3933,Male,High School,Free/Reduced,Completed,7.5,81.7,Yes,6.8,73.2,66.6,72.7,70.8
+STU3934,Female,Associate's Degree,Free/Reduced,Completed,11.1,82.2,Yes,8.2,80.3,73.7,74.1,76.0
+STU3935,Male,High School,Free/Reduced,Not Completed,12.0,69.8,Yes,7.3,99.7,86.4,83.3,89.8
+STU3936,Female,High School,Free/Reduced,Not Completed,35.0,94.5,No,7.6,100.0,100.0,100.0,100.0
+STU3937,Male,Bachelor's Degree,Standard,Completed,6.1,74.1,Yes,5.9,92.4,93.0,80.7,88.7
+STU3938,Female,High School,Free/Reduced,Completed,6.0,92.9,Yes,6.9,92.7,84.7,88.8,88.7
+STU3939,Female,Associate's Degree,Standard,Not Completed,12.2,71.6,No,7.1,74.0,73.5,64.7,70.7
+STU3940,Female,Bachelor's Degree,Standard,Not Completed,3.2,85.6,No,6.1,64.3,59.8,69.0,64.4
+STU3941,Male,High School,Standard,Not Completed,4.9,85.2,Yes,5.7,65.4,61.5,60.6,62.5
+STU3942,Female,Associate's Degree,Standard,Completed,7.3,73.7,Yes,6.7,84.0,73.4,81.3,79.6
+STU3943,Male,High School,Standard,Completed,18.7,45.5,No,7.8,93.4,90.6,85.6,89.9
+STU3944,Male,Master's Degree,Standard,Completed,12.2,66.1,No,5.9,85.4,93.6,85.1,88.0
+STU3945,Male,Associate's Degree,Free/Reduced,Completed,8.4,73.7,Yes,6.8,80.4,91.1,92.1,87.9
+STU3946,Male,Bachelor's Degree,Standard,Not Completed,5.7,96.4,No,8.6,86.3,85.5,74.9,82.2
+STU3947,Female,Associate's Degree,Standard,Not Completed,22.8,87.0,Yes,6.4,89.2,90.2,96.2,91.9
+STU3948,Female,High School,Free/Reduced,Completed,7.7,77.4,Yes,7.0,75.8,88.5,78.1,80.8
+STU3949,Male,Associate's Degree,Standard,Completed,4.9,92.6,No,6.9,72.2,92.9,81.2,82.1
+STU3950,Male,Master's Degree,Standard,Completed,25.1,85.7,No,6.8,100.0,100.0,100.0,100.0
+STU3951,Female,Associate's Degree,Free/Reduced,Not Completed,3.3,76.9,Yes,9.0,70.6,60.4,62.2,64.4
+STU3952,Male,Bachelor's Degree,Standard,Not Completed,16.1,77.5,No,7.4,91.3,91.0,100.0,94.1
+STU3953,Female,Bachelor's Degree,Standard,Completed,8.1,77.8,Yes,5.1,72.3,80.0,75.3,75.9
+STU3954,Male,High School,Free/Reduced,Completed,12.1,85.6,Yes,8.8,90.7,100.0,87.3,92.7
+STU3955,Male,High School,Standard,Not Completed,10.9,55.3,Yes,7.3,80.5,86.7,76.7,81.3
+STU3956,Female,Associate's Degree,Standard,Not Completed,12.0,90.4,Yes,6.6,78.6,86.3,71.8,78.9
+STU3957,Male,Associate's Degree,Free/Reduced,Not Completed,26.4,85.9,No,8.6,100.0,100.0,100.0,100.0
+STU3958,Female,Bachelor's Degree,Free/Reduced,Completed,24.2,80.4,No,6.1,100.0,100.0,93.0,97.7
+STU3959,Male,Master's Degree,Standard,Completed,5.1,78.3,Yes,9.1,81.5,87.2,83.4,84.0
+STU3960,Male,Associate's Degree,Standard,Not Completed,10.7,77.3,No,7.1,71.9,76.4,72.2,73.5
+STU3961,Male,High School,Standard,Completed,2.2,77.3,No,8.2,63.8,58.8,65.7,62.8
+STU3962,Female,Bachelor's Degree,Standard,Completed,12.8,72.4,No,10.0,87.1,100.0,97.7,94.9
+STU3963,Male,High School,Standard,Not Completed,14.5,62.7,No,7.2,94.0,100.0,87.4,93.8
+STU3964,Male,Bachelor's Degree,Standard,Completed,1.5,93.0,Yes,6.9,80.3,76.4,68.0,74.9
+STU3965,Male,Associate's Degree,Free/Reduced,Not Completed,7.9,85.1,No,5.7,58.8,70.9,55.7,61.8
+STU3966,Male,Bachelor's Degree,Standard,Completed,12.1,85.3,No,6.9,70.3,89.3,77.8,79.1
+STU3967,Female,High School,Standard,Completed,9.8,89.7,No,5.8,62.0,68.9,70.7,67.2
+STU3968,Female,Associate's Degree,Standard,Not Completed,3.4,74.6,No,6.8,79.3,79.4,69.1,75.9
+STU3969,Male,Associate's Degree,Free/Reduced,Completed,3.7,81.5,Yes,10.0,61.7,69.4,68.5,66.5
+STU3970,Female,Associate's Degree,Standard,Not Completed,7.3,69.0,No,7.1,76.2,71.0,72.1,73.1
+STU3971,Male,High School,Standard,Not Completed,6.1,68.4,Yes,6.3,75.4,73.3,66.7,71.8
+STU3972,Male,Bachelor's Degree,Free/Reduced,Completed,6.5,81.9,Yes,6.7,76.5,79.7,77.0,77.7
+STU3973,Male,Bachelor's Degree,Standard,Not Completed,3.1,88.2,Yes,6.5,78.6,67.2,73.9,73.2
+STU3974,Female,High School,Standard,Completed,8.2,70.0,No,8.3,74.7,93.1,81.7,83.2
+STU3975,Female,High School,Standard,Not Completed,18.7,99.4,Yes,6.9,89.5,88.2,89.1,88.9
+STU3976,Female,High School,Standard,Completed,3.5,96.5,No,8.9,77.0,76.7,68.5,74.1
+STU3977,Female,Associate's Degree,Standard,Not Completed,7.0,75.1,Yes,6.6,74.6,69.7,68.8,71.0
+STU3978,Female,Associate's Degree,Standard,Completed,11.4,88.3,No,6.7,85.1,91.6,88.6,88.4
+STU3979,Female,Associate's Degree,Standard,Not Completed,2.5,82.4,Yes,5.9,56.4,57.7,56.7,56.9
+STU3980,Female,High School,Standard,Not Completed,8.2,71.4,No,6.5,65.2,64.9,67.4,65.8
+STU3981,Female,Associate's Degree,Free/Reduced,Not Completed,14.2,73.9,No,4.9,61.8,82.4,71.3,71.8
+STU3982,Female,Associate's Degree,Free/Reduced,Completed,4.1,86.0,Yes,4.4,61.6,68.7,71.7,67.3
+STU3983,Male,Associate's Degree,Free/Reduced,Completed,8.7,86.7,Yes,7.7,82.9,85.3,78.5,82.2
+STU3984,Female,Master's Degree,Free/Reduced,Not Completed,13.7,74.8,No,4.9,93.2,98.7,91.1,94.3
+STU3985,Female,High School,Standard,Not Completed,25.6,82.1,No,7.5,100.0,100.0,100.0,100.0
+STU3986,Female,Bachelor's Degree,Free/Reduced,Completed,8.4,94.7,No,6.4,100.0,100.0,100.0,100.0
+STU3987,Female,Associate's Degree,Standard,Not Completed,5.0,80.4,Yes,8.1,70.2,75.2,68.7,71.4
+STU3988,Female,Associate's Degree,Free/Reduced,Completed,2.0,82.7,No,4.9,69.8,68.4,71.6,69.9
+STU3989,Female,Bachelor's Degree,Free/Reduced,Not Completed,5.0,76.9,Yes,7.7,88.5,86.3,80.1,85.0
+STU3990,Female,Bachelor's Degree,Free/Reduced,Completed,2.9,89.8,No,7.4,70.8,66.5,61.5,66.3
+STU3991,Female,Master's Degree,Free/Reduced,Completed,19.6,74.7,No,7.4,94.7,88.1,95.6,92.8
+STU3992,Female,High School,Standard,Not Completed,13.2,51.4,Yes,8.3,79.3,69.3,72.6,73.7
+STU3993,Female,High School,Standard,Completed,3.7,95.3,No,7.1,92.0,94.7,94.3,93.7
+STU3994,Female,Bachelor's Degree,Standard,Not Completed,4.8,72.3,No,4.1,53.2,62.2,60.8,58.7
+STU3995,Male,Associate's Degree,Standard,Not Completed,8.3,59.1,No,7.5,88.6,85.9,91.4,88.6
+STU3996,Male,High School,Standard,Completed,14.2,84.2,Yes,7.4,92.7,97.0,95.1,94.9
+STU3997,Female,High School,Standard,Completed,10.7,64.1,Yes,6.7,70.0,74.3,72.8,72.4
+STU3998,Female,High School,Free/Reduced,Not Completed,10.1,94.1,No,6.0,93.3,100.0,95.4,96.2
+STU3999,Male,Bachelor's Degree,Standard,Completed,9.0,79.0,Yes,6.6,91.8,90.6,86.7,89.7
+STU4000,Female,High School,Free/Reduced,Not Completed,3.8,94.0,Yes,8.7,75.6,86.8,71.7,78.0
+STU4001,Male,High School,Free/Reduced,Not Completed,8.4,59.9,No,5.9,72.8,79.7,71.1,74.5
+STU4002,Male,High School,Free/Reduced,Not Completed,7.8,78.3,Yes,4.9,66.4,72.3,66.2,68.3
+STU4003,Male,Associate's Degree,Free/Reduced,Completed,2.9,89.6,No,5.2,85.4,92.8,82.2,86.8
+STU4004,Male,High School,Standard,Completed,19.3,82.4,Yes,7.0,100.0,100.0,100.0,100.0
+STU4005,Male,Associate's Degree,Free/Reduced,Completed,5.4,64.2,Yes,9.0,68.6,69.1,71.5,69.7
+STU4006,Female,High School,Free/Reduced,Completed,3.0,85.2,No,9.6,94.1,87.8,88.2,90.0
+STU4007,Male,Bachelor's Degree,Standard,Not Completed,6.0,91.9,No,7.8,74.4,81.7,73.7,76.6
+STU4008,Female,High School,Standard,Not Completed,6.8,66.4,No,5.8,75.1,68.7,64.7,69.5
+STU4009,Female,Associate's Degree,Free/Reduced,Completed,7.7,79.6,No,5.9,65.1,75.6,61.2,67.3
+STU4010,Male,Bachelor's Degree,Standard,Completed,6.7,67.6,No,8.1,89.5,94.8,96.5,93.6
+STU4011,Male,Bachelor's Degree,Standard,Completed,7.9,87.4,Yes,8.6,91.6,84.6,79.7,85.3
+STU4012,Female,Associate's Degree,Free/Reduced,Not Completed,8.8,86.2,Yes,6.2,63.2,70.3,76.0,69.8
+STU4013,Male,High School,Standard,Completed,8.5,82.9,Yes,8.7,93.4,98.7,92.4,94.8
+STU4014,Male,High School,Standard,Not Completed,10.1,85.8,No,6.7,92.4,96.1,82.6,90.4
+STU4015,Female,Bachelor's Degree,Free/Reduced,Completed,10.4,76.6,Yes,7.9,98.2,100.0,100.0,99.4
+STU4016,Female,Master's Degree,Standard,Not Completed,10.6,73.7,Yes,8.4,80.6,82.0,76.9,79.8
+STU4017,Male,Bachelor's Degree,Standard,Not Completed,12.1,87.3,No,5.2,100.0,100.0,94.2,98.1
+STU4018,Female,Associate's Degree,Standard,Completed,5.1,74.4,Yes,7.5,80.7,84.5,82.1,82.4
+STU4019,Male,Bachelor's Degree,Standard,Completed,5.2,90.1,Yes,8.7,100.0,100.0,98.6,99.5
+STU4020,Male,Associate's Degree,Free/Reduced,Not Completed,14.2,91.6,No,6.3,99.5,90.8,92.4,94.2
+STU4021,Male,High School,Standard,Completed,6.2,85.9,Yes,5.7,86.3,79.9,77.8,81.3
+STU4022,Female,Associate's Degree,Standard,Not Completed,7.4,82.0,No,7.6,83.6,78.5,76.6,79.6
+STU4023,Female,Master's Degree,Standard,Not Completed,7.0,63.3,No,7.2,85.3,84.0,87.2,85.5
+STU4024,Female,High School,Standard,Not Completed,25.1,61.1,Yes,6.6,87.3,92.3,94.3,91.3
+STU4025,Female,Bachelor's Degree,Free/Reduced,Not Completed,4.5,81.5,No,7.0,65.3,75.8,59.0,66.7
+STU4026,Female,High School,Free/Reduced,Completed,4.5,75.1,Yes,5.0,69.4,65.7,67.1,67.4
+STU4027,Male,Associate's Degree,Standard,Completed,7.9,92.2,No,7.5,100.0,93.7,100.0,97.9
+STU4028,Male,High School,Standard,Not Completed,7.1,94.4,No,8.9,70.7,71.4,72.1,71.4
+STU4029,Male,Associate's Degree,Standard,Completed,3.6,97.9,No,6.1,96.0,95.4,87.5,93.0
+STU4030,Male,Bachelor's Degree,Standard,Not Completed,7.6,95.4,No,6.0,95.3,83.9,92.3,90.5
+STU4031,Female,High School,Free/Reduced,Completed,8.1,58.8,Yes,7.2,80.9,87.5,85.3,84.6
+STU4032,Male,Bachelor's Degree,Standard,Completed,5.8,71.1,Yes,10.0,95.9,91.5,84.6,90.7
+STU4033,Female,Bachelor's Degree,Standard,Not Completed,7.3,91.8,No,8.3,95.1,100.0,90.7,95.3
+STU4034,Male,Master's Degree,Standard,Completed,4.8,67.3,Yes,6.9,87.7,82.8,86.9,85.8
+STU4035,Female,High School,Free/Reduced,Not Completed,3.6,79.0,Yes,7.0,69.4,66.0,60.6,65.3
+STU4036,Female,Associate's Degree,Free/Reduced,Not Completed,6.1,79.1,Yes,8.4,82.2,82.6,82.5,82.4
+STU4037,Male,High School,Standard,Not Completed,4.0,72.3,No,5.9,54.2,66.5,68.9,63.2
+STU4038,Male,Master's Degree,Free/Reduced,Not Completed,3.2,85.1,Yes,7.7,68.4,64.8,72.2,68.5
+STU4039,Male,Master's Degree,Standard,Not Completed,1.9,74.3,No,5.7,72.6,72.8,68.7,71.4
+STU4040,Male,Associate's Degree,Standard,Not Completed,9.1,69.3,Yes,8.1,83.1,77.7,79.1,80.0
+STU4041,Female,Bachelor's Degree,Free/Reduced,Completed,6.0,56.4,Yes,6.6,84.4,100.0,94.3,92.9
+STU4042,Male,Associate's Degree,Free/Reduced,Not Completed,14.3,82.5,No,7.2,76.4,83.1,78.5,79.3
+STU4043,Male,Associate's Degree,Free/Reduced,Not Completed,6.3,87.1,Yes,6.6,86.2,95.4,86.9,89.5
+STU4044,Female,High School,Standard,Not Completed,9.1,43.3,No,7.8,75.9,81.8,65.6,74.4
+STU4045,Male,Bachelor's Degree,Standard,Not Completed,5.3,73.0,Yes,6.8,70.4,67.1,75.4,71.0
+STU4046,Male,High School,Free/Reduced,Completed,7.8,88.7,Yes,9.6,91.9,91.7,85.9,89.8
+STU4047,Male,Bachelor's Degree,Standard,Not Completed,1.9,65.1,Yes,8.7,76.3,69.8,72.4,72.8
+STU4048,Male,Bachelor's Degree,Standard,Not Completed,6.1,90.6,No,5.4,86.2,84.0,79.1,83.1
+STU4049,Male,Bachelor's Degree,Standard,Completed,4.5,90.3,No,7.2,76.4,72.3,68.7,72.5
+STU4050,Female,High School,Free/Reduced,Not Completed,13.4,88.6,No,7.9,74.1,67.7,68.6,70.1
+STU4051,Male,High School,Standard,Not Completed,8.8,89.6,Yes,6.5,80.5,91.3,78.7,83.5
+STU4052,Male,High School,Standard,Not Completed,12.4,81.1,No,8.5,90.4,98.7,98.4,95.8
+STU4053,Male,Associate's Degree,Free/Reduced,Not Completed,15.1,90.3,No,8.3,95.9,98.8,96.5,97.1
+STU4054,Male,High School,Standard,Not Completed,5.8,60.4,No,6.9,70.2,75.1,60.8,68.7
+STU4055,Male,Master's Degree,Standard,Completed,8.5,85.8,No,8.2,100.0,93.7,98.6,97.4
+STU4056,Female,Associate's Degree,Standard,Not Completed,3.8,76.1,No,4.1,78.1,82.9,73.4,78.1
+STU4057,Male,High School,Standard,Completed,9.9,67.4,Yes,8.6,68.2,74.6,78.2,73.7
+STU4058,Female,Associate's Degree,Standard,Not Completed,10.7,55.6,No,8.1,85.6,94.2,83.1,87.6
+STU4059,Female,Associate's Degree,Standard,Not Completed,9.5,61.0,No,5.7,78.8,82.7,80.1,80.5
+STU4060,Male,Associate's Degree,Free/Reduced,Completed,5.8,60.4,No,7.3,78.1,81.6,85.9,81.9
+STU4061,Male,Associate's Degree,Standard,Completed,20.3,84.9,Yes,4.6,100.0,100.0,100.0,100.0
+STU4062,Male,Master's Degree,Free/Reduced,Not Completed,8.1,81.9,Yes,6.1,91.6,88.7,78.6,86.3
+STU4063,Male,Associate's Degree,Standard,Completed,32.7,94.1,Yes,8.3,100.0,100.0,100.0,100.0
+STU4064,Female,Master's Degree,Standard,Not Completed,3.8,81.5,Yes,7.0,72.4,89.6,83.1,81.7
+STU4065,Male,Bachelor's Degree,Standard,Completed,11.3,90.2,Yes,6.9,79.0,93.5,82.1,84.9
+STU4066,Male,High School,Standard,Completed,13.7,71.2,No,7.1,89.9,90.8,87.5,89.4
+STU4067,Male,Master's Degree,Free/Reduced,Not Completed,3.9,90.7,No,6.9,73.1,81.9,81.5,78.8
+STU4068,Male,High School,Standard,Not Completed,6.8,82.2,No,8.2,71.7,78.4,74.2,74.8
+STU4069,Male,Bachelor's Degree,Standard,Not Completed,2.9,73.7,No,6.3,66.0,66.4,70.8,67.7
+STU4070,Male,Associate's Degree,Free/Reduced,Completed,15.5,90.9,Yes,7.5,86.3,86.6,88.9,87.3
+STU4071,Female,Bachelor's Degree,Free/Reduced,Not Completed,7.5,75.3,No,5.6,66.0,82.1,62.5,70.2
+STU4072,Female,Bachelor's Degree,Free/Reduced,Not Completed,4.5,89.2,Yes,7.9,75.5,75.3,75.2,75.3
+STU4073,Male,Bachelor's Degree,Standard,Not Completed,13.8,66.9,No,6.6,85.0,91.9,89.2,88.7
+STU4074,Male,Bachelor's Degree,Free/Reduced,Not Completed,7.9,96.7,Yes,7.0,76.8,79.4,81.7,79.3
+STU4075,Male,High School,Standard,Not Completed,12.7,62.7,Yes,6.6,77.5,76.8,72.4,75.6
+STU4076,Female,High School,Standard,Not Completed,10.3,72.4,Yes,6.7,82.3,99.9,90.2,90.8
+STU4077,Male,Associate's Degree,Standard,Completed,4.1,74.3,No,5.8,66.9,79.5,73.8,73.4
+STU4078,Female,High School,Standard,Not Completed,5.6,46.2,Yes,7.4,76.3,77.5,72.7,75.5
+STU4079,Male,Bachelor's Degree,Standard,Completed,4.6,92.4,Yes,7.7,82.6,92.4,90.8,88.6
+STU4080,Male,High School,Standard,Not Completed,3.6,72.7,No,5.4,83.2,81.3,89.9,84.8
+STU4081,Male,Master's Degree,Free/Reduced,Completed,2.4,52.7,No,6.3,80.9,79.7,80.9,80.5
+STU4082,Male,Associate's Degree,Standard,Not Completed,22.6,62.1,Yes,7.0,100.0,100.0,100.0,100.0
+STU4083,Female,Bachelor's Degree,Standard,Not Completed,9.4,74.8,No,6.3,79.1,79.6,78.5,79.1
+STU4084,Female,High School,Standard,Completed,10.2,89.5,No,6.7,84.1,84.8,78.6,82.5
+STU4085,Male,Bachelor's Degree,Free/Reduced,Completed,14.6,89.0,Yes,8.9,84.3,100.0,89.4,91.2
+STU4086,Male,Master's Degree,Standard,Completed,5.6,74.2,No,5.8,100.0,100.0,100.0,100.0
+STU4087,Female,Associate's Degree,Standard,Not Completed,3.1,80.4,Yes,4.2,70.2,62.9,69.5,67.5
+STU4088,Female,Associate's Degree,Free/Reduced,Not Completed,12.1,91.0,No,6.3,71.0,79.9,77.0,76.0
+STU4089,Female,Bachelor's Degree,Free/Reduced,Completed,3.4,88.6,No,6.6,90.1,100.0,83.4,91.2
+STU4090,Female,High School,Standard,Not Completed,11.9,86.2,No,6.4,83.8,81.7,85.9,83.8
+STU4091,Male,Associate's Degree,Free/Reduced,Completed,2.7,85.4,No,7.3,73.4,73.7,72.2,73.1
+STU4092,Female,Associate's Degree,Free/Reduced,Not Completed,3.3,82.4,Yes,5.8,69.7,62.9,62.8,65.1
+STU4093,Male,High School,Free/Reduced,Not Completed,5.3,84.1,Yes,5.6,59.7,74.9,64.3,66.3
+STU4094,Female,Associate's Degree,Standard,Completed,11.7,92.7,No,6.2,93.2,95.5,100.0,96.2
+STU4095,Female,High School,Free/Reduced,Not Completed,18.8,96.8,No,6.2,83.8,81.7,95.5,87.0
+STU4096,Female,High School,Standard,Completed,10.2,86.9,Yes,9.5,82.9,85.5,79.4,82.6
+STU4097,Female,High School,Standard,Completed,5.4,74.9,No,8.9,73.1,78.2,72.6,74.6
+STU4098,Female,Master's Degree,Standard,Completed,13.3,84.3,Yes,5.0,64.6,63.2,66.1,64.6
+STU4099,Male,Associate's Degree,Standard,Completed,2.7,70.3,Yes,4.7,64.0,64.4,67.7,65.4
+STU4100,Male,Master's Degree,Standard,Not Completed,4.3,75.4,No,6.9,79.0,78.1,70.9,76.0
+STU4101,Female,Associate's Degree,Free/Reduced,Not Completed,8.4,85.3,Yes,9.3,74.8,86.2,81.0,80.7
+STU4102,Female,High School,Standard,Not Completed,12.3,84.5,No,7.8,84.2,79.2,77.8,80.4
+STU4103,Male,Associate's Degree,Standard,Completed,7.0,94.7,Yes,7.0,100.0,100.0,100.0,100.0
+STU4104,Female,Associate's Degree,Standard,Completed,6.6,93.0,Yes,6.5,84.8,85.7,77.4,82.6
+STU4105,Female,High School,Standard,Not Completed,6.8,96.9,No,8.3,66.0,63.9,64.2,64.7
+STU4106,Male,Associate's Degree,Free/Reduced,Not Completed,14.6,75.6,No,7.2,87.9,94.8,85.2,89.3
+STU4107,Female,High School,Standard,Completed,4.8,83.6,Yes,9.1,89.0,92.1,83.2,88.1
+STU4108,Female,Associate's Degree,Standard,Not Completed,4.1,94.4,Yes,5.0,60.0,70.5,60.5,63.7
+STU4109,Male,Bachelor's Degree,Standard,Not Completed,6.7,91.4,Yes,7.5,90.2,76.5,75.6,80.8
+STU4110,Male,High School,Standard,Not Completed,15.7,87.8,No,6.3,84.5,91.7,92.0,89.4
+STU4111,Male,High School,Standard,Not Completed,5.2,69.6,No,7.5,85.6,82.6,77.1,81.8
+STU4112,Female,Bachelor's Degree,Free/Reduced,Completed,6.8,88.0,No,7.3,74.1,72.1,65.2,70.5
+STU4113,Male,Associate's Degree,Free/Reduced,Completed,2.6,69.0,Yes,7.6,77.1,70.3,77.4,74.9
+STU4114,Male,High School,Standard,Not Completed,7.0,90.0,Yes,8.2,92.5,83.4,78.0,84.6
+STU4115,Male,Master's Degree,Free/Reduced,Completed,9.1,75.7,No,8.7,100.0,100.0,100.0,100.0
+STU4116,Male,High School,Free/Reduced,Not Completed,3.4,56.6,No,9.3,48.5,54.8,51.2,51.5
+STU4117,Male,Bachelor's Degree,Free/Reduced,Not Completed,14.6,89.0,No,7.0,95.7,79.5,84.8,86.7
+STU4118,Male,Master's Degree,Standard,Completed,9.1,67.2,No,6.3,87.8,95.5,94.3,92.5
+STU4119,Female,High School,Standard,Not Completed,5.7,96.5,Yes,5.5,80.7,78.8,73.6,77.7
+STU4120,Female,High School,Standard,Completed,9.1,75.3,No,7.5,87.4,78.6,82.1,82.7
+STU4121,Male,High School,Free/Reduced,Not Completed,10.6,79.7,No,8.0,74.0,73.0,68.4,71.8
+STU4122,Male,High School,Free/Reduced,Not Completed,2.1,92.9,No,5.4,67.4,59.2,79.5,68.7
+STU4123,Male,High School,Standard,Not Completed,9.3,70.3,Yes,8.4,77.3,75.7,75.4,76.1
+STU4124,Female,Bachelor's Degree,Standard,Not Completed,15.4,59.5,Yes,6.9,98.7,86.4,86.7,90.6
+STU4125,Female,High School,Free/Reduced,Not Completed,4.8,88.2,Yes,5.5,60.6,52.7,66.8,60.0
+STU4126,Female,Associate's Degree,Free/Reduced,Not Completed,5.8,87.0,No,6.0,65.2,65.1,69.6,66.6
+STU4127,Female,Master's Degree,Free/Reduced,Not Completed,6.4,52.8,Yes,5.9,74.9,80.2,81.0,78.7
+STU4128,Female,Bachelor's Degree,Free/Reduced,Completed,12.4,83.0,Yes,5.9,100.0,100.0,100.0,100.0
+STU4129,Female,Associate's Degree,Standard,Completed,3.9,69.1,No,7.7,98.2,94.9,85.4,92.8
+STU4130,Female,High School,Standard,Completed,10.3,83.4,Yes,8.0,79.8,97.8,86.5,88.0
+STU4131,Female,Associate's Degree,Free/Reduced,Completed,6.5,92.6,Yes,9.0,88.6,90.5,85.4,88.2
+STU4132,Female,Associate's Degree,Standard,Not Completed,19.3,86.5,Yes,6.2,91.7,75.1,84.2,83.7
+STU4133,Male,Associate's Degree,Standard,Not Completed,6.7,91.7,Yes,7.4,91.1,75.4,86.4,84.3
+STU4134,Male,High School,Free/Reduced,Not Completed,1.3,79.9,Yes,6.2,53.2,55.0,65.7,58.0
+STU4135,Male,Bachelor's Degree,Standard,Completed,11.4,67.1,No,7.0,100.0,100.0,97.6,99.2
+STU4136,Male,Associate's Degree,Free/Reduced,Not Completed,10.0,77.7,No,5.2,80.9,84.5,85.7,83.7
+STU4137,Female,High School,Standard,Completed,8.8,88.9,No,5.7,94.0,100.0,97.4,97.1
+STU4138,Female,Associate's Degree,Free/Reduced,Not Completed,15.2,76.4,Yes,8.0,77.8,89.4,83.2,83.5
+STU4139,Male,Associate's Degree,Standard,Not Completed,2.4,76.5,No,5.2,76.9,75.9,75.1,76.0
+STU4140,Female,Bachelor's Degree,Standard,Completed,4.3,43.9,Yes,7.7,84.7,75.3,80.2,80.1
+STU4141,Male,Bachelor's Degree,Standard,Completed,7.8,69.5,Yes,6.2,86.0,92.4,80.7,86.4
+STU4142,Female,Bachelor's Degree,Standard,Completed,8.6,64.5,No,4.7,89.1,76.4,78.4,81.3
+STU4143,Male,High School,Free/Reduced,Not Completed,7.1,96.5,Yes,4.0,77.7,90.2,84.9,84.3
+STU4144,Female,Associate's Degree,Free/Reduced,Not Completed,2.7,95.0,Yes,8.8,73.2,71.1,66.1,70.1
+STU4145,Female,Associate's Degree,Standard,Not Completed,5.8,88.9,No,4.7,75.4,78.3,67.7,73.8
+STU4146,Male,High School,Standard,Completed,18.6,72.5,No,6.9,71.0,82.0,71.5,74.8
+STU4147,Female,High School,Standard,Not Completed,3.7,91.3,Yes,7.4,78.9,75.1,62.8,72.3
+STU4148,Male,Bachelor's Degree,Standard,Not Completed,7.7,91.9,Yes,5.4,83.6,84.4,71.1,79.7
+STU4149,Male,High School,Free/Reduced,Not Completed,10.3,78.9,Yes,6.3,73.0,72.5,68.7,71.4
+STU4150,Male,Associate's Degree,Free/Reduced,Completed,12.2,81.5,No,7.6,84.8,81.3,64.9,77.0
+STU4151,Male,High School,Free/Reduced,Completed,11.4,77.6,Yes,7.4,72.5,62.8,69.0,68.1
+STU4152,Female,High School,Free/Reduced,Not Completed,5.6,76.6,Yes,6.4,63.5,64.1,65.4,64.3
+STU4153,Female,High School,Standard,Completed,4.3,68.0,No,7.3,90.8,100.0,85.7,92.2
+STU4154,Female,Master's Degree,Free/Reduced,Completed,19.4,81.0,No,6.9,81.5,94.1,89.9,88.5
+STU4155,Male,Bachelor's Degree,Free/Reduced,Completed,12.9,74.9,Yes,5.8,94.3,100.0,89.9,94.7
+STU4156,Female,Master's Degree,Free/Reduced,Not Completed,8.1,86.5,Yes,8.4,98.2,86.6,89.7,91.5
+STU4157,Male,Associate's Degree,Free/Reduced,Not Completed,16.6,84.5,No,7.2,100.0,100.0,100.0,100.0
+STU4158,Female,High School,Standard,Not Completed,2.6,77.6,No,4.8,77.9,69.3,78.8,75.3
+STU4159,Female,Associate's Degree,Free/Reduced,Not Completed,3.1,77.1,Yes,7.6,85.1,71.6,82.9,79.9
+STU4160,Female,Associate's Degree,Standard,Not Completed,1.4,85.9,Yes,6.3,78.1,68.5,81.2,75.9
+STU4161,Male,Bachelor's Degree,Standard,Completed,8.5,69.9,Yes,6.7,92.7,90.7,82.6,88.7
+STU4162,Female,High School,Standard,Not Completed,8.8,93.9,Yes,7.0,78.5,86.6,89.1,84.7
+STU4163,Female,Associate's Degree,Free/Reduced,Completed,2.9,87.4,No,6.0,81.2,92.2,87.4,86.9
+STU4164,Male,High School,Free/Reduced,Not Completed,12.6,89.4,Yes,9.2,88.3,81.6,76.9,82.3
+STU4165,Female,High School,Free/Reduced,Completed,1.8,96.7,No,5.2,84.0,69.2,73.7,75.6
+STU4166,Male,Bachelor's Degree,Free/Reduced,Completed,9.6,84.9,No,7.1,100.0,100.0,100.0,100.0
+STU4167,Female,Associate's Degree,Standard,Completed,10.9,79.5,No,7.5,88.3,81.5,83.4,84.4
+STU4168,Male,Associate's Degree,Free/Reduced,Completed,8.5,65.4,Yes,7.0,82.1,83.7,72.7,79.5
+STU4169,Male,Associate's Degree,Standard,Completed,2.6,85.0,No,6.8,87.1,76.5,79.9,81.2
+STU4170,Female,Associate's Degree,Standard,Completed,15.1,90.5,Yes,6.5,96.8,100.0,96.4,97.7
+STU4171,Male,Bachelor's Degree,Standard,Not Completed,5.7,82.4,No,6.0,93.1,84.3,88.7,88.7
+STU4172,Male,Bachelor's Degree,Free/Reduced,Not Completed,5.7,81.5,No,6.0,79.7,82.2,80.0,80.6
+STU4173,Male,Master's Degree,Free/Reduced,Not Completed,5.0,74.4,Yes,8.4,74.8,80.4,76.2,77.1
+STU4174,Male,Bachelor's Degree,Standard,Not Completed,11.6,95.8,Yes,6.5,84.5,87.7,90.6,87.6
+STU4175,Male,High School,Standard,Not Completed,5.5,88.9,Yes,9.6,86.0,71.9,73.7,77.2
+STU4176,Male,Bachelor's Degree,Free/Reduced,Not Completed,3.5,82.4,No,7.8,71.7,79.9,64.2,71.9
+STU4177,Female,Associate's Degree,Standard,Not Completed,13.4,69.1,No,4.0,67.6,68.4,70.0,68.7
+STU4178,Male,High School,Free/Reduced,Completed,7.6,92.7,No,8.1,81.8,86.7,93.0,87.2
+STU4179,Male,Bachelor's Degree,Free/Reduced,Completed,13.7,77.5,No,6.9,100.0,100.0,100.0,100.0
+STU4180,Female,High School,Standard,Not Completed,7.9,65.4,Yes,5.3,73.1,88.6,72.3,78.0
+STU4181,Female,Master's Degree,Standard,Not Completed,4.8,87.4,No,8.6,72.8,76.8,66.2,71.9
+STU4182,Female,Associate's Degree,Free/Reduced,Not Completed,2.1,79.5,No,6.5,81.8,81.9,82.7,82.1
+STU4183,Female,Associate's Degree,Free/Reduced,Completed,8.5,85.8,No,6.4,87.5,88.3,86.4,87.4
+STU4184,Female,Bachelor's Degree,Standard,Completed,6.4,35.4,No,7.5,78.8,92.9,96.6,89.4
+STU4185,Female,Bachelor's Degree,Free/Reduced,Not Completed,11.9,59.5,No,8.4,74.4,78.5,65.1,72.7
+STU4186,Female,Associate's Degree,Standard,Completed,5.4,82.4,No,7.1,82.4,82.8,85.1,83.4
+STU4187,Male,Associate's Degree,Standard,Not Completed,9.8,65.1,No,7.1,89.3,94.9,95.0,93.1
+STU4188,Male,High School,Free/Reduced,Not Completed,7.7,68.0,No,6.2,68.5,72.5,72.5,71.2
+STU4189,Female,Associate's Degree,Free/Reduced,Not Completed,4.5,67.3,No,8.4,66.5,72.0,62.3,66.9
+STU4190,Male,High School,Standard,Not Completed,5.6,81.9,No,7.1,63.1,59.7,61.9,61.6
+STU4191,Male,Bachelor's Degree,Free/Reduced,Not Completed,3.0,76.8,No,6.7,72.7,72.4,78.9,74.7
+STU4192,Male,Associate's Degree,Standard,Not Completed,20.2,73.3,No,6.6,88.8,92.8,87.9,89.8
+STU4193,Female,Bachelor's Degree,Standard,Not Completed,9.7,75.5,Yes,8.2,90.1,97.9,88.5,92.2
+STU4194,Female,High School,Standard,Not Completed,2.9,70.9,Yes,6.7,67.6,78.5,65.0,70.4
+STU4195,Male,High School,Free/Reduced,Completed,19.6,98.5,Yes,8.2,99.6,100.0,99.9,99.8
+STU4196,Female,Bachelor's Degree,Standard,Completed,3.7,76.3,No,6.4,85.9,89.4,84.1,86.5
+STU4197,Male,High School,Standard,Completed,5.3,86.0,No,7.9,89.1,77.7,78.5,81.8
+STU4198,Male,High School,Standard,Not Completed,6.7,78.7,No,7.2,87.6,90.1,86.6,88.1
+STU4199,Male,High School,Free/Reduced,Not Completed,7.8,91.4,Yes,5.9,87.6,86.1,82.1,85.3
