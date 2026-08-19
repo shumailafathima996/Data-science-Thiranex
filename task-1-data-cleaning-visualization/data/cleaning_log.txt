@@ -1,0 +1,9 @@
+Initial shape: (1045, 10)
+Dropped 5 fully empty rows
+Dropped 0 rows with missing OrderID
+Dropped 40 duplicate rows
+Unparseable dates: 0
+Flagged 5 price outliers -> set to NaN
+Dropped 0 rows with unparseable dates
+Dropped 0 duplicate OrderIDs
+Final shape: (1000, 11)

@@ -1,0 +1,1001 @@
+OrderID,Order Date,Product,Category,Region,Price,Quantity,CustomerAge,PaymentMethod,Rating,Revenue
+ORD1600,2025-03-18,Usb-C Hub,Accessories,West,19.61,4,37,Credit Card,5.0,78.44
+ORD1736,2025-05-03,Bluetooth Speaker,Audio,South,41.89,5,34,Unknown,3.6,209.45
+ORD1314,2025-05-14,Wireless Mouse,Accessories,East,15.41,5,22,Debit Card,3.4,77.05
+ORD1815,2025-06-12,Bluetooth Speaker,Audio,South,35.62,5,39,Unknown,4.0,178.1
+ORD1978,2025-03-06,Noise Cancelling Headphones,Audio,North,97.17,6,42,Upi,4.1,583.02
+ORD1009,2025-08-09,Power Bank,Electronics,East,28.27,4,44,Credit Card,4.1,113.08
+ORD1134,2025-01-10,Power Bank,Electronics,East,27.67,7,48,Credit Card,3.3,193.69
+ORD1777,2025-01-26,Laptop Stand,Office,East,28.59,4,20,Debit Card,4.0,114.36
+ORD1409,2025-01-23,Laptop Stand,Office,South,21.9,4,38,Credit Card,4.0,87.6
+ORD1412,2025-04-13,Laptop Stand,Office,West,26.58,3,40,Credit Card,4.0,79.74
+ORD1459,2025-02-16,Desk Lamp,Office,East,15.29,3,16,Credit Card,3.7,45.87
+ORD1509,2025-01-09,Mechanical Keyboard,Accessories,West,74.9,2,38,Upi,3.8,149.8
+ORD1054,2025-06-05,Mechanical Keyboard,Accessories,East,66.94,3,40,Upi,4.2,200.82
+ORD1801,2025-05-17,Desk Lamp,Office,North,19.66,2,38,COD,3.4,39.32
+ORD1713,2025-08-10,Phone Case,Accessories,North,9.88,3,34,Credit Card,2.6,29.64
+ORD1542,2025-04-08,Power Bank,Electronics,North,37.79,4,41,Credit Card,5.0,151.16
+ORD1767,2025-01-18,Noise Cancelling Headphones,Audio,West,79.35,5,26,Debit Card,3.2,396.75
+ORD1146,2025-02-14,Webcam Hd,Electronics,West,31.38,4,38,COD,4.8,125.52
+ORD1836,2025-06-26,Webcam Hd,Electronics,West,38.29,3,31,Credit Card,4.0,114.87
+ORD1487,2025-04-23,Usb-C Hub,Accessories,South,14.45,4,35,Unknown,3.2,57.8
+ORD1873,2025-01-31,Usb-C Hub,Accessories,West,20.57,2,34,Upi,4.2,41.14
+ORD1948,2025-03-14,Noise Cancelling Headphones,Audio,North,64.28,2,36,Cash,3.4,128.56
+ORD1718,2025-01-26,Wireless Mouse,Accessories,South,16.3,4,32,Upi,3.3,65.2
+ORD1034,2025-07-29,Wireless Mouse,Accessories,West,15.39,3,37,Debit Card,4.2,46.17
+ORD1171,2025-03-28,Bluetooth Speaker,Audio,East,33.74,6,36,Debit Card,5.0,202.44
+ORD1395,2025-04-23,Phone Case,Accessories,North,10.51,4,34,Debit Card,3.9,42.04
+ORD1368,2025-06-30,Phone Case,Accessories,West,10.32,5,32,Unknown,5.0,51.6
+ORD1361,2025-03-24,Desk Lamp,Office,West,18.11,8,33,Upi,3.0,144.88
+ORD1328,2025-01-15,Laptop Stand,Office,East,25.009999999999998,2,32,COD,2.4,50.02
+ORD1170,2025-01-19,Power Bank,Electronics,North,27.74,1,36,Unknown,3.9,27.74
+ORD1256,2025-07-15,Phone Case,Accessories,West,11.11,1,31,Credit Card,4.3,11.11
+ORD1999,2025-08-22,Webcam Hd,Electronics,West,36.29,2,41,Unknown,4.0,72.58
+ORD1179,2025-03-18,Mechanical Keyboard,Accessories,West,56.86,1,42,Upi,5.0,56.86
+ORD1918,2025-07-20,Desk Lamp,Office,South,21.15,4,26,COD,5.0,84.6
+ORD1585,2025-05-19,Wireless Mouse,Accessories,East,9.35,3,36,Cash,5.0,28.05
+ORD1164,2025-03-04,Mechanical Keyboard,Accessories,North,57.78,1,27,Cash,4.2,57.78
+ORD1849,2025-03-04,Desk Lamp,Office,North,12.4,2,41,Credit Card,5.0,24.8
+ORD1956,2025-06-15,Power Bank,Electronics,South,29.13,2,16,Credit Card,5.0,58.26
+ORD1325,2025-07-01,Noise Cancelling Headphones,Audio,East,82.82,4,28,Unknown,4.9,331.28
+ORD1466,2025-08-14,Wireless Mouse,Accessories,South,17.74,2,28,Unknown,5.0,35.48
+ORD1372,2025-02-26,Power Bank,Electronics,South,35.7,6,30,Upi,4.2,214.2
+ORD1601,2025-01-08,Phone Case,Accessories,South,11.31,4,34,Credit Card,4.0,45.24
+ORD1484,2025-02-03,Mechanical Keyboard,Accessories,North,64.2,4,49,Credit Card,3.2,256.8
+ORD1013,2025-05-26,Mechanical Keyboard,Accessories,West,69.38,4,26,Unknown,4.2,277.52
+ORD1748,2025-02-06,Bluetooth Speaker,Audio,South,38.95,1,36,Credit Card,3.9,38.95
+ORD1316,2025-02-06,Phone Case,Accessories,East,8.39,6,36,Credit Card,5.0,50.34
+ORD1455,2025-03-07,Phone Case,Accessories,South,10.72,4,29,Credit Card,3.8,42.88
+ORD1140,2025-08-27,Bluetooth Speaker,Audio,South,50.37,3,44,Unknown,4.3,151.11
+ORD1216,2025-04-12,Mechanical Keyboard,Accessories,West,54.15,3,39,Credit Card,3.6,162.45
+ORD1489,2025-07-08,Usb-C Hub,Accessories,North,21.52,3,49,Debit Card,4.6,64.56
+ORD1305,2025-05-22,Usb-C Hub,Accessories,North,23.51,5,22,COD,3.9,117.55
+ORD1658,2025-01-16,Noise Cancelling Headphones,Audio,West,78.34,5,33,Upi,3.4,391.7
+ORD1955,2025-03-13,Noise Cancelling Headphones,Audio,West,109.47,3,34,Credit Card,3.4,328.41
+ORD1582,2025-04-26,Mechanical Keyboard,Accessories,South,43.37,1,35,Cash,2.4,43.37
+ORD1899,2025-06-27,Power Bank,Electronics,East,29.08,6,36,Unknown,4.3,174.48
+ORD1660,2025-05-09,Wireless Mouse,Accessories,West,12.78,1,35,Debit Card,5.0,12.78
+ORD1408,2025-03-28,Bluetooth Speaker,Audio,North,45.92,3,35,Debit Card,3.1,137.76
+ORD1099,2025-01-10,Desk Lamp,Office,South,16.8,2,43,Debit Card,5.0,33.6
+ORD1785,2025-03-23,Laptop Stand,Office,South,22.56,3,25,Upi,4.0,67.68
+ORD1153,2025-04-26,Noise Cancelling Headphones,Audio,South,103.33,2,45,Credit Card,5.0,206.66
+ORD1046,2025-04-23,Power Bank,Electronics,North,35.23,3,34,Upi,3.9,105.69
+ORD1004,2025-01-12,Webcam Hd,Electronics,South,35.64,2,28,Unknown,3.6,71.28
+ORD1172,2025-05-02,Wireless Mouse,Accessories,East,18.79,5,29,Upi,4.8,93.95
+ORD1965,2025-08-21,Noise Cancelling Headphones,Audio,South,77.71,4,25,Debit Card,4.4,310.84
+ORD1926,2025-06-20,Phone Case,Accessories,West,10.49,4,43,Unknown,3.4,41.96
+ORD1222,2025-07-16,Usb-C Hub,Accessories,South,21.31,4,45,Credit Card,2.9,85.24
+ORD1997,2025-03-15,Usb-C Hub,Accessories,East,18.03,2,32,Unknown,4.8,36.06
+ORD1259,2025-06-01,Bluetooth Speaker,Audio,North,44.72,2,40,Credit Card,3.7,89.44
+ORD1558,2025-08-21,Laptop Stand,Office,East,26.84,3,34,Credit Card,4.6,80.52
+ORD1232,2025-08-06,Mechanical Keyboard,Accessories,West,47.2,2,49,Debit Card,5.0,94.4
+ORD1108,2025-02-07,Bluetooth Speaker,Audio,South,39.61,4,32,Cash,3.4,158.44
+ORD1854,2025-04-16,Bluetooth Speaker,Audio,East,32.54,5,29,Unknown,4.3,162.7
+ORD1980,2025-04-16,Phone Case,Accessories,North,9.84,4,30,Unknown,4.4,39.36
+ORD1098,2025-05-24,Phone Case,Accessories,South,9.48,4,42,COD,5.0,37.92
+ORD1765,2025-03-26,Laptop Stand,Office,East,24.41,4,40,Cash,2.6,97.64
+ORD1833,2025-01-02,Laptop Stand,Office,South,24.18,8,37,Credit Card,5.0,193.44
+ORD1220,2025-07-30,Noise Cancelling Headphones,Audio,East,92.01,3,30,Credit Card,3.8,276.03
+ORD1357,2025-07-24,Usb-C Hub,Accessories,South,20.575,4,54,Credit Card,4.1,82.3
+ORD1971,2025-04-07,Usb-C Hub,Accessories,West,21.41,3,41,Credit Card,2.4,64.23
+ORD1024,2025-06-08,Noise Cancelling Headphones,Audio,South,75.66,4,38,Upi,3.4,302.64
+ORD1992,2025-03-19,Laptop Stand,Office,West,16.6,5,34,Cash,4.4,83.0
+ORD1681,2025-04-29,Power Bank,Electronics,South,29.81,8,16,Debit Card,3.6,238.48
+ORD1384,2025-03-06,Power Bank,Electronics,West,33.12,5,30,Upi,4.2,165.6
+ORD1094,2025-08-21,Noise Cancelling Headphones,Audio,East,80.87,4,16,Debit Card,3.9,323.48
+ORD1770,2025-04-25,Phone Case,Accessories,West,9.71,4,32,Credit Card,2.8,38.84
+ORD1451,2025-08-23,Phone Case,Accessories,East,11.49,3,36,Cash,4.8,34.47
+ORD1025,2025-04-28,Desk Lamp,Office,South,17.13,7,30,Credit Card,3.9,119.91
+ORD1113,2025-08-05,Usb-C Hub,Accessories,South,17.82,2,34,Credit Card,4.0,35.64
+ORD1125,2025-03-24,Noise Cancelling Headphones,Audio,East,85.48,4,38,Cash,4.1,341.92
+ORD1060,2025-06-29,Mechanical Keyboard,Accessories,West,71.44,6,41,Credit Card,4.2,428.64
+ORD1433,2025-07-15,Wireless Mouse,Accessories,East,18.42,6,35,Credit Card,4.6,110.52
+ORD1589,2025-03-23,Laptop Stand,Office,South,25.35,4,47,Debit Card,5.0,101.4
+ORD1244,2025-05-05,Laptop Stand,Office,East,29.37,3,28,Credit Card,3.6,88.11
+ORD1680,2025-02-18,Bluetooth Speaker,Audio,East,43.36,3,34,COD,4.2,130.08
+ORD1075,2025-03-15,Laptop Stand,Office,North,22.03,2,32,Cash,3.2,44.06
+ORD1898,2025-04-07,Laptop Stand,Office,West,28.66,2,47,Cash,3.2,57.32
+ORD1426,2025-05-05,Power Bank,Electronics,North,35.8,1,43,Cash,4.7,35.8
+ORD1715,2025-06-30,Mechanical Keyboard,Accessories,South,64.01,5,27,Unknown,4.3,320.05
+ORD1417,2025-03-15,Wireless Mouse,Accessories,South,9.76,4,44,Credit Card,3.9,39.04
+ORD1909,2025-02-01,Phone Case,Accessories,South,10.81,2,37,Unknown,5.0,21.62
+ORD1389,2025-05-19,Wireless Mouse,Accessories,South,13.81,4,20,Cash,4.2,55.24
+ORD1053,2025-01-06,Wireless Mouse,Accessories,West,13.62,6,46,COD,3.0,81.72
+ORD1843,2025-07-12,Bluetooth Speaker,Audio,East,50.7,2,37,Cash,4.5,101.4
+ORD1350,2025-08-16,Laptop Stand,Office,North,28.68,4,34,COD,5.0,114.72
+ORD1205,2025-04-17,Phone Case,Accessories,West,8.93,2,26,Upi,4.1,17.86
+ORD1471,2025-03-31,Bluetooth Speaker,Audio,North,40.49,4,27,Unknown,4.5,161.96
+ORD1531,2025-04-27,Noise Cancelling Headphones,Audio,West,102.66,3,35,Cash,3.4,307.98
+ORD1643,2025-01-15,Phone Case,Accessories,South,12.43,3,19,Upi,4.0,37.29
+ORD1403,2025-07-22,Desk Lamp,Office,South,16.33,5,37,Cash,4.7,81.65
+ORD1906,2025-06-24,Desk Lamp,Office,South,18.37,5,41,Debit Card,4.5,91.85
+ORD1492,2025-03-24,Usb-C Hub,Accessories,East,21.67,4,20,COD,4.0,86.68
+ORD1375,2025-05-05,Webcam Hd,Electronics,West,28.97,5,42,Upi,4.6,144.85
+ORD1912,2025-08-12,Desk Lamp,Office,West,21.3,4,32,Cash,3.7,85.2
+ORD1510,2025-01-10,Mechanical Keyboard,Accessories,West,58.75,2,41,Credit Card,4.2,117.5
+ORD1097,2025-04-05,Wireless Mouse,Accessories,East,13.16,2,49,Unknown,4.5,26.32
+ORD1285,2025-07-25,Power Bank,Electronics,North,37.7,3,41,Unknown,3.5,113.1
+ORD1782,2025-03-24,Bluetooth Speaker,Audio,South,43.65,4,23,Credit Card,5.0,174.6
+ORD1739,2025-05-24,Desk Lamp,Office,East,17.21,4,33,Credit Card,4.5,68.84
+ORD1498,2025-08-24,Noise Cancelling Headphones,Audio,East,105.65,4,30,Debit Card,3.8,422.6
+ORD1780,2025-01-04,Usb-C Hub,Accessories,South,21.18,3,27,Debit Card,3.5,63.54
+ORD1017,2025-08-28,Phone Case,Accessories,West,10.52,2,38,Unknown,4.0,21.04
+ORD1196,2025-08-28,Wireless Mouse,Accessories,East,15.24,3,20,Unknown,5.0,45.72
+ORD1026,2025-02-03,Bluetooth Speaker,Audio,West,35.28,7,45,Upi,4.4,246.96
+ORD1728,2025-07-16,Noise Cancelling Headphones,Audio,South,91.96,2,29,Cash,5.0,183.92
+ORD1186,2025-05-20,Webcam Hd,Electronics,East,29.35,4,40,Unknown,5.0,117.4
+ORD1743,2025-07-18,Webcam Hd,Electronics,South,32.11,6,41,Upi,3.5,192.66
+ORD1344,2025-01-23,Phone Case,Accessories,West,9.41,4,38,Debit Card,2.7,37.64
+ORD1702,2025-04-06,Power Bank,Electronics,South,23.89,3,23,Credit Card,2.9,71.67
+ORD1189,2025-07-12,Usb-C Hub,Accessories,North,20.575,3,25,Upi,5.0,61.72
+ORD1742,2025-03-04,Phone Case,Accessories,East,12.02,5,34,Upi,4.1,60.1
+ORD1970,2025-06-18,Laptop Stand,Office,North,21.65,5,30,Debit Card,4.2,108.25
+ORD1270,2025-06-29,Laptop Stand,Office,South,26.12,3,41,Credit Card,4.1,78.36
+ORD1326,2025-01-27,Power Bank,Electronics,South,32.32,5,41,Credit Card,4.4,161.6
+ORD1806,2025-07-14,Noise Cancelling Headphones,Audio,North,95.14,3,29,COD,4.3,285.42
+ORD1812,2025-02-19,Bluetooth Speaker,Audio,North,47.63,2,34,Debit Card,2.8,95.26
+ORD1778,2025-07-02,Laptop Stand,Office,West,26.95,5,38,Cash,5.0,134.75
+ORD1795,2025-05-04,Phone Case,Accessories,West,9.77,6,36,Debit Card,4.5,58.62
+ORD1351,2025-06-21,Noise Cancelling Headphones,Audio,South,71.76,3,35,Cash,4.3,215.28
+ORD1385,2025-03-23,Mechanical Keyboard,Accessories,North,54.24,3,18,COD,5.0,162.72
+ORD1752,2025-06-03,Power Bank,Electronics,North,27.45,2,42,Unknown,4.3,54.9
+ORD1791,2025-08-01,Laptop Stand,Office,South,20.02,2,40,Cash,3.9,40.04
+ORD1731,2025-06-18,Power Bank,Electronics,East,36.29,5,42,Credit Card,4.5,181.45
+ORD1262,2025-02-25,Desk Lamp,Office,South,16.79,4,54,Credit Card,5.0,67.16
+ORD1840,2025-03-11,Wireless Mouse,Accessories,East,14.7,5,39,Credit Card,3.8,73.5
+ORD1074,2025-06-12,Mechanical Keyboard,Accessories,West,55.38,4,23,Upi,3.6,221.52
+ORD1168,2025-03-03,Bluetooth Speaker,Audio,North,43.66,4,47,Upi,3.2,174.64
+ORD1649,2025-07-08,Desk Lamp,Office,North,19.16,3,37,COD,5.0,57.48
+ORD1562,2025-06-06,Laptop Stand,Office,West,28.15,3,36,Credit Card,4.0,84.45
+ORD1659,2025-01-02,Noise Cancelling Headphones,Audio,North,88.29,3,34,Cash,2.8,264.87
+ORD1729,2025-07-01,Wireless Mouse,Accessories,North,15.67,1,34,Unknown,3.6,15.67
+ORD1553,2025-04-02,Phone Case,Accessories,North,10.2,3,16,COD,5.0,30.6
+ORD1306,2025-01-14,Noise Cancelling Headphones,Audio,North,85.84,2,41,Unknown,5.0,171.68
+ORD1925,2025-06-16,Bluetooth Speaker,Audio,South,37.01,5,51,Cash,4.0,185.05
+ORD1961,2025-01-26,Webcam Hd,Electronics,East,44.8,4,16,Debit Card,4.5,179.2
+ORD1757,2025-01-11,Phone Case,Accessories,East,11.55,3,34,Cash,3.8,34.65
+ORD1896,2025-04-24,Mechanical Keyboard,Accessories,North,58.32,5,22,Credit Card,4.4,291.6
+ORD1790,2025-06-11,Desk Lamp,Office,South,17.08,4,42,Debit Card,4.0,68.32
+ORD1641,2025-08-01,Power Bank,Electronics,North,34.51,8,50,Cash,3.3,276.08
+ORD1502,2025-05-25,Noise Cancelling Headphones,Audio,West,72.86,7,51,Cash,4.2,510.02
+ORD1308,2025-04-08,Power Bank,Electronics,North,34.34,4,50,Cash,3.4,137.36
+ORD1110,2025-03-22,Phone Case,Accessories,South,8.93,5,35,Debit Card,3.0,44.65
+ORD1525,2025-06-12,Laptop Stand,Office,East,28.36,6,43,Cash,3.4,170.16
+ORD1869,2025-04-25,Power Bank,Electronics,East,32.06,4,34,Credit Card,4.8,128.24
+ORD1057,2025-06-12,Phone Case,Accessories,East,11.31,2,45,Cash,3.7,22.62
+ORD1650,2025-03-22,Laptop Stand,Office,West,25.009999999999998,2,39,Credit Card,4.7,50.02
+ORD1006,2025-06-13,Phone Case,Accessories,South,11.23,4,21,Unknown,4.8,44.92
+ORD1966,2025-01-06,Wireless Mouse,Accessories,South,9.59,6,47,Debit Card,3.4,57.54
+ORD1138,2025-05-13,Power Bank,Electronics,East,31.3,2,58,Upi,3.5,62.6
+ORD1163,2025-05-28,Bluetooth Speaker,Audio,East,57.03,1,36,Credit Card,2.3,57.03
+ORD1358,2025-02-18,Desk Lamp,Office,West,17.49,5,30,Cash,3.9,87.45
+ORD1890,2025-07-23,Phone Case,Accessories,West,8.71,5,18,Cash,2.7,43.55
+ORD1838,2025-03-07,Laptop Stand,Office,East,28.86,6,39,Credit Card,3.1,173.16
+ORD1043,2025-08-15,Wireless Mouse,Accessories,East,17.32,3,31,Unknown,5.0,51.96
+ORD1615,2025-02-04,Webcam Hd,Electronics,North,32.62,5,36,Credit Card,4.1,163.1
+ORD1063,2025-07-15,Usb-C Hub,Accessories,West,22.93,3,16,Upi,3.6,68.79
+ORD1591,2025-05-20,Webcam Hd,Electronics,North,33.81,3,34,Cash,5.0,101.43
+ORD1586,2025-05-14,Wireless Mouse,Accessories,South,15.5,6,43,COD,3.4,93.0
+ORD1038,2025-08-19,Webcam Hd,Electronics,East,38.6,1,17,Upi,3.3,38.6
+ORD1399,2025-06-03,Phone Case,Accessories,East,9.65,2,26,Credit Card,3.5,19.3
+ORD1786,2025-05-31,Power Bank,Electronics,North,21.49,1,34,Credit Card,4.5,21.49
+ORD1888,2025-07-19,Wireless Mouse,Accessories,East,13.43,5,35,Cash,5.0,67.15
+ORD1983,2025-06-26,Bluetooth Speaker,Audio,North,42.34,5,43,COD,3.0,211.7
+ORD1204,2025-02-08,Power Bank,Electronics,West,22.7,2,39,Debit Card,3.1,45.4
+ORD1420,2025-08-06,Noise Cancelling Headphones,Audio,West,91.96,5,26,Credit Card,4.4,459.8
+ORD1960,2025-03-09,Phone Case,Accessories,South,7.42,4,21,Cash,2.8,29.68
+ORD1862,2025-01-24,Laptop Stand,Office,North,21.38,3,28,COD,3.4,64.14
+ORD1284,2025-01-13,Usb-C Hub,Accessories,East,22.4,4,17,Credit Card,5.0,89.6
+ORD1452,2025-07-07,Wireless Mouse,Accessories,South,14.92,3,34,Unknown,4.4,44.76
+ORD1644,2025-04-03,Mechanical Keyboard,Accessories,North,58.32,5,39,Credit Card,3.2,291.6
+ORD1496,2025-02-25,Wireless Mouse,Accessories,East,12.42,5,30,Cash,4.2,62.1
+ORD1418,2025-07-11,Usb-C Hub,Accessories,West,21.65,3,56,COD,3.3,64.95
+ORD1472,2025-08-25,Phone Case,Accessories,South,5.88,6,29,Debit Card,4.2,35.28
+ORD1185,2025-05-07,Wireless Mouse,Accessories,North,19.51,4,35,Credit Card,4.2,78.04
+ORD1968,2025-01-25,Power Bank,Electronics,South,35.36,3,49,Cash,4.1,106.08
+ORD1632,2025-02-27,Mechanical Keyboard,Accessories,South,70.65,4,50,Credit Card,5.0,282.6
+ORD1856,2025-02-18,Desk Lamp,Office,East,17.97,3,30,COD,4.4,53.91
+ORD1872,2025-06-28,Laptop Stand,Office,West,25.009999999999998,3,26,Credit Card,3.4,75.03
+ORD1228,2025-03-05,Phone Case,Accessories,West,12.12,4,46,Cash,3.0,48.48
+ORD1547,2025-01-29,Noise Cancelling Headphones,Audio,West,87.99,5,30,COD,4.0,439.95
+ORD1857,2025-01-31,Phone Case,Accessories,East,9.24,3,28,Upi,4.4,27.72
+ORD1367,2025-04-08,Mechanical Keyboard,Accessories,South,45.78,4,18,Credit Card,4.2,183.12
+ORD1061,2025-05-06,Usb-C Hub,Accessories,North,22.95,3,34,Debit Card,4.5,68.85
+ORD1626,2025-06-23,Phone Case,Accessories,South,10.05,5,16,Credit Card,4.2,50.25
+ORD1596,2025-01-23,Mechanical Keyboard,Accessories,East,57.88,6,41,Unknown,3.7,347.28
+ORD1507,2025-05-14,Desk Lamp,Office,South,12.95,3,48,Credit Card,3.7,38.85
+ORD1544,2025-02-19,Usb-C Hub,Accessories,East,17.44,2,34,Upi,5.0,34.88
+ORD1595,2025-04-03,Power Bank,Electronics,East,25.73,4,39,Upi,3.5,102.92
+ORD1747,2025-07-28,Usb-C Hub,Accessories,West,15.72,3,23,Cash,5.0,47.16
+ORD1454,2025-02-15,Bluetooth Speaker,Audio,West,41.68,2,31,Debit Card,4.0,83.36
+ORD1253,2025-04-17,Laptop Stand,Office,South,29.6,3,24,Cash,3.3,88.8
+ORD1274,2025-07-09,Wireless Mouse,Accessories,West,14.79,3,16,Cash,4.9,44.37
+ORD1514,2025-05-17,Webcam Hd,Electronics,South,35.08,5,34,Upi,4.0,175.4
+ORD1709,2025-05-05,Mechanical Keyboard,Accessories,East,56.97,1,16,Credit Card,3.3,56.97
+ORD1435,2025-08-28,Phone Case,Accessories,East,10.93,6,24,Credit Card,5.0,65.58
+ORD1570,2025-02-15,Laptop Stand,Office,West,24.66,3,33,COD,4.4,73.98
+ORD1109,2025-01-30,Noise Cancelling Headphones,Audio,West,99.1,3,33,Cash,3.6,297.3
+ORD1677,2025-07-26,Phone Case,Accessories,East,8.83,5,32,Debit Card,3.8,44.15
+ORD1360,2025-08-28,Phone Case,Accessories,East,9.77,4,37,COD,4.2,39.08
+ORD1336,2025-04-06,Wireless Mouse,Accessories,West,13.15,1,45,Credit Card,3.5,13.15
+ORD1610,2025-01-11,Wireless Mouse,Accessories,North,12.3,4,34,Cash,4.8,49.2
+ORD1700,2025-05-18,Usb-C Hub,Accessories,East,18.86,7,39,Credit Card,4.4,132.02
+ORD1319,2025-07-09,Phone Case,Accessories,South,10.42,5,37,Unknown,4.2,52.1
+ORD1613,2025-03-14,Wireless Mouse,Accessories,North,15.38,3,21,COD,2.8,46.14
+ORD1396,2025-03-26,Bluetooth Speaker,Audio,West,42.79,5,17,Cash,4.1,213.95
+ORD1148,2025-04-02,Wireless Mouse,Accessories,South,16.21,4,34,Upi,4.3,64.84
+ORD1793,2025-04-23,Webcam Hd,Electronics,East,42.82,2,25,Unknown,2.8,85.64
+ORD1684,2025-08-11,Noise Cancelling Headphones,Audio,North,84.16,2,41,Cash,5.0,168.32
+ORD1540,2025-02-12,Usb-C Hub,Accessories,South,24.26,6,16,Credit Card,5.0,145.56
+ORD1158,2025-01-17,Power Bank,Electronics,West,29.6,2,48,Credit Card,3.5,59.2
+ORD1928,2025-08-03,Mechanical Keyboard,Accessories,West,58.32,5,39,Credit Card,3.6,291.6
+ORD1482,2025-07-17,Laptop Stand,Office,East,28.74,5,29,Upi,4.0,143.7
+ORD1569,2025-07-08,Bluetooth Speaker,Audio,West,35.98,2,29,Credit Card,3.9,71.96
+ORD1493,2025-07-06,Webcam Hd,Electronics,East,41.96,4,18,Cash,1.6,167.84
+ORD1023,2025-01-21,Power Bank,Electronics,South,33.93,1,18,COD,4.2,33.93
+ORD1689,2025-02-10,Webcam Hd,Electronics,North,36.38,4,44,Unknown,4.1,145.52
+ORD1128,2025-01-16,Noise Cancelling Headphones,Audio,South,91.96,4,17,COD,4.5,367.84
+ORD1861,2025-08-07,Power Bank,Electronics,West,32.94,4,42,Credit Card,4.5,131.76
+ORD1972,2025-03-12,Webcam Hd,Electronics,South,38.39,4,34,Unknown,4.7,153.56
+ORD1324,2025-07-16,Desk Lamp,Office,East,20.57,2,45,COD,5.0,41.14
+ORD1902,2025-01-13,Noise Cancelling Headphones,Audio,North,116.46,7,38,Upi,5.0,815.22
+ORD1511,2025-08-12,Usb-C Hub,Accessories,East,23.95,1,32,Unknown,4.1,23.95
+ORD1362,2025-08-15,Laptop Stand,Office,South,21.39,4,42,COD,4.1,85.56
+ORD1952,2025-04-05,Bluetooth Speaker,Audio,North,57.49,3,31,COD,5.0,172.47
+ORD1467,2025-01-14,Wireless Mouse,Accessories,East,15.44,4,34,Upi,3.8,61.76
+ORD1714,2025-05-26,Noise Cancelling Headphones,Audio,North,95.46,5,41,Credit Card,5.0,477.3
+ORD1846,2025-03-20,Mechanical Keyboard,Accessories,South,61.72,3,45,COD,4.2,185.16
+ORD1758,2025-04-24,Webcam Hd,Electronics,South,41.02,1,16,Credit Card,5.0,41.02
+ORD1830,2025-05-27,Power Bank,Electronics,South,20.66,5,33,Unknown,3.8,103.3
+ORD1679,2025-07-28,Noise Cancelling Headphones,Audio,East,91.96,4,26,Unknown,5.0,367.84
+ORD1419,2025-08-03,Usb-C Hub,Accessories,South,18.78,5,16,Credit Card,4.3,93.9
+ORD1526,2025-03-18,Usb-C Hub,Accessories,North,22.19,4,23,Cash,5.0,88.76
+ORD1609,2025-06-26,Usb-C Hub,Accessories,East,18.31,5,38,Credit Card,5.0,91.55
+ORD1249,2025-07-18,Bluetooth Speaker,Audio,South,52.35,4,35,Unknown,2.5,209.4
+ORD1379,2025-07-13,Wireless Mouse,Accessories,South,15.35,10,34,Upi,4.6,153.5
+ORD1015,2025-04-06,Mechanical Keyboard,Accessories,South,68.72,4,30,Debit Card,2.8,274.88
+ORD1159,2025-04-26,Laptop Stand,Office,East,31.75,3,18,Unknown,4.6,95.25
+ORD1048,2025-08-14,Noise Cancelling Headphones,Audio,North,95.93,3,32,Upi,4.4,287.79
+ORD1989,2025-01-31,Desk Lamp,Office,North,16.88,3,34,Credit Card,3.3,50.64
+ORD1699,2025-02-22,Laptop Stand,Office,West,28.88,3,16,COD,3.3,86.64
+ORD1411,2025-06-03,Power Bank,Electronics,East,29.13,4,43,COD,4.1,116.52
+ORD1377,2025-07-11,Desk Lamp,Office,South,19.03,5,34,Credit Card,2.7,95.15
+ORD1294,2025-05-25,Webcam Hd,Electronics,West,36.68,5,47,Credit Card,3.3,183.4
+ORD1567,2025-06-07,Mechanical Keyboard,Accessories,North,37.51,4,26,Credit Card,4.1,150.04
+ORD1127,2025-04-29,Bluetooth Speaker,Audio,North,49.19,6,42,Cash,4.5,295.14
+ORD1297,2025-02-10,Bluetooth Speaker,Audio,West,45.99,2,50,COD,4.9,91.98
+ORD1996,2025-08-25,Webcam Hd,Electronics,West,43.13,3,37,Cash,2.9,129.39
+ORD1237,2025-02-06,Bluetooth Speaker,Audio,West,49.96,4,37,Credit Card,3.5,199.84
+ORD1167,2025-07-04,Laptop Stand,Office,West,26.34,6,35,Credit Card,5.0,158.04
+ORD1892,2025-02-04,Wireless Mouse,Accessories,South,13.4,5,40,Upi,3.2,67.0
+ORD1446,2025-08-10,Mechanical Keyboard,Accessories,West,48.19,4,42,COD,3.7,192.76
+ORD1080,2025-07-22,Laptop Stand,Office,North,25.11,3,43,Unknown,4.0,75.33
+ORD1875,2025-08-15,Webcam Hd,Electronics,East,36.1,4,38,Credit Card,2.5,144.4
+ORD1941,2025-08-25,Phone Case,Accessories,North,12.58,2,29,Cash,3.0,25.16
+ORD1937,2025-08-21,Desk Lamp,Office,North,17.15,5,33,Credit Card,3.9,85.75
+ORD1030,2025-08-15,Desk Lamp,Office,North,20.37,6,31,Unknown,3.2,122.22
+ORD1242,2025-05-31,Webcam Hd,Electronics,West,34.37,2,38,Credit Card,4.8,68.74
+ORD1671,2025-04-02,Mechanical Keyboard,Accessories,West,41.93,3,31,Cash,3.8,125.79
+ORD1740,2025-04-20,Noise Cancelling Headphones,Audio,South,91.96,3,37,COD,3.9,275.88
+ORD1571,2025-02-04,Wireless Mouse,Accessories,East,15.29,3,45,Debit Card,5.0,45.87
+ORD1775,2025-06-22,Phone Case,Accessories,East,13.17,2,34,Unknown,5.0,26.34
+ORD1578,2025-05-16,Bluetooth Speaker,Audio,North,41.07,4,22,COD,5.0,164.28
+ORD1705,2025-01-16,Desk Lamp,Office,West,21.25,2,28,Cash,4.0,42.5
+ORD1027,2025-06-17,Mechanical Keyboard,Accessories,North,53.57,1,35,COD,3.0,53.57
+ORD1577,2025-02-05,Wireless Mouse,Accessories,South,15.95,4,24,COD,5.0,63.8
+ORD1122,2025-05-15,Bluetooth Speaker,Audio,South,42.65,4,35,Debit Card,5.0,170.6
+ORD1802,2025-07-24,Bluetooth Speaker,Audio,West,53.14,4,40,COD,3.7,212.56
+ORD1935,2025-05-29,Laptop Stand,Office,South,19.4,4,34,Credit Card,2.5,77.6
+ORD1920,2025-04-15,Webcam Hd,Electronics,West,40.91,2,16,Unknown,4.5,81.82
+ORD1723,2025-06-24,Phone Case,Accessories,West,10.35,6,26,Credit Card,3.8,62.1
+ORD1563,2025-07-26,Noise Cancelling Headphones,Audio,East,106.31,7,39,Debit Card,4.0,744.17
+ORD1508,2025-08-04,Webcam Hd,Electronics,East,30.59,1,31,Credit Card,5.0,30.59
+ORD1910,2025-06-09,Laptop Stand,Office,East,26.73,2,47,Credit Card,4.1,53.46
+ORD1271,2025-03-10,Webcam Hd,Electronics,North,42.41,6,32,Upi,5.0,254.46
+ORD1347,2025-03-10,Webcam Hd,Electronics,South,29.74,3,18,Debit Card,3.1,89.22
+ORD1756,2025-04-07,Desk Lamp,Office,South,19.85,3,25,Upi,3.9,59.55
+ORD1277,2025-07-07,Phone Case,Accessories,West,8.81,3,36,Debit Card,4.2,26.43
+ORD1894,2025-04-19,Laptop Stand,Office,South,25.009999999999998,2,41,Cash,4.5,50.02
+ORD1907,2025-05-21,Wireless Mouse,Accessories,South,14.06,5,26,Cash,3.5,70.3
+ORD1431,2025-08-29,Mechanical Keyboard,Accessories,West,58.04,3,26,Cash,3.5,174.12
+ORD1691,2025-04-23,Bluetooth Speaker,Audio,South,49.08,4,26,Credit Card,4.2,196.32
+ORD1975,2025-01-13,Desk Lamp,Office,North,11.75,6,20,Unknown,4.8,70.5
+ORD1147,2025-07-22,Phone Case,Accessories,North,7.77,6,34,Credit Card,3.7,46.62
+ORD1299,2025-05-26,Noise Cancelling Headphones,Audio,West,83.37,2,39,COD,3.9,166.74
+ORD1556,2025-05-19,Usb-C Hub,Accessories,West,15.27,2,25,Credit Card,4.2,30.54
+ORD1445,2025-08-28,Phone Case,Accessories,North,11.76,4,45,COD,5.0,47.04
+ORD1877,2025-02-26,Noise Cancelling Headphones,Audio,East,87.52,4,31,Debit Card,3.8,350.08
+ORD1457,2025-08-02,Mechanical Keyboard,Accessories,South,54.98,3,16,Credit Card,4.0,164.94
+ORD1051,2025-01-13,Desk Lamp,Office,West,19.65,5,49,Upi,3.7,98.25
+ORD1878,2025-02-16,Laptop Stand,Office,East,28.42,6,27,Debit Card,4.4,170.52
+ORD1518,2025-07-15,Power Bank,Electronics,West,37.64,2,25,Credit Card,5.0,75.28
+ORD1022,2025-01-15,Phone Case,Accessories,South,8.51,1,28,Credit Card,4.2,8.51
+ORD1318,2025-03-18,Bluetooth Speaker,Audio,South,34.71,6,36,Upi,3.8,208.26
+ORD1674,2025-08-20,Mechanical Keyboard,Accessories,East,58.38,7,35,Upi,5.0,408.66
+ORD1432,2025-06-29,Usb-C Hub,Accessories,East,22.55,3,32,Credit Card,3.3,67.65
+ORD1209,2025-05-08,Mechanical Keyboard,Accessories,West,57.24,5,23,Unknown,3.8,286.2
+ORD1619,2025-07-05,Desk Lamp,Office,North,15.87,2,36,Unknown,2.9,31.74
+ORD1142,2025-03-15,Noise Cancelling Headphones,Audio,West,97.34,2,44,Cash,2.5,194.68
+ORD1050,2025-08-24,Desk Lamp,Office,North,18.96,6,27,Cash,4.8,113.76
+ORD1166,2025-04-26,Webcam Hd,Electronics,North,36.45,2,26,Cash,5.0,72.9
+ORD1666,2025-04-17,Wireless Mouse,Accessories,West,12.88,1,34,COD,4.0,12.88
+ORD1081,2025-02-08,Noise Cancelling Headphones,Audio,South,92.75,3,23,Credit Card,3.5,278.25
+ORD1848,2025-08-16,Phone Case,Accessories,North,9.77,3,25,Credit Card,4.3,29.31
+ORD1321,2025-03-12,Wireless Mouse,Accessories,East,18.09,7,38,COD,5.0,126.63
+ORD1932,2025-03-24,Mechanical Keyboard,Accessories,East,58.32,6,41,Credit Card,5.0,349.92
+ORD1964,2025-02-22,Mechanical Keyboard,Accessories,North,53.25,3,24,COD,4.2,159.75
+ORD1886,2025-02-15,Bluetooth Speaker,Audio,East,49.63,2,32,COD,3.7,99.26
+ORD1066,2025-01-30,Wireless Mouse,Accessories,South,15.66,7,23,Credit Card,4.1,109.62
+ORD1334,2025-02-16,Phone Case,Accessories,East,11.27,4,39,Upi,3.4,45.08
+ORD1289,2025-05-08,Noise Cancelling Headphones,Audio,North,93.11,6,24,Credit Card,4.1,558.66
+ORD1339,2025-02-03,Desk Lamp,Office,East,17.97,5,34,Credit Card,5.0,89.85
+ORD1829,2025-06-16,Bluetooth Speaker,Audio,West,51.5,3,42,Upi,4.1,154.5
+ORD1283,2025-03-19,Bluetooth Speaker,Audio,North,57.41,2,33,Debit Card,3.8,114.82
+ORD1500,2025-01-17,Bluetooth Speaker,Audio,North,47.14,1,30,Upi,3.0,47.14
+ORD1664,2025-08-26,Phone Case,Accessories,West,8.79,3,43,Cash,4.9,26.37
+ORD1064,2025-03-17,Mechanical Keyboard,Accessories,North,53.17,8,35,COD,2.9,425.36
+ORD1693,2025-02-09,Power Bank,Electronics,East,27.58,6,34,Credit Card,4.6,165.48
+ORD1264,2025-02-18,Mechanical Keyboard,Accessories,North,53.62,4,28,Unknown,3.8,214.48
+ORD1449,2025-05-23,Bluetooth Speaker,Audio,West,48.64,5,33,COD,3.7,243.2
+ORD1580,2025-06-30,Webcam Hd,Electronics,West,41.32,5,27,Debit Card,4.7,206.6
+ORD1783,2025-01-18,Mechanical Keyboard,Accessories,West,60.24,7,23,Credit Card,1.2,421.68
+ORD1020,2025-05-19,Power Bank,Electronics,West,29.13,4,37,Debit Card,5.0,116.52
+ORD1442,2025-03-21,Wireless Mouse,Accessories,South,19.53,8,44,Cash,4.5,156.24
+ORD1821,2025-05-03,Mechanical Keyboard,Accessories,North,65.1,2,41,COD,5.0,130.2
+ORD1746,2025-08-13,Desk Lamp,Office,West,18.63,4,34,Credit Card,5.0,74.52
+ORD1296,2025-06-30,Webcam Hd,Electronics,South,25.53,8,18,Credit Card,3.7,204.24
+ORD1499,2025-04-27,Noise Cancelling Headphones,Audio,North,79.42,4,21,Credit Card,3.7,317.68
+ORD1572,2025-06-06,Laptop Stand,Office,West,23.87,2,16,Credit Card,3.2,47.74
+ORD1261,2025-01-18,Laptop Stand,Office,East,31.79,2,34,Cash,4.0,63.58
+ORD1804,2025-04-26,Phone Case,Accessories,West,8.77,2,21,Credit Card,3.1,17.54
+ORD1865,2025-06-21,Webcam Hd,Electronics,East,32.12,2,20,Upi,4.8,64.24
+ORD1557,2025-06-17,Wireless Mouse,Accessories,East,15.04,4,56,COD,3.7,60.16
+ORD1611,2025-08-24,Wireless Mouse,Accessories,West,14.73,2,30,Debit Card,2.9,29.46
+ORD1621,2025-08-01,Laptop Stand,Office,East,23.77,3,30,Cash,4.4,71.31
+ORD1528,2025-06-29,Mechanical Keyboard,Accessories,East,67.01,3,33,Cash,3.9,201.03
+ORD1881,2025-03-10,Wireless Mouse,Accessories,North,17.01,4,33,Unknown,4.2,68.04
+ORD1188,2025-07-31,Noise Cancelling Headphones,Audio,East,99.74,3,40,COD,3.9,299.22
+ORD1251,2025-05-12,Mechanical Keyboard,Accessories,South,72.51,3,33,Debit Card,5.0,217.53
+ORD1071,2025-02-12,Mechanical Keyboard,Accessories,North,44.17,5,29,Cash,5.0,220.85
+ORD1101,2025-03-02,Webcam Hd,Electronics,South,42.85,4,58,Credit Card,4.2,171.4
+ORD1788,2025-08-13,Noise Cancelling Headphones,Audio,North,111.36,3,31,Credit Card,5.0,334.08
+ORD1945,2025-03-23,Laptop Stand,Office,West,26.05,5,33,Cash,3.2,130.25
+ORD1397,2025-06-01,Wireless Mouse,Accessories,North,14.61,4,29,Credit Card,2.7,58.44
+ORD1887,2025-01-27,Noise Cancelling Headphones,Audio,South,76.09,5,20,Upi,2.1,380.45
+ORD1565,2025-05-16,Power Bank,Electronics,West,27.24,5,21,Cash,3.9,136.2
+ORD1667,2025-01-28,Bluetooth Speaker,Audio,South,47.65,2,38,Cash,4.3,95.3
+ORD1995,2025-04-18,Laptop Stand,Office,North,19.34,6,20,Credit Card,4.0,116.04
+ORD1771,2025-03-15,Phone Case,Accessories,South,11.44,6,33,COD,5.0,68.64
+ORD1330,2025-05-10,Phone Case,Accessories,East,7.59,4,26,Upi,4.8,30.36
+ORD1598,2025-04-07,Bluetooth Speaker,Audio,North,42.45,7,41,Cash,4.1,297.15
+ORD1734,2025-01-12,Phone Case,Accessories,North,11.35,3,20,Cash,3.0,34.05
+ORD1365,2025-02-21,Desk Lamp,Office,North,16.69,3,41,COD,3.9,50.07
+ORD1281,2025-08-01,Webcam Hd,Electronics,North,34.52,5,35,Debit Card,4.1,172.6
+ORD1866,2025-06-16,Noise Cancelling Headphones,Audio,South,107.43,4,59,Credit Card,2.8,429.72
+ORD1781,2025-05-12,Laptop Stand,Office,West,27.71,5,36,Credit Card,5.0,138.55
+ORD1813,2025-08-18,Power Bank,Electronics,West,35.78,3,51,Debit Card,5.0,107.34
+ORD1853,2025-04-01,Wireless Mouse,Accessories,East,13.6,3,39,Cash,3.6,40.8
+ORD1463,2025-05-27,Mechanical Keyboard,Accessories,North,57.3,5,21,Cash,4.7,286.5
+ORD1799,2025-06-28,Webcam Hd,Electronics,West,35.79,5,27,COD,3.2,178.95
+ORD1207,2025-08-21,Power Bank,Electronics,North,38.76,3,39,Debit Card,4.2,116.28
+ORD1513,2025-01-27,Bluetooth Speaker,Audio,North,55.09,5,31,Credit Card,4.8,275.45
+ORD1218,2025-07-20,Bluetooth Speaker,Audio,South,32.83,3,27,Credit Card,3.0,98.49
+ORD1239,2025-03-26,Usb-C Hub,Accessories,West,21.87,5,31,Unknown,3.3,109.35
+ORD1963,2025-02-27,Usb-C Hub,Accessories,East,18.11,5,32,Cash,4.3,90.55
+ORD1355,2025-07-22,Wireless Mouse,Accessories,North,12.76,4,49,Credit Card,3.2,51.04
+ORD1564,2025-01-10,Usb-C Hub,Accessories,South,26.82,4,42,COD,4.2,107.28
+ORD1192,2025-06-02,Usb-C Hub,Accessories,West,16.53,6,18,Credit Card,3.9,99.18
+ORD1280,2025-06-13,Bluetooth Speaker,Audio,North,52.47,4,32,Cash,3.6,209.88
+ORD1191,2025-05-03,Noise Cancelling Headphones,Audio,South,103.63,5,29,Cash,4.1,518.15
+ORD1407,2025-04-12,Mechanical Keyboard,Accessories,South,72.99,3,39,COD,3.2,218.97
+ORD1430,2025-01-21,Noise Cancelling Headphones,Audio,South,92.66,6,37,COD,5.0,555.96
+ORD1685,2025-06-09,Desk Lamp,Office,East,16.08,3,38,Credit Card,3.9,48.24
+ORD1132,2025-07-09,Laptop Stand,Office,South,25.009999999999998,4,35,COD,4.9,100.04
+ORD1707,2025-07-02,Laptop Stand,Office,South,22.45,4,36,COD,4.0,89.8
+ORD1523,2025-07-09,Usb-C Hub,Accessories,West,17.65,7,24,Credit Card,3.5,123.55
+ORD1252,2025-08-10,Mechanical Keyboard,Accessories,South,74.95,4,29,Unknown,4.8,299.8
+ORD1720,2025-03-01,Bluetooth Speaker,Audio,South,48.29,5,34,Debit Card,3.6,241.45
+ORD1551,2025-06-13,Phone Case,Accessories,East,9.77,2,34,Upi,5.0,19.54
+ORD1263,2025-03-05,Laptop Stand,Office,North,25.21,2,27,Unknown,4.6,50.42
+ORD1070,2025-03-09,Phone Case,Accessories,West,8.55,2,40,Cash,5.0,17.1
+ORD1272,2025-05-11,Noise Cancelling Headphones,Audio,East,106.03,4,59,Upi,4.4,424.12
+ORD1112,2025-07-12,Desk Lamp,Office,North,20.53,1,46,Upi,3.5,20.53
+ORD1327,2025-03-12,Bluetooth Speaker,Audio,North,52.22,2,32,COD,3.4,104.44
+ORD1115,2025-02-06,Webcam Hd,Electronics,East,30.06,5,39,COD,3.8,150.3
+ORD1323,2025-02-11,Bluetooth Speaker,Audio,West,25.15,3,53,Unknown,3.9,75.45
+ORD1119,2025-05-08,Mechanical Keyboard,Accessories,East,44.61,3,21,Credit Card,4.2,133.83
+ORD1867,2025-07-29,Noise Cancelling Headphones,Audio,South,72.95,2,27,Credit Card,4.7,145.9
+ORD1423,2025-03-09,Noise Cancelling Headphones,Audio,South,102.7,3,27,Upi,4.3,308.1
+ORD1905,2025-06-17,Usb-C Hub,Accessories,South,15.85,6,31,Cash,4.0,95.1
+ORD1834,2025-01-22,Power Bank,Electronics,South,25.53,3,35,Credit Card,4.2,76.59
+ORD1947,2025-01-13,Webcam Hd,Electronics,North,32.31,2,43,Cash,3.5,64.62
+ORD1515,2025-05-19,Noise Cancelling Headphones,Audio,East,77.9,3,40,COD,3.4,233.7
+ORD1530,2025-08-15,Bluetooth Speaker,Audio,East,36.36,4,35,Credit Card,4.3,145.44
+ORD1602,2025-06-27,Mechanical Keyboard,Accessories,North,70.73,4,33,Unknown,4.6,282.92
+ORD1754,2025-07-12,Noise Cancelling Headphones,Audio,South,87.34,7,27,Cash,3.9,611.38
+ORD1653,2025-02-20,Usb-C Hub,Accessories,North,20.26,6,47,Cash,5.0,121.56
+ORD1278,2025-01-03,Webcam Hd,Electronics,East,38.08,5,34,Unknown,5.0,190.4
+ORD1839,2025-06-15,Usb-C Hub,Accessories,East,20.24,4,33,Unknown,2.8,80.96
+ORD1694,2025-03-29,Wireless Mouse,Accessories,North,19.18,6,29,Upi,4.1,115.08
+ORD1002,2025-02-09,Laptop Stand,Office,South,22.86,4,24,Credit Card,3.7,91.44
+ORD1229,2025-08-09,Webcam Hd,Electronics,East,35.33,4,36,Upi,3.7,141.32
+ORD1503,2025-04-30,Mechanical Keyboard,Accessories,West,71.29,4,33,Unknown,5.0,285.16
+ORD1990,2025-02-05,Wireless Mouse,Accessories,North,11.79,3,34,Credit Card,4.6,35.37
+ORD1868,2025-07-04,Phone Case,Accessories,East,11.54,6,39,Credit Card,5.0,69.24
+ORD1914,2025-03-13,Usb-C Hub,Accessories,West,20.575,4,44,Debit Card,3.5,82.3
+ORD1618,2025-06-27,Bluetooth Speaker,Audio,East,41.45,2,44,Credit Card,3.1,82.9
+ORD1199,2025-02-28,Power Bank,Electronics,North,37.87,5,42,Debit Card,3.6,189.35
+ORD1371,2025-01-19,Phone Case,Accessories,West,10.67,2,34,Debit Card,4.7,21.34
+ORD1916,2025-01-22,Desk Lamp,Office,South,14.71,3,33,Upi,3.5,44.13
+ORD1078,2025-01-24,Laptop Stand,Office,South,22.24,4,39,Cash,2.7,88.96
+ORD1437,2025-03-30,Laptop Stand,Office,West,26.84,4,21,Unknown,5.0,107.36
+ORD1655,2025-03-10,Usb-C Hub,Accessories,East,21.52,2,26,Cash,5.0,43.04
+ORD1065,2025-06-13,Power Bank,Electronics,North,38.24,3,33,Credit Card,3.8,114.72
+ORD1307,2025-01-21,Wireless Mouse,Accessories,East,18.14,2,17,Cash,3.4,36.28
+ORD1040,2025-03-24,Desk Lamp,Office,West,23.79,6,40,Credit Card,3.4,142.74
+ORD1590,2025-02-11,Webcam Hd,Electronics,North,34.44,7,43,Cash,4.4,241.08
+ORD1794,2025-08-21,Desk Lamp,Office,East,18.67,2,50,Credit Card,3.9,37.34
+ORD1696,2025-01-08,Power Bank,Electronics,South,28.22,5,22,Credit Card,2.4,141.1
+ORD1504,2025-01-03,Webcam Hd,Electronics,North,24.76,3,35,Unknown,4.1,74.28
+ORD1541,2025-05-02,Laptop Stand,Office,West,21.45,3,24,Cash,4.4,64.35
+ORD1049,2025-07-24,Desk Lamp,Office,West,16.32,2,28,Upi,4.9,32.64
+ORD1603,2025-02-11,Phone Case,Accessories,South,8.72,7,38,Credit Card,4.9,61.04
+ORD1273,2025-01-12,Bluetooth Speaker,Audio,North,43.01,5,34,Cash,5.0,215.05
+ORD1744,2025-08-02,Laptop Stand,Office,South,25.81,5,30,Debit Card,5.0,129.05
+ORD1701,2025-06-12,Power Bank,Electronics,North,21.02,4,34,Debit Card,3.6,84.08
+ORD1686,2025-08-21,Phone Case,Accessories,West,8.01,5,33,Debit Card,4.4,40.05
+ORD1864,2025-07-10,Laptop Stand,Office,North,22.13,3,45,Credit Card,5.0,66.39
+ORD1177,2025-05-24,Wireless Mouse,Accessories,East,16.07,2,34,Upi,2.9,32.14
+ORD1300,2025-02-12,Bluetooth Speaker,Audio,South,53.28,3,45,Cash,4.1,159.84
+ORD1037,2025-08-29,Desk Lamp,Office,South,17.97,1,57,Cash,4.0,17.97
+ORD1353,2025-03-26,Bluetooth Speaker,Audio,West,39.62,4,39,Credit Card,4.1,158.48
+ORD1202,2025-06-22,Noise Cancelling Headphones,Audio,East,103.01,4,56,COD,3.4,412.04
+ORD1236,2025-04-29,Noise Cancelling Headphones,Audio,East,71.9,7,43,Upi,4.5,503.3
+ORD1149,2025-02-17,Phone Case,Accessories,North,10.61,2,30,Unknown,4.3,21.22
+ORD1724,2025-04-12,Power Bank,Electronics,North,28.55,6,35,Cash,5.0,171.3
+ORD1447,2025-01-03,Noise Cancelling Headphones,Audio,West,114.57,4,39,COD,5.0,458.28
+ORD1217,2025-07-14,Bluetooth Speaker,Audio,East,43.74,1,39,Credit Card,4.1,43.74
+ORD1722,2025-01-11,Desk Lamp,Office,North,18.54,3,40,COD,4.0,55.62
+ORD1473,2025-02-07,Wireless Mouse,Accessories,North,10.21,5,34,Upi,3.6,51.05
+ORD1587,2025-03-19,Power Bank,Electronics,North,27.13,3,18,Debit Card,5.0,81.39
+ORD1652,2025-02-16,Mechanical Keyboard,Accessories,West,82.36,3,46,Credit Card,4.4,247.08
+ORD1732,2025-07-06,Noise Cancelling Headphones,Audio,North,91.45,2,37,COD,4.4,182.9
+ORD1302,2025-07-21,Power Bank,Electronics,West,29.13,4,31,Debit Card,4.2,116.52
+ORD1913,2025-08-25,Bluetooth Speaker,Audio,East,53.96,4,33,Upi,4.1,215.84
+ORD1977,2025-01-26,Desk Lamp,Office,North,18.07,2,26,Debit Card,4.8,36.14
+ORD1716,2025-04-22,Phone Case,Accessories,South,7.39,4,34,Cash,2.0,29.56
+ORD1985,2025-08-14,Usb-C Hub,Accessories,West,23.43,4,31,Credit Card,4.9,93.72
+ORD1388,2025-01-20,Usb-C Hub,Accessories,North,24.16,4,45,Unknown,3.8,96.64
+ORD1478,2025-03-20,Wireless Mouse,Accessories,East,13.38,2,41,Credit Card,4.2,26.76
+ORD1491,2025-08-17,Bluetooth Speaker,Audio,East,48.93,7,29,Upi,5.0,342.51
+ORD1422,2025-05-13,Laptop Stand,Office,North,24.66,2,44,COD,3.9,49.32
+ORD1387,2025-03-20,Phone Case,Accessories,South,9.01,2,39,Unknown,4.0,18.02
+ORD1859,2025-04-22,Desk Lamp,Office,South,19.37,3,56,Unknown,4.5,58.11
+ORD1390,2025-01-24,Mechanical Keyboard,Accessories,West,73.62,4,27,Unknown,3.4,294.48
+ORD1534,2025-06-21,Usb-C Hub,Accessories,North,23.56,2,48,Credit Card,4.2,47.12
+ORD1352,2025-08-17,Desk Lamp,Office,East,17.4,3,48,Credit Card,3.4,52.2
+ORD1193,2025-02-21,Wireless Mouse,Accessories,South,15.88,4,33,Unknown,3.2,63.52
+ORD1235,2025-07-23,Desk Lamp,Office,North,12.69,5,34,Debit Card,4.0,63.45
+ORD1769,2025-04-21,Usb-C Hub,Accessories,East,16.26,1,43,Credit Card,4.6,16.26
+ORD1889,2025-07-06,Bluetooth Speaker,Audio,East,35.03,4,34,Debit Card,3.4,140.12
+ORD1480,2025-06-18,Usb-C Hub,Accessories,West,17.11,2,24,Cash,5.0,34.22
+ORD1055,2025-01-20,Desk Lamp,Office,West,16.17,4,38,Credit Card,3.6,64.68
+ORD1116,2025-02-10,Usb-C Hub,Accessories,South,20.98,5,21,Credit Card,5.0,104.9
+ORD1096,2025-02-27,Phone Case,Accessories,East,8.69,6,29,Unknown,3.1,52.14
+ORD1141,2025-06-30,Phone Case,Accessories,South,7.73,3,30,Credit Card,4.6,23.19
+ORD1957,2025-05-05,Usb-C Hub,Accessories,South,21.8,2,52,Unknown,3.2,43.6
+ORD1917,2025-08-01,Usb-C Hub,Accessories,East,20.58,4,50,Upi,4.5,82.32
+ORD1635,2025-07-27,Phone Case,Accessories,East,7.92,2,28,Credit Card,3.9,15.84
+ORD1597,2025-08-02,Desk Lamp,Office,West,17.51,3,43,Upi,3.6,52.53
+ORD1673,2025-08-27,Usb-C Hub,Accessories,South,18.48,4,31,Upi,4.8,73.92
+ORD1120,2025-01-11,Webcam Hd,Electronics,South,26.44,5,39,Unknown,4.3,132.2
+ORD1810,2025-01-01,Phone Case,Accessories,South,9.25,1,23,Credit Card,5.0,9.25
+ORD1929,2025-05-13,Laptop Stand,Office,South,30.88,4,32,Debit Card,5.0,123.52
+ORD1062,2025-04-19,Webcam Hd,Electronics,South,42.62,5,43,COD,4.0,213.1
+ORD1808,2025-08-29,Webcam Hd,Electronics,North,35.08,8,36,Upi,5.0,280.64
+ORD1818,2025-02-18,Wireless Mouse,Accessories,South,18.1,4,35,Unknown,4.4,72.4
+ORD1453,2025-06-24,Power Bank,Electronics,North,31.39,3,32,Upi,2.7,94.17
+ORD1779,2025-01-14,Bluetooth Speaker,Audio,East,58.69,2,34,Unknown,3.8,117.38
+ORD1414,2025-01-28,Noise Cancelling Headphones,Audio,South,91.96,2,34,Credit Card,3.5,183.92
+ORD1003,2025-05-18,Mechanical Keyboard,Accessories,South,53.32,4,59,Credit Card,4.5,213.28
+ORD1058,2025-05-04,Noise Cancelling Headphones,Audio,North,81.03,3,47,Upi,4.9,243.09
+ORD1223,2025-04-21,Usb-C Hub,Accessories,East,19.33,6,28,Credit Card,1.8,115.98
+ORD1221,2025-02-05,Power Bank,Electronics,South,26.82,3,35,Credit Card,4.1,80.46
+ORD1465,2025-05-28,Phone Case,Accessories,North,8.93,3,22,Credit Card,4.3,26.79
+ORD1052,2025-01-05,Desk Lamp,Office,South,16.9,6,36,Debit Card,3.9,101.4
+ORD1485,2025-05-03,Wireless Mouse,Accessories,West,18.93,7,28,COD,3.7,132.51
+ORD1708,2025-06-04,Power Bank,Electronics,South,24.88,7,25,Credit Card,4.2,174.16
+ORD1155,2025-05-06,Noise Cancelling Headphones,Audio,South,93.29,3,34,Cash,3.9,279.87
+ORD1706,2025-03-09,Power Bank,Electronics,West,33.66,2,55,COD,3.4,67.32
+ORD1682,2025-05-30,Phone Case,Accessories,East,8.85,4,33,Credit Card,4.3,35.4
+ORD1248,2025-02-25,Wireless Mouse,Accessories,West,12.7,4,52,Upi,3.8,50.8
+ORD1441,2025-02-17,Laptop Stand,Office,East,27.36,1,37,COD,5.0,27.36
+ORD1903,2025-02-03,Webcam Hd,Electronics,East,28.65,4,46,COD,2.1,114.6
+ORD1117,2025-05-05,Bluetooth Speaker,Audio,West,33.17,4,16,Unknown,3.6,132.68
+ORD1568,2025-08-18,Wireless Mouse,Accessories,South,15.28,5,26,Cash,4.3,76.4
+ORD1924,2025-06-18,Power Bank,Electronics,North,30.43,4,23,COD,3.3,121.72
+ORD1291,2025-01-07,Power Bank,Electronics,North,24.06,2,29,Credit Card,3.5,48.12
+ORD1381,2025-03-18,Power Bank,Electronics,South,27.59,3,18,Credit Card,3.8,82.77
+ORD1951,2025-02-27,Webcam Hd,Electronics,South,28.31,6,34,Upi,2.6,169.86
+ORD1200,2025-08-16,Desk Lamp,Office,South,22.91,3,25,Credit Card,4.0,68.73
+ORD1761,2025-07-13,Desk Lamp,Office,East,17.84,6,51,Unknown,3.7,107.04
+ORD1962,2025-01-28,Power Bank,Electronics,South,25.99,5,40,Debit Card,3.8,129.95
+ORD1505,2025-04-12,Wireless Mouse,Accessories,North,13.44,7,50,Unknown,5.0,94.08
+ORD1814,2025-01-08,Bluetooth Speaker,Audio,East,40.01,6,20,Unknown,4.4,240.06
+ORD1614,2025-04-23,Phone Case,Accessories,South,12.18,2,42,Cash,4.0,24.36
+ORD1340,2025-06-02,Mechanical Keyboard,Accessories,North,74.12,2,20,Credit Card,4.6,148.24
+ORD1154,2025-07-08,Mechanical Keyboard,Accessories,South,58.0,5,22,Upi,4.1,290.0
+ORD1915,2025-07-26,Noise Cancelling Headphones,Audio,West,100.08,7,29,Debit Card,4.1,700.56
+ORD1594,2025-08-06,Mechanical Keyboard,Accessories,South,64.78,3,50,Credit Card,5.0,194.34
+ORD1776,2025-05-05,Laptop Stand,Office,West,24.67,3,49,COD,4.4,74.01
+ORD1837,2025-04-02,Laptop Stand,Office,East,23.7,4,26,Credit Card,4.2,94.8
+ORD1322,2025-08-11,Phone Case,Accessories,South,11.75,3,31,Debit Card,4.6,35.25
+ORD1642,2025-04-10,Webcam Hd,Electronics,East,43.48,3,30,Debit Card,4.4,130.44
+ORD1623,2025-05-20,Power Bank,Electronics,East,35.86,3,31,Credit Card,4.3,107.58
+ORD1082,2025-04-09,Usb-C Hub,Accessories,North,17.68,6,30,Upi,5.0,106.08
+ORD1620,2025-05-05,Phone Case,Accessories,West,9.01,5,17,Credit Card,4.0,45.05
+ORD1464,2025-03-18,Noise Cancelling Headphones,Audio,West,61.69,4,42,COD,4.1,246.76
+ORD1760,2025-02-05,Mechanical Keyboard,Accessories,North,69.86,5,38,Credit Card,2.8,349.3
+ORD1333,2025-08-11,Desk Lamp,Office,West,14.52,2,22,Upi,4.8,29.04
+ORD1010,2025-01-03,Power Bank,Electronics,North,26.22,4,30,Unknown,3.1,104.88
+ORD1470,2025-07-08,Noise Cancelling Headphones,Audio,North,101.19,1,33,Unknown,3.3,101.19
+ORD1032,2025-06-08,Power Bank,Electronics,West,28.99,1,41,Unknown,4.0,28.99
+ORD1933,2025-04-08,Power Bank,Electronics,West,14.08,4,32,COD,4.6,56.32
+ORD1382,2025-05-21,Wireless Mouse,Accessories,South,17.0,3,39,Debit Card,5.0,51.0
+ORD1725,2025-07-01,Webcam Hd,Electronics,South,37.78,5,20,Upi,4.3,188.9
+ORD1630,2025-01-26,Webcam Hd,Electronics,West,33.94,4,28,Credit Card,5.0,135.76
+ORD1958,2025-08-23,Power Bank,Electronics,West,22.06,2,36,Unknown,4.4,44.12
+ORD1967,2025-03-05,Phone Case,Accessories,North,8.75,5,34,Credit Card,3.8,43.75
+ORD1378,2025-08-22,Power Bank,Electronics,East,34.73,3,24,Cash,2.0,104.19
+ORD1089,2025-03-07,Usb-C Hub,Accessories,West,22.39,3,27,Upi,4.1,67.17
+ORD1213,2025-08-04,Wireless Mouse,Accessories,East,20.61,7,29,Credit Card,5.0,144.27
+ORD1986,2025-05-04,Wireless Mouse,Accessories,North,14.28,6,18,Unknown,4.5,85.68
+ORD1133,2025-07-16,Mechanical Keyboard,Accessories,East,62.55,3,34,Debit Card,4.2,187.65
+ORD1346,2025-04-20,Mechanical Keyboard,Accessories,North,51.89,4,40,Credit Card,4.1,207.56
+ORD1669,2025-06-04,Wireless Mouse,Accessories,East,13.58,5,32,Debit Card,5.0,67.9
+ORD1007,2025-08-22,Webcam Hd,Electronics,South,35.9,2,32,Debit Card,3.8,71.8
+ORD1657,2025-01-03,Noise Cancelling Headphones,Audio,East,85.68,2,50,COD,4.4,171.36
+ORD1320,2025-05-15,Power Bank,Electronics,West,29.13,4,34,Unknown,3.6,116.52
+ORD1831,2025-03-25,Desk Lamp,Office,East,20.0,4,43,Cash,3.7,80.0
+ORD1187,2025-03-07,Webcam Hd,Electronics,South,33.68,6,34,Unknown,4.6,202.08
+ORD1552,2025-05-06,Wireless Mouse,Accessories,South,18.56,3,22,Credit Card,4.5,55.68
+ORD1304,2025-05-04,Webcam Hd,Electronics,East,40.25,7,27,Credit Card,2.4,281.75
+ORD1031,2025-07-23,Wireless Mouse,Accessories,South,17.2,1,34,Debit Card,4.5,17.2
+ORD1651,2025-07-22,Laptop Stand,Office,East,17.96,8,30,Upi,3.5,143.68
+ORD1240,2025-08-15,Desk Lamp,Office,East,16.43,4,39,Credit Card,5.0,65.72
+ORD1879,2025-02-15,Mechanical Keyboard,Accessories,West,68.23,3,30,Credit Card,5.0,204.69
+ORD1174,2025-05-30,Webcam Hd,Electronics,North,32.11,5,27,Credit Card,4.0,160.55
+ORD1245,2025-01-03,Phone Case,Accessories,East,10.28,7,33,Credit Card,5.0,71.96
+ORD1056,2025-01-11,Bluetooth Speaker,Audio,South,39.45,3,36,Credit Card,4.6,118.35
+ORD1798,2025-06-26,Webcam Hd,Electronics,East,35.08,3,17,Cash,3.6,105.24
+ORD1145,2025-07-21,Webcam Hd,Electronics,South,36.6,10,30,Unknown,3.3,366.0
+ORD1090,2025-04-19,Webcam Hd,Electronics,North,30.48,3,30,Debit Card,3.6,91.44
+ORD1392,2025-03-01,Phone Case,Accessories,South,8.92,3,35,Cash,4.3,26.76
+ORD1310,2025-08-10,Power Bank,Electronics,West,28.04,1,32,Cash,3.1,28.04
+ORD1359,2025-06-22,Desk Lamp,Office,West,14.67,2,38,Cash,4.4,29.34
+ORD1093,2025-06-18,Mechanical Keyboard,Accessories,South,57.13,6,31,COD,5.0,342.78
+ORD1737,2025-05-14,Webcam Hd,Electronics,West,32.59,5,36,Unknown,4.1,162.95
+ORD1376,2025-02-23,Power Bank,Electronics,East,27.93,8,22,Unknown,5.0,223.44
+ORD1243,2025-03-22,Noise Cancelling Headphones,Audio,East,84.97,7,50,Upi,3.4,594.79
+ORD1874,2025-06-14,Laptop Stand,Office,West,24.27,4,39,Credit Card,5.0,97.08
+ORD1087,2025-08-20,Bluetooth Speaker,Audio,North,50.1,5,43,Upi,3.4,250.5
+ORD1214,2025-01-05,Noise Cancelling Headphones,Audio,North,97.67,2,39,Credit Card,3.0,195.34
+ORD1444,2025-03-05,Usb-C Hub,Accessories,West,22.08,2,34,COD,5.0,44.16
+ORD1173,2025-03-28,Noise Cancelling Headphones,Audio,West,91.96,5,38,COD,4.3,459.8
+ORD1425,2025-07-24,Desk Lamp,Office,North,14.03,2,51,Debit Card,3.8,28.06
+ORD1822,2025-07-07,Laptop Stand,Office,North,28.03,2,25,Unknown,2.5,56.06
+ORD1118,2025-01-12,Noise Cancelling Headphones,Audio,North,103.12,3,33,Credit Card,4.4,309.36
+ORD1676,2025-07-21,Bluetooth Speaker,Audio,South,54.12,6,42,Cash,5.0,324.72
+ORD1000,2025-02-27,Bluetooth Speaker,Audio,South,48.35,4,32,Credit Card,5.0,193.4
+ORD1394,2025-01-20,Webcam Hd,Electronics,West,26.73,5,43,Credit Card,4.6,133.65
+ORD1401,2025-02-15,Desk Lamp,Office,North,22.02,4,38,Unknown,4.5,88.08
+ORD1404,2025-04-15,Bluetooth Speaker,Audio,North,43.44,4,34,Credit Card,5.0,173.76
+ORD1656,2025-02-16,Mechanical Keyboard,Accessories,North,63.99,5,16,Upi,2.2,319.95
+ORD1663,2025-07-24,Power Bank,Electronics,North,28.83,8,22,Debit Card,1.5,230.64
+ORD1162,2025-02-13,Laptop Stand,Office,South,24.01,4,29,Unknown,4.6,96.04
+ORD1114,2025-06-07,Power Bank,Electronics,North,32.25,2,23,Credit Card,4.8,64.5
+ORD1150,2025-01-21,Laptop Stand,Office,West,18.21,2,43,Credit Card,4.4,36.42
+ORD1625,2025-05-22,Bluetooth Speaker,Audio,West,35.13,3,25,Credit Card,4.6,105.39
+ORD1627,2025-07-15,Webcam Hd,Electronics,South,31.1,2,32,Cash,4.5,62.2
+ORD1773,2025-08-14,Usb-C Hub,Accessories,South,16.47,3,41,COD,4.2,49.41
+ORD1543,2025-03-11,Desk Lamp,Office,South,15.26,3,59,Upi,3.5,45.78
+ORD1477,2025-08-20,Desk Lamp,Office,South,18.97,6,34,Debit Card,5.0,113.82
+ORD1532,2025-07-02,Noise Cancelling Headphones,Audio,South,98.48,3,31,Credit Card,4.3,295.44
+ORD1512,2025-04-10,Laptop Stand,Office,North,22.46,1,44,Upi,2.5,22.46
+ORD1860,2025-08-10,Laptop Stand,Office,East,27.54,3,31,Debit Card,4.8,82.62
+ORD1258,2025-08-20,Webcam Hd,Electronics,North,39.17,5,21,COD,3.4,195.85
+ORD1624,2025-06-18,Phone Case,Accessories,East,12.35,6,34,Cash,3.3,74.1
+ORD1897,2025-06-24,Laptop Stand,Office,North,19.72,4,51,Credit Card,3.1,78.88
+ORD1135,2025-04-23,Noise Cancelling Headphones,Audio,West,100.71,2,23,Cash,3.2,201.42
+ORD1616,2025-03-21,Desk Lamp,Office,West,18.87,6,33,Credit Card,3.2,113.22
+ORD1981,2025-04-06,Mechanical Keyboard,Accessories,North,49.19,6,34,Credit Card,3.2,295.14
+ORD1703,2025-03-02,Noise Cancelling Headphones,Audio,West,61.33,6,36,Upi,3.6,367.98
+ORD1592,2025-07-06,Noise Cancelling Headphones,Audio,South,74.71,5,41,COD,4.1,373.55
+ORD1845,2025-07-24,Phone Case,Accessories,East,9.07,2,29,Credit Card,5.0,18.14
+ORD1501,2025-06-11,Noise Cancelling Headphones,Audio,North,86.05,5,36,Cash,4.7,430.25
+ORD1538,2025-07-09,Bluetooth Speaker,Audio,East,45.54,2,39,Upi,2.2,91.08
+ORD1712,2025-07-24,Laptop Stand,Office,East,24.25,6,16,Debit Card,2.3,145.5
+ORD1581,2025-08-12,Phone Case,Accessories,West,12.2,3,52,Upi,2.8,36.6
+ORD1343,2025-02-21,Usb-C Hub,Accessories,East,15.75,2,46,Credit Card,3.8,31.5
+ORD1751,2025-08-14,Power Bank,Electronics,South,28.65,4,22,Debit Card,5.0,114.6
+ORD1662,2025-03-09,Mechanical Keyboard,Accessories,East,43.33,2,41,Upi,3.4,86.66
+ORD1293,2025-08-05,Desk Lamp,Office,South,18.02,1,30,Unknown,3.4,18.02
+ORD1364,2025-06-20,Webcam Hd,Electronics,North,39.63,3,29,Unknown,4.1,118.89
+ORD1668,2025-06-17,Mechanical Keyboard,Accessories,East,50.82,4,36,Debit Card,3.2,203.28
+ORD1014,2025-02-12,Laptop Stand,Office,East,24.2,7,29,Debit Card,4.2,169.4
+ORD1086,2025-06-25,Wireless Mouse,Accessories,South,9.37,3,40,Cash,3.6,28.11
+ORD1370,2025-02-09,Wireless Mouse,Accessories,North,11.73,3,33,Unknown,3.8,35.19
+ORD1165,2025-02-06,Phone Case,Accessories,South,8.9,4,29,Cash,3.7,35.6
+ORD1934,2025-03-04,Usb-C Hub,Accessories,East,20.17,3,22,Unknown,3.6,60.51
+ORD1335,2025-07-21,Laptop Stand,Office,East,28.34,3,28,COD,4.2,85.02
+ORD1059,2025-06-06,Phone Case,Accessories,West,9.76,3,27,Unknown,4.1,29.28
+ORD1354,2025-01-23,Phone Case,Accessories,South,9.69,2,27,Cash,4.4,19.38
+ORD1424,2025-04-26,Webcam Hd,Electronics,West,41.3,5,29,Unknown,3.0,206.5
+ORD1292,2025-01-26,Noise Cancelling Headphones,Audio,North,71.01,3,33,Unknown,3.9,213.03
+ORD1041,2025-06-19,Laptop Stand,Office,West,24.57,1,26,COD,5.0,24.57
+ORD1329,2025-04-18,Phone Case,Accessories,West,10.32,2,40,Upi,4.9,20.64
+ORD1429,2025-03-15,Phone Case,Accessories,East,12.29,3,36,COD,4.5,36.87
+ORD1079,2025-08-02,Mechanical Keyboard,Accessories,West,72.3,3,42,Credit Card,3.2,216.9
+ORD1028,2025-03-14,Bluetooth Speaker,Audio,West,52.08,3,47,COD,5.0,156.24
+ORD1254,2025-05-29,Webcam Hd,Electronics,South,36.86,4,31,COD,3.6,147.44
+ORD1796,2025-04-14,Power Bank,Electronics,South,30.21,6,21,Cash,3.5,181.26
+ORD1458,2025-02-15,Power Bank,Electronics,South,36.08,3,36,Unknown,4.4,108.24
+ORD1383,2025-03-06,Laptop Stand,Office,North,25.15,5,29,Unknown,3.3,125.75
+ORD1313,2025-07-26,Mechanical Keyboard,Accessories,East,68.14,6,39,Credit Card,2.3,408.84
+ORD1084,2025-01-04,Phone Case,Accessories,East,11.39,5,53,Credit Card,3.7,56.95
+ORD1574,2025-08-18,Noise Cancelling Headphones,Audio,North,85.59,5,31,Cash,3.3,427.95
+ORD1136,2025-07-27,Usb-C Hub,Accessories,West,14.2,5,21,Upi,5.0,71.0
+ORD1111,2025-07-09,Bluetooth Speaker,Audio,North,46.37,5,22,Credit Card,5.0,231.85
+ORD1194,2025-04-25,Noise Cancelling Headphones,Audio,East,78.25,4,24,Cash,5.0,313.0
+ORD1178,2025-07-04,Power Bank,Electronics,North,34.48,4,29,Credit Card,3.8,137.92
+ORD1938,2025-03-30,Wireless Mouse,Accessories,North,15.13,6,27,Debit Card,4.2,90.78
+ORD1129,2025-06-06,Phone Case,Accessories,North,10.31,4,23,Cash,5.0,41.24
+ORD1337,2025-05-09,Webcam Hd,Electronics,North,35.08,3,42,Upi,3.3,105.24
+ORD1608,2025-07-29,Webcam Hd,Electronics,South,35.08,4,44,Debit Card,4.3,140.32
+ORD1124,2025-02-15,Laptop Stand,Office,West,24.98,4,27,Unknown,4.3,99.92
+ORD1104,2025-03-12,Laptop Stand,Office,East,18.65,2,49,Credit Card,3.2,37.3
+ORD1226,2025-01-04,Noise Cancelling Headphones,Audio,South,105.77,4,25,COD,4.4,423.08
+ORD1268,2025-01-21,Noise Cancelling Headphones,Audio,East,106.04,4,39,Credit Card,5.0,424.16
+ORD1152,2025-06-05,Laptop Stand,Office,East,22.92,5,52,Credit Card,4.7,114.6
+ORD1584,2025-01-28,Laptop Stand,Office,East,24.58,3,21,Cash,4.6,73.74
+ORD1103,2025-05-25,Webcam Hd,Electronics,West,44.91,5,34,Credit Card,5.0,224.55
+ORD1593,2025-08-04,Bluetooth Speaker,Audio,South,45.75,7,37,Credit Card,3.4,320.25
+ORD1976,2025-02-06,Laptop Stand,Office,South,25.0,6,18,Upi,4.2,150.0
+ORD1227,2025-02-13,Noise Cancelling Headphones,Audio,West,92.8,6,33,Debit Card,4.1,556.8
+ORD1936,2025-08-03,Bluetooth Speaker,Audio,North,47.24,7,23,Cash,4.1,330.68
+ORD1301,2025-01-01,Webcam Hd,Electronics,East,36.22,4,22,Debit Card,4.2,144.88
+ORD1275,2025-08-19,Noise Cancelling Headphones,Audio,North,97.38,2,30,Cash,4.1,194.76
+ORD1126,2025-01-19,Mechanical Keyboard,Accessories,North,50.21,3,43,Upi,4.0,150.63
+ORD1405,2025-04-03,Usb-C Hub,Accessories,North,17.7,3,29,Upi,2.5,53.1
+ORD1683,2025-07-08,Desk Lamp,Office,North,21.41,3,31,Credit Card,2.4,64.23
+ORD1942,2025-05-05,Laptop Stand,Office,North,16.72,4,31,Unknown,5.0,66.88
+ORD1036,2025-03-30,Mechanical Keyboard,Accessories,South,64.64,7,72,Cash,4.2,452.48
+ORD1139,2025-04-26,Bluetooth Speaker,Audio,East,41.25,3,30,Credit Card,3.0,123.75
+ORD1303,2025-01-19,Wireless Mouse,Accessories,East,12.69,6,22,COD,4.2,76.14
+ORD1267,2025-03-15,Wireless Mouse,Accessories,East,17.58,5,37,Cash,5.0,87.9
+ORD1533,2025-01-21,Bluetooth Speaker,Audio,North,32.46,8,25,Cash,3.5,259.68
+ORD1545,2025-06-25,Wireless Mouse,Accessories,North,20.13,4,53,Upi,4.1,80.52
+ORD1212,2025-05-06,Webcam Hd,Electronics,North,31.3,5,31,Credit Card,4.1,156.5
+ORD1468,2025-05-28,Desk Lamp,Office,North,15.74,1,25,Unknown,4.4,15.74
+ORD1198,2025-04-11,Webcam Hd,Electronics,West,41.33,3,37,Unknown,4.1,123.99
+ORD1672,2025-07-27,Noise Cancelling Headphones,Audio,East,84.5,2,48,Credit Card,4.1,169.0
+ORD1527,2025-02-02,Noise Cancelling Headphones,Audio,North,91.96,1,25,Credit Card,5.0,91.96
+ORD1675,2025-01-25,Power Bank,Electronics,North,25.36,6,18,Upi,3.4,152.16
+ORD1974,2025-03-17,Mechanical Keyboard,Accessories,North,54.9,3,34,Unknown,4.2,164.7
+ORD1241,2025-05-18,Bluetooth Speaker,Audio,West,40.88,2,26,Credit Card,4.7,81.76
+ORD1342,2025-08-19,Noise Cancelling Headphones,Audio,South,88.12,5,29,Upi,2.8,440.6
+ORD1549,2025-07-28,Webcam Hd,Electronics,West,34.28,2,38,Debit Card,4.2,68.56
+ORD1386,2025-03-22,Webcam Hd,Electronics,East,31.7,3,49,Upi,5.0,95.1
+ORD1206,2025-02-18,Webcam Hd,Electronics,North,31.74,6,41,Unknown,4.1,190.44
+ORD1295,2025-05-03,Usb-C Hub,Accessories,West,20.81,7,26,Unknown,2.7,145.67
+ORD1695,2025-04-18,Usb-C Hub,Accessories,East,23.54,5,46,Cash,3.6,117.7
+ORD1817,2025-08-28,Bluetooth Speaker,Audio,South,52.55,6,19,Debit Card,2.9,315.3
+ORD1073,2025-07-15,Noise Cancelling Headphones,Audio,North,89.56,4,37,Unknown,3.3,358.24
+ORD1792,2025-03-19,Usb-C Hub,Accessories,West,14.88,6,37,Upi,4.1,89.28
+ORD1733,2025-06-16,Phone Case,Accessories,East,9.77,5,40,Unknown,4.5,48.85
+ORD1755,2025-05-07,Power Bank,Electronics,North,34.22,4,30,Debit Card,4.5,136.88
+ORD1016,2025-06-11,Usb-C Hub,Accessories,North,20.89,4,36,Unknown,1.7,83.56
+ORD1439,2025-06-10,Desk Lamp,Office,North,15.81,5,23,Upi,3.9,79.05
+ORD1091,2025-06-29,Desk Lamp,Office,East,20.05,6,35,Upi,4.0,120.3
+ORD1088,2025-02-13,Desk Lamp,Office,East,16.48,4,23,Credit Card,2.7,65.92
+ORD1450,2025-06-30,Laptop Stand,Office,West,25.73,7,26,Debit Card,3.3,180.11
+ORD1717,2025-07-16,Laptop Stand,Office,East,32.66,5,29,COD,3.5,163.3
+ORD1102,2025-08-06,Mechanical Keyboard,Accessories,West,60.98,5,41,COD,2.9,304.9
+ORD1238,2025-07-27,Phone Case,Accessories,South,9.21,7,34,COD,5.0,64.47
+ORD1768,2025-08-09,Webcam Hd,Electronics,South,27.42,1,29,Debit Card,3.0,27.42
+ORD1246,2025-02-12,Desk Lamp,Office,West,21.01,5,34,Upi,4.0,105.05
+ORD1820,2025-03-14,Phone Case,Accessories,North,6.85,2,40,Credit Card,4.0,13.7
+ORD1157,2025-02-21,Webcam Hd,Electronics,West,38.19,3,35,Credit Card,4.7,114.57
+ORD1479,2025-03-12,Usb-C Hub,Accessories,East,20.76,5,37,Unknown,4.6,103.8
+ORD1645,2025-03-03,Wireless Mouse,Accessories,South,14.67,2,41,Unknown,3.0,29.34
+ORD1973,2025-05-08,Webcam Hd,Electronics,East,35.43,7,36,Credit Card,3.3,248.01
+ORD1871,2025-01-20,Phone Case,Accessories,East,10.83,3,18,Credit Card,3.8,32.49
+ORD1018,2025-08-10,Desk Lamp,Office,South,18.58,6,16,Credit Card,3.1,111.48
+ORD1750,2025-01-29,Laptop Stand,Office,West,25.02,5,42,Debit Card,3.6,125.1
+ORD1121,2025-03-25,Desk Lamp,Office,West,20.65,5,37,Unknown,2.0,103.25
+ORD1885,2025-02-27,Bluetooth Speaker,Audio,South,57.51,6,40,Credit Card,3.1,345.06
+ORD1749,2025-03-28,Usb-C Hub,Accessories,West,21.3,4,36,Credit Card,4.2,85.2
+ORD1950,2025-06-06,Bluetooth Speaker,Audio,West,47.08,5,20,Cash,4.9,235.4
+ORD1311,2025-07-24,Wireless Mouse,Accessories,East,14.19,1,31,Credit Card,5.0,14.19
+ORD1805,2025-01-28,Desk Lamp,Office,North,17.97,5,20,Credit Card,2.8,89.85
+ORD1901,2025-03-21,Usb-C Hub,Accessories,North,24.91,2,29,Debit Card,5.0,49.82
+ORD1546,2025-06-03,Noise Cancelling Headphones,Audio,South,78.69,7,23,Credit Card,2.9,550.83
+ORD1181,2025-03-07,Bluetooth Speaker,Audio,North,44.75,3,32,Credit Card,3.2,134.25
+ORD1184,2025-01-23,Mechanical Keyboard,Accessories,North,62.49,4,27,Debit Card,4.1,249.96
+ORD1406,2025-02-22,Mechanical Keyboard,Accessories,West,53.79,3,34,Debit Card,3.7,161.37
+ORD1719,2025-03-02,Usb-C Hub,Accessories,East,22.84,5,44,Credit Card,4.9,114.2
+ORD1606,2025-01-27,Desk Lamp,Office,West,16.58,2,47,Unknown,4.5,33.16
+ORD1692,2025-01-27,Bluetooth Speaker,Audio,West,43.61,3,22,Upi,3.9,130.83
+ORD1520,2025-05-02,Webcam Hd,Electronics,East,27.3,6,28,Upi,3.4,163.8
+ORD1380,2025-08-26,Mechanical Keyboard,Accessories,North,48.31,8,21,Cash,4.5,386.48
+ORD1410,2025-06-02,Noise Cancelling Headphones,Audio,East,97.41,6,31,COD,3.9,584.46
+ORD1634,2025-07-15,Mechanical Keyboard,Accessories,East,50.01,2,45,Credit Card,3.6,100.02
+ORD1369,2025-05-12,Bluetooth Speaker,Audio,North,45.7,6,34,Credit Card,5.0,274.2
+ORD1858,2025-07-22,Desk Lamp,Office,North,16.9,5,16,Unknown,5.0,84.5
+ORD1882,2025-02-05,Webcam Hd,Electronics,West,35.32,2,24,Unknown,3.9,70.64
+ORD1800,2025-08-23,Laptop Stand,Office,South,25.009999999999998,3,38,Credit Card,4.6,75.03
+ORD1573,2025-03-13,Usb-C Hub,Accessories,West,18.45,4,24,Debit Card,2.7,73.8
+ORD1647,2025-08-14,Laptop Stand,Office,North,28.24,2,44,Upi,3.6,56.48
+ORD1637,2025-02-11,Desk Lamp,Office,East,22.46,5,31,Debit Card,4.6,112.3
+ORD1607,2025-06-29,Power Bank,Electronics,West,29.13,3,16,Credit Card,4.9,87.39
+ORD1842,2025-07-30,Power Bank,Electronics,South,28.77,4,33,COD,4.5,115.08
+ORD1068,2025-06-08,Noise Cancelling Headphones,Audio,South,99.61,3,22,Unknown,4.3,298.83
+ORD1880,2025-07-06,Desk Lamp,Office,South,17.97,8,34,Cash,3.6,143.76
+ORD1979,2025-08-02,Power Bank,Electronics,West,23.81,5,34,COD,5.0,119.05
+ORD1416,2025-04-08,Wireless Mouse,Accessories,West,11.9,5,28,Unknown,5.0,59.5
+ORD1789,2025-03-29,Wireless Mouse,Accessories,West,14.06,3,30,Unknown,4.5,42.18
+ORD1561,2025-03-12,Noise Cancelling Headphones,Audio,South,101.4,3,28,Credit Card,4.0,304.2
+ORD1067,2025-03-05,Noise Cancelling Headphones,Audio,West,90.63,6,35,Unknown,4.6,543.78
+ORD1536,2025-01-16,Mechanical Keyboard,Accessories,North,58.06,4,25,COD,3.3,232.24
+ORD1077,2025-05-21,Phone Case,Accessories,West,11.81,4,42,Credit Card,4.2,47.24
+ORD1105,2025-07-21,Wireless Mouse,Accessories,East,11.28,5,18,Upi,4.2,56.4
+ORD1828,2025-05-06,Usb-C Hub,Accessories,East,18.59,4,34,COD,3.3,74.36
+ORD1638,2025-04-22,Mechanical Keyboard,Accessories,West,71.93,6,27,Debit Card,3.9,431.58
+ORD1559,2025-06-01,Bluetooth Speaker,Audio,South,39.51,1,38,Cash,1.8,39.51
+ORD1807,2025-05-14,Power Bank,Electronics,West,26.29,4,42,Cash,4.2,105.16
+ORD1690,2025-03-29,Bluetooth Speaker,Audio,North,24.7,3,39,Debit Card,2.6,74.1
+ORD1994,2025-05-08,Laptop Stand,Office,West,21.6,5,33,Unknown,4.6,108.0
+ORD1921,2025-02-18,Noise Cancelling Headphones,Audio,East,86.26,1,19,Credit Card,4.7,86.26
+ORD1735,2025-01-07,Webcam Hd,Electronics,East,36.5,3,42,Credit Card,4.1,109.5
+ORD1825,2025-04-28,Wireless Mouse,Accessories,West,15.05,8,18,COD,3.9,120.4
+ORD1490,2025-06-06,Mechanical Keyboard,Accessories,East,60.65,3,31,Cash,2.5,181.95
+ORD1721,2025-06-12,Noise Cancelling Headphones,Audio,East,89.03,5,23,Upi,1.9,445.15
+ORD1893,2025-05-22,Mechanical Keyboard,Accessories,West,56.43,6,19,Debit Card,3.7,338.58
+ORD1605,2025-01-25,Mechanical Keyboard,Accessories,East,61.69,3,32,Credit Card,4.4,185.07
+ORD1363,2025-03-30,Usb-C Hub,Accessories,East,24.69,1,21,Credit Card,4.6,24.69
+ORD1069,2025-02-10,Laptop Stand,Office,West,32.68,7,40,Upi,4.0,228.76
+ORD1548,2025-06-20,Mechanical Keyboard,Accessories,East,66.9,5,44,Unknown,4.2,334.5
+ORD1160,2025-01-15,Laptop Stand,Office,North,22.62,2,43,Debit Card,3.9,45.24
+ORD1011,2025-03-09,Phone Case,Accessories,South,9.77,5,43,Unknown,4.8,48.85
+ORD1144,2025-04-03,Laptop Stand,Office,North,11.95,6,25,Cash,4.3,71.7
+ORD1517,2025-06-26,Noise Cancelling Headphones,Audio,North,73.99,4,25,Upi,2.9,295.96
+ORD1427,2025-04-26,Mechanical Keyboard,Accessories,South,49.76,2,39,Credit Card,4.7,99.52
+ORD1639,2025-08-07,Mechanical Keyboard,Accessories,North,44.97,5,33,Credit Card,4.6,224.85
+ORD1176,2025-04-18,Bluetooth Speaker,Audio,East,50.45,3,21,Credit Card,4.1,151.35
+ORD1440,2025-03-16,Usb-C Hub,Accessories,West,19.88,5,32,Upi,5.0,99.4
+ORD1521,2025-01-28,Bluetooth Speaker,Audio,North,53.98,3,40,Credit Card,5.0,161.94
+ORD1922,2025-04-04,Noise Cancelling Headphones,Audio,South,96.56,5,30,COD,4.9,482.8
+ORD1998,2025-02-22,Wireless Mouse,Accessories,North,15.08,2,37,Upi,4.5,30.16
+ORD1688,2025-06-05,Phone Case,Accessories,West,8.04,1,53,Upi,4.5,8.04
+ORD1231,2025-02-21,Desk Lamp,Office,North,19.94,2,43,COD,3.4,39.88
+ORD1210,2025-07-09,Desk Lamp,Office,East,21.28,3,35,Upi,3.6,63.84
+ORD1640,2025-04-04,Bluetooth Speaker,Audio,East,30.18,6,32,Unknown,3.7,181.08
+ORD1143,2025-05-12,Phone Case,Accessories,North,8.11,4,40,Cash,4.2,32.44
+ORD1753,2025-07-23,Laptop Stand,Office,West,21.31,7,47,Debit Card,2.9,149.17
+ORD1519,2025-02-06,Phone Case,Accessories,South,8.71,3,23,Cash,3.4,26.13
+ORD1348,2025-04-18,Desk Lamp,Office,South,17.41,4,16,Debit Card,4.6,69.64
+ORD1298,2025-05-31,Noise Cancelling Headphones,Audio,North,86.37,3,25,Debit Card,5.0,259.11
+ORD1766,2025-04-26,Usb-C Hub,Accessories,East,21.44,7,23,Credit Card,3.0,150.08
+ORD1428,2025-06-05,Desk Lamp,Office,East,16.02,7,34,Unknown,5.0,112.14
+ORD1612,2025-02-11,Mechanical Keyboard,Accessories,West,53.57,2,39,Credit Card,4.4,107.14
+ORD1984,2025-06-13,Phone Case,Accessories,North,10.46,4,21,COD,2.8,41.84
+ORD1993,2025-02-03,Power Bank,Electronics,South,36.75,7,57,Credit Card,4.6,257.25
+ORD1008,2025-07-10,Phone Case,Accessories,East,7.78,4,26,Credit Card,4.4,31.12
+ORD1156,2025-05-21,Webcam Hd,Electronics,East,39.99,6,30,COD,4.5,239.94
+ORD1539,2025-01-22,Power Bank,Electronics,East,33.94,4,27,Unknown,3.8,135.76
+ORD1506,2025-06-15,Phone Case,Accessories,West,8.91,4,37,Unknown,4.5,35.64
+ORD1436,2025-05-17,Noise Cancelling Headphones,Audio,West,83.79,2,33,Unknown,3.8,167.58
+ORD1266,2025-05-01,Webcam Hd,Electronics,North,35.08,3,42,Credit Card,4.1,105.24
+ORD1826,2025-08-08,Usb-C Hub,Accessories,East,12.59,4,17,Cash,5.0,50.36
+ORD1461,2025-07-10,Usb-C Hub,Accessories,West,22.54,4,46,Cash,4.2,90.16
+ORD1576,2025-06-15,Usb-C Hub,Accessories,North,18.21,7,34,Debit Card,3.4,127.47
+ORD1338,2025-02-04,Power Bank,Electronics,South,27.04,4,30,Unknown,4.3,108.16
+ORD1255,2025-04-20,Bluetooth Speaker,Audio,South,44.91,3,16,Unknown,4.9,134.73
+ORD1852,2025-08-26,Noise Cancelling Headphones,Audio,North,92.95,5,29,Cash,4.3,464.75
+ORD1900,2025-01-20,Desk Lamp,Office,South,17.12,4,35,Credit Card,3.9,68.48
+ORD1665,2025-03-14,Bluetooth Speaker,Audio,North,44.79,4,35,Credit Card,5.0,179.16
+ORD1560,2025-07-08,Usb-C Hub,Accessories,East,22.05,5,35,Upi,3.6,110.25
+ORD1208,2025-06-30,Phone Case,Accessories,South,10.81,3,24,Unknown,5.0,32.43
+ORD1287,2025-07-27,Laptop Stand,Office,West,29.36,2,34,Credit Card,4.7,58.72
+ORD1001,2025-07-03,Power Bank,Electronics,West,29.13,1,28,Cash,3.6,29.13
+ORD1341,2025-02-22,Power Bank,Electronics,North,26.33,7,40,Cash,5.0,184.31
+ORD1269,2025-08-05,Bluetooth Speaker,Audio,East,49.43,6,28,Credit Card,3.6,296.58
+ORD1265,2025-01-19,Bluetooth Speaker,Audio,South,48.45,4,33,Upi,3.4,193.8
+ORD1863,2025-01-14,Phone Case,Accessories,North,9.4,4,38,Upi,4.4,37.6
+ORD1870,2025-02-03,Wireless Mouse,Accessories,North,16.57,2,36,Unknown,4.9,33.14
+ORD1095,2025-02-12,Power Bank,Electronics,West,33.7,4,35,Unknown,4.6,134.8
+ORD1042,2025-08-06,Wireless Mouse,Accessories,West,14.25,5,30,COD,5.0,71.25
+ORD1398,2025-05-25,Power Bank,Electronics,North,37.87,4,47,Credit Card,4.4,151.48
+ORD1883,2025-05-20,Wireless Mouse,Accessories,South,11.63,5,44,Credit Card,3.5,58.15
+ORD1628,2025-06-01,Usb-C Hub,Accessories,North,21.67,3,32,Credit Card,4.1,65.01
+ORD1045,2025-04-25,Power Bank,Electronics,West,23.56,2,48,Cash,2.8,47.12
+ORD1161,2025-03-06,Power Bank,Electronics,North,26.9,6,33,Debit Card,3.6,161.4
+ORD1727,2025-06-16,Power Bank,Electronics,West,35.31,3,34,COD,5.0,105.93
+ORD1629,2025-05-12,Phone Case,Accessories,West,10.27,4,45,Credit Card,4.2,41.08
+ORD1288,2025-04-20,Desk Lamp,Office,East,17.97,4,60,Upi,4.9,71.88
+ORD1969,2025-07-31,Phone Case,Accessories,West,11.64,4,32,Credit Card,5.0,46.56
+ORD1575,2025-07-30,Desk Lamp,Office,South,14.46,6,18,Credit Card,2.6,86.76
+ORD1850,2025-04-04,Power Bank,Electronics,North,27.73,5,32,Cash,3.1,138.65
+ORD1315,2025-01-26,Bluetooth Speaker,Audio,South,40.81,2,16,Cash,4.8,81.62
+ORD1943,2025-06-11,Usb-C Hub,Accessories,North,19.43,2,39,Credit Card,5.0,38.86
+ORD1230,2025-03-23,Webcam Hd,Electronics,West,30.79,5,46,Credit Card,5.0,153.95
+ORD1809,2025-02-05,Desk Lamp,Office,North,18.82,5,33,COD,3.3,94.1
+ORD1698,2025-06-29,Mechanical Keyboard,Accessories,South,33.86,5,39,Upi,4.2,169.3
+ORD1876,2025-03-13,Wireless Mouse,Accessories,South,13.79,1,31,COD,5.0,13.79
+ORD1711,2025-07-04,Webcam Hd,Electronics,East,40.76,6,38,Credit Card,5.0,244.56
+ORD1076,2025-01-01,Desk Lamp,Office,East,16.51,3,22,Credit Card,4.6,49.53
+ORD1633,2025-01-20,Phone Case,Accessories,North,9.78,2,30,Cash,4.8,19.56
+ORD1374,2025-08-23,Wireless Mouse,Accessories,North,13.48,4,34,Credit Card,4.7,53.92
+ORD1247,2025-05-07,Phone Case,Accessories,South,7.2,2,49,Upi,4.7,14.4
+ORD1819,2025-01-28,Power Bank,Electronics,West,29.34,4,35,Upi,5.0,117.36
+ORD1824,2025-03-14,Desk Lamp,Office,East,18.15,2,36,Credit Card,3.6,36.3
+ORD1476,2025-06-19,Wireless Mouse,Accessories,South,11.59,4,41,Credit Card,3.6,46.36
+ORD1670,2025-03-14,Usb-C Hub,Accessories,East,21.69,1,20,Credit Card,3.8,21.69
+ORD1085,2025-08-07,Desk Lamp,Office,South,16.31,2,25,COD,3.6,32.62
+ORD1469,2025-03-09,Noise Cancelling Headphones,Audio,East,95.07,4,26,Unknown,3.9,380.28
+ORD1225,2025-02-03,Phone Case,Accessories,East,9.95,4,22,Credit Card,4.2,39.8
+ORD1774,2025-04-05,Desk Lamp,Office,South,20.72,1,39,Cash,2.3,20.72
+ORD1331,2025-06-24,Power Bank,Electronics,West,29.13,3,34,Upi,4.1,87.39
+ORD1233,2025-06-03,Desk Lamp,Office,East,19.5,3,48,Credit Card,4.0,58.5
+ORD1588,2025-04-01,Mechanical Keyboard,Accessories,East,53.47,2,36,COD,2.8,106.94
+ORD1475,2025-05-15,Wireless Mouse,Accessories,North,14.32,1,28,Debit Card,4.4,14.32
+ORD1345,2025-04-27,Bluetooth Speaker,Audio,West,44.72,4,22,Credit Card,5.0,178.88
+ORD1982,2025-05-13,Wireless Mouse,Accessories,North,13.13,3,51,Upi,4.5,39.39
+ORD1599,2025-03-16,Laptop Stand,Office,North,17.18,3,34,Unknown,3.5,51.54
+ORD1421,2025-05-28,Power Bank,Electronics,East,37.91,7,37,Cash,3.8,265.37
+ORD1687,2025-07-08,Desk Lamp,Office,East,16.63,3,33,Credit Card,3.1,49.89
+ORD1182,2025-08-20,Noise Cancelling Headphones,Audio,North,87.44,2,38,Credit Card,4.2,174.88
+ORD1617,2025-08-29,Bluetooth Speaker,Audio,West,53.8,1,19,COD,3.6,53.8
+ORD1332,2025-04-29,Webcam Hd,Electronics,South,26.32,4,46,Cash,5.0,105.28
+ORD1438,2025-05-21,Mechanical Keyboard,Accessories,East,66.04,6,31,Cash,5.0,396.24
+ORD1930,2025-08-01,Desk Lamp,Office,East,15.64,5,25,Debit Card,4.3,78.2
+ORD1005,2025-06-21,Webcam Hd,Electronics,South,39.97,3,33,Credit Card,3.1,119.91
+ORD1529,2025-08-04,Phone Case,Accessories,East,9.52,1,23,Upi,5.0,9.52
+ORD1234,2025-01-28,Power Bank,Electronics,South,33.36,3,39,Debit Card,3.2,100.08
+ORD1486,2025-01-09,Phone Case,Accessories,North,8.75,4,16,Cash,4.0,35.0
+ORD1959,2025-01-27,Mechanical Keyboard,Accessories,South,65.99,2,40,Debit Card,4.2,131.98
+ORD1497,2025-07-29,Power Bank,Electronics,East,29.07,4,34,Credit Card,2.3,116.28
+ORD1884,2025-04-20,Laptop Stand,Office,North,25.009999999999998,2,48,Debit Card,4.0,50.02
+ORD1953,2025-03-09,Bluetooth Speaker,Audio,East,43.26,5,37,Upi,4.7,216.3
+ORD1106,2025-05-12,Bluetooth Speaker,Audio,West,37.4,3,32,Credit Card,4.1,112.2
+ORD1443,2025-01-19,Laptop Stand,Office,North,19.75,5,45,Unknown,4.6,98.75
+ORD1488,2025-07-04,Wireless Mouse,Accessories,North,14.38,8,41,Credit Card,4.5,115.04
+ORD1646,2025-04-11,Phone Case,Accessories,North,10.27,4,46,Credit Card,2.4,41.08
+ORD1012,2025-05-19,Usb-C Hub,Accessories,North,24.49,4,37,Credit Card,2.8,97.96
+ORD1738,2025-08-16,Wireless Mouse,Accessories,East,12.68,4,23,Credit Card,4.5,50.72
+ORD1726,2025-01-02,Laptop Stand,Office,East,27.07,4,40,Credit Card,3.9,108.28
+ORD1190,2025-06-25,Bluetooth Speaker,Audio,North,34.52,3,30,COD,5.0,103.56
+ORD1832,2025-01-17,Power Bank,Electronics,South,24.28,7,29,Unknown,3.0,169.96
+ORD1282,2025-04-26,Noise Cancelling Headphones,Audio,South,102.0,3,28,Unknown,4.4,306.0
+ORD1029,2025-03-12,Wireless Mouse,Accessories,East,13.15,5,20,COD,3.4,65.75
+ORD1169,2025-04-21,Phone Case,Accessories,South,9.21,4,22,Unknown,4.6,36.84
+ORD1180,2025-05-20,Mechanical Keyboard,Accessories,South,70.93,5,33,Unknown,4.0,354.65
+ORD1100,2025-02-09,Power Bank,Electronics,West,29.13,3,44,Credit Card,2.5,87.39
+ORD1197,2025-04-25,Desk Lamp,Office,East,17.8,2,38,Credit Card,4.2,35.6
+ORD1495,2025-02-03,Mechanical Keyboard,Accessories,North,58.32,4,34,Credit Card,3.6,233.28
+ORD1044,2025-02-04,Usb-C Hub,Accessories,South,19.94,3,24,Unknown,5.0,59.82
+ORD1991,2025-05-15,Power Bank,Electronics,East,33.28,6,46,Upi,4.6,199.68
+ORD1710,2025-02-01,Laptop Stand,Office,North,28.93,4,41,Cash,4.9,115.72
+ORD1373,2025-06-16,Phone Case,Accessories,West,11.58,3,37,Debit Card,3.7,34.74
+ORD1678,2025-04-12,Bluetooth Speaker,Audio,West,36.42,3,33,Cash,5.0,109.26
+ORD1939,2025-05-12,Noise Cancelling Headphones,Audio,South,76.01,2,42,Credit Card,4.5,152.02
+ORD1648,2025-03-27,Phone Case,Accessories,South,7.53,5,49,Unknown,4.6,37.65
+ORD1797,2025-02-01,Desk Lamp,Office,West,19.12,3,27,Unknown,2.9,57.36
+ORD1847,2025-03-15,Laptop Stand,Office,North,24.21,5,33,Cash,2.5,121.05
+ORD1460,2025-08-05,Webcam Hd,Electronics,East,28.77,7,16,Unknown,3.8,201.39
+ORD1908,2025-04-01,Laptop Stand,Office,West,27.83,3,27,Upi,3.8,83.49
+ORD1413,2025-08-23,Power Bank,Electronics,North,32.41,3,43,Debit Card,4.9,97.23
+ORD1131,2025-04-11,Mechanical Keyboard,Accessories,South,64.51,2,23,Upi,5.0,129.02
+ORD1039,2025-07-11,Desk Lamp,Office,North,17.1,5,34,Cash,3.5,85.5
+ORD1434,2025-02-02,Usb-C Hub,Accessories,North,16.47,3,25,Credit Card,2.7,49.41
+ORD1215,2025-04-21,Wireless Mouse,Accessories,South,14.21,6,58,Credit Card,3.8,85.26
+ORD1555,2025-01-22,Bluetooth Speaker,Audio,West,53.04,6,42,Debit Card,4.1,318.24
+ORD1566,2025-08-05,Usb-C Hub,Accessories,East,18.45,2,28,Debit Card,4.4,36.9
+ORD1762,2025-05-22,Phone Case,Accessories,West,9.65,3,60,Upi,3.9,28.95
+ORD1474,2025-02-24,Wireless Mouse,Accessories,North,17.7,2,31,Credit Card,2.7,35.4
+ORD1456,2025-04-03,Bluetooth Speaker,Audio,East,39.8,2,21,Unknown,4.6,79.6
+ORD1811,2025-05-05,Webcam Hd,Electronics,South,23.5,5,32,Upi,4.3,117.5
+ORD1260,2025-02-28,Desk Lamp,Office,South,20.75,4,60,Credit Card,4.4,83.0
+ORD1816,2025-07-03,Bluetooth Speaker,Audio,East,50.41,3,30,Unknown,3.3,151.23
+ORD1035,2025-06-14,Bluetooth Speaker,Audio,South,45.35,5,39,Credit Card,4.6,226.75
+ORD1827,2025-02-15,Wireless Mouse,Accessories,South,15.03,5,36,Credit Card,4.9,75.15
+ORD1911,2025-07-09,Wireless Mouse,Accessories,North,15.27,3,50,Debit Card,5.0,45.81
+ORD1309,2025-01-25,Wireless Mouse,Accessories,East,15.95,2,39,Unknown,4.1,31.9
+ORD1276,2025-01-03,Mechanical Keyboard,Accessories,North,74.54,7,30,COD,4.4,521.78
+ORD1636,2025-06-25,Phone Case,Accessories,East,8.41,3,33,Upi,4.4,25.23
+ORD1654,2025-01-04,Webcam Hd,Electronics,West,51.55,3,22,Unknown,3.6,154.65
+ORD1622,2025-07-12,Noise Cancelling Headphones,Audio,West,77.97,3,37,Debit Card,4.3,233.91
+ORD1835,2025-05-13,Usb-C Hub,Accessories,West,18.73,4,46,Debit Card,4.3,74.92
+ORD1844,2025-05-26,Laptop Stand,Office,South,19.07,5,34,COD,4.7,95.35
+ORD1393,2025-06-12,Webcam Hd,Electronics,North,30.73,4,45,Credit Card,5.0,122.92
+ORD1107,2025-01-08,Power Bank,Electronics,East,33.13,3,23,Cash,4.6,99.39
+ORD1524,2025-01-18,Phone Case,Accessories,East,8.84,3,42,Upi,3.7,26.52
+ORD1784,2025-06-03,Noise Cancelling Headphones,Audio,East,93.77,4,36,COD,4.8,375.08
+ORD1047,2025-02-24,Usb-C Hub,Accessories,West,20.18,6,40,Cash,4.2,121.08
+ORD1954,2025-07-12,Bluetooth Speaker,Audio,East,57.91,5,16,COD,5.0,289.55
+ORD1203,2025-08-22,Power Bank,Electronics,West,37.38,5,37,Credit Card,3.6,186.9
+ORD1987,2025-02-17,Bluetooth Speaker,Audio,West,39.19,7,17,Debit Card,5.0,274.33
+ORD1631,2025-05-08,Mechanical Keyboard,Accessories,South,63.42,3,26,Unknown,3.2,190.26
+ORD1021,2025-03-09,Wireless Mouse,Accessories,North,16.69,4,39,Cash,5.0,66.76
+ORD1402,2025-01-01,Laptop Stand,Office,East,25.28,5,41,Credit Card,3.9,126.4
+ORD1946,2025-05-15,Bluetooth Speaker,Audio,South,44.69,3,21,Credit Card,2.6,134.07
+ORD1083,2025-06-16,Desk Lamp,Office,North,20.74,3,25,Debit Card,2.9,62.22
+ORD1130,2025-06-23,Webcam Hd,Electronics,East,34.79,5,40,Upi,2.8,173.95
+ORD1415,2025-04-07,Noise Cancelling Headphones,Audio,South,73.01,2,58,Unknown,4.5,146.02
+ORD1895,2025-01-04,Webcam Hd,Electronics,East,36.89,4,27,Unknown,3.2,147.56
+ORD1841,2025-03-12,Mechanical Keyboard,Accessories,West,51.57,1,40,Cash,3.5,51.57
+ORD1741,2025-01-04,Webcam Hd,Electronics,West,30.21,3,22,Credit Card,4.6,90.63
+ORD1697,2025-06-19,Desk Lamp,Office,North,20.41,3,16,COD,4.1,61.23
+ORD1286,2025-06-15,Desk Lamp,Office,South,18.22,4,29,Credit Card,4.4,72.88
+ORD1123,2025-07-18,Bluetooth Speaker,Audio,East,39.03,6,40,Debit Card,2.7,234.18
+ORD1033,2025-03-27,Desk Lamp,Office,West,20.0,7,36,Upi,3.0,140.0
+ORD1787,2025-01-16,Desk Lamp,Office,West,12.74,5,25,Debit Card,3.4,63.7
+ORD1516,2025-04-24,Mechanical Keyboard,Accessories,North,59.9,4,34,Credit Card,4.3,239.6
+ORD1923,2025-05-14,Webcam Hd,Electronics,East,35.2,3,42,Cash,4.2,105.6
+ORD1019,2025-02-05,Usb-C Hub,Accessories,West,17.02,1,34,Unknown,5.0,17.02
+ORD1988,2025-05-31,Phone Case,Accessories,East,9.83,2,31,Cash,4.1,19.66
+ORD1219,2025-01-20,Noise Cancelling Headphones,Audio,North,98.1,4,31,Debit Card,5.0,392.4
+ORD1891,2025-01-22,Power Bank,Electronics,West,35.18,4,26,COD,4.9,140.72
+ORD1579,2025-08-27,Bluetooth Speaker,Audio,South,57.54,3,20,Credit Card,4.4,172.62
+ORD1481,2025-02-22,Noise Cancelling Headphones,Audio,West,104.02,5,17,Unknown,3.7,520.1
+ORD1931,2025-04-22,Desk Lamp,Office,East,17.97,4,47,Credit Card,3.7,71.88
+ORD1356,2025-02-27,Webcam Hd,Electronics,West,30.74,6,21,COD,3.3,184.44
+ORD1661,2025-02-02,Mechanical Keyboard,Accessories,North,58.09,3,55,COD,2.8,174.27
+ORD1224,2025-07-02,Bluetooth Speaker,Audio,East,41.31,3,37,Upi,3.2,123.93
+ORD1759,2025-01-26,Bluetooth Speaker,Audio,West,41.04,5,27,Upi,3.4,205.2
+ORD1092,2025-08-02,Wireless Mouse,Accessories,West,16.1,4,49,Credit Card,3.8,64.4
+ORD1151,2025-04-01,Phone Case,Accessories,North,9.21,1,49,Credit Card,4.0,9.21
+ORD1494,2025-02-08,Webcam Hd,Electronics,North,32.63,5,39,Cash,4.5,163.15
+ORD1317,2025-08-18,Wireless Mouse,Accessories,North,19.41,3,33,Upi,3.6,58.23
+ORD1448,2025-03-28,Laptop Stand,Office,North,28.17,6,38,Credit Card,2.6,169.02
+ORD1803,2025-04-17,Phone Case,Accessories,East,9.77,3,36,Debit Card,4.7,29.31
+ORD1745,2025-06-27,Bluetooth Speaker,Audio,South,39.78,6,32,Unknown,3.9,238.68
+ORD1522,2025-04-09,Usb-C Hub,Accessories,East,23.16,4,36,Unknown,2.4,92.64
+ORD1279,2025-02-06,Usb-C Hub,Accessories,West,16.05,9,32,Unknown,3.2,144.45
+ORD1583,2025-06-22,Mechanical Keyboard,Accessories,South,59.71,2,40,Debit Card,4.2,119.42
+ORD1764,2025-06-25,Webcam Hd,Electronics,North,35.08,3,55,Upi,4.7,105.24
+ORD1604,2025-07-15,Power Bank,Electronics,South,25.6,4,48,Unknown,4.2,102.4
+ORD1349,2025-05-04,Laptop Stand,Office,East,25.009999999999998,6,31,Credit Card,4.3,150.06
+ORD1927,2025-07-23,Phone Case,Accessories,East,11.3,5,47,Credit Card,4.6,56.5
+ORD1400,2025-01-18,Webcam Hd,Electronics,South,30.19,2,25,Credit Card,4.7,60.38
+ORD1704,2025-05-14,Noise Cancelling Headphones,Audio,West,91.96,4,27,Unknown,4.0,367.84
+ORD1257,2025-06-26,Wireless Mouse,Accessories,North,15.2,3,18,Debit Card,3.6,45.6
+ORD1944,2025-02-16,Power Bank,Electronics,East,27.17,3,34,Upi,5.0,81.51
+ORD1851,2025-05-19,Webcam Hd,Electronics,North,35.08,5,32,Upi,4.1,175.4
+ORD1072,2025-01-21,Mechanical Keyboard,Accessories,South,68.83,5,37,Credit Card,4.4,344.15
+ORD1195,2025-07-29,Mechanical Keyboard,Accessories,South,66.96,3,39,Credit Card,3.2,200.88
+ORD1483,2025-07-06,Laptop Stand,Office,East,26.12,5,46,Cash,4.8,130.6
+ORD1855,2025-05-18,Mechanical Keyboard,Accessories,West,58.6,6,41,COD,4.2,351.6
+ORD1137,2025-04-18,Mechanical Keyboard,Accessories,East,58.07,4,35,Unknown,4.5,232.28
+ORD1772,2025-06-08,Laptop Stand,Office,East,26.84,4,39,COD,4.2,107.36
+ORD1550,2025-06-07,Laptop Stand,Office,North,22.77,3,32,Credit Card,4.0,68.31
+ORD1462,2025-03-19,Wireless Mouse,Accessories,West,17.14,4,30,Unknown,3.9,68.56
+ORD1201,2025-04-23,Wireless Mouse,Accessories,North,15.7,4,34,Debit Card,4.0,62.8
+ORD1312,2025-02-02,Laptop Stand,Office,East,27.1,3,31,Debit Card,4.3,81.3
+ORD1290,2025-05-20,Power Bank,Electronics,South,28.85,7,16,Cash,3.4,201.95
+ORD1763,2025-05-23,Desk Lamp,Office,East,19.69,5,26,Upi,3.9,98.45
+ORD1949,2025-06-15,Power Bank,Electronics,East,38.88,5,40,COD,3.3,194.4
+ORD1183,2025-02-10,Laptop Stand,Office,West,25.009999999999998,6,24,Cash,4.7,150.06
+ORD1250,2025-07-26,Laptop Stand,Office,North,26.21,5,32,Credit Card,3.9,131.05
+ORD1823,2025-08-06,Mechanical Keyboard,Accessories,East,57.03,5,34,Upi,3.8,285.15
+ORD1940,2025-03-10,Bluetooth Speaker,Audio,South,47.66,6,29,Upi,3.7,285.96
+ORD1391,2025-05-25,Power Bank,Electronics,East,27.02,3,36,COD,4.2,81.06
+ORD1904,2025-05-31,Wireless Mouse,Accessories,East,18.56,3,34,Debit Card,4.2,55.68
+ORD1730,2025-06-30,Webcam Hd,Electronics,West,32.17,4,43,Unknown,4.8,128.68
+ORD1554,2025-07-16,Webcam Hd,Electronics,North,30.62,3,30,Cash,5.0,91.86
+ORD1366,2025-04-02,Mechanical Keyboard,Accessories,West,54.16,7,47,COD,4.5,379.12
+ORD1535,2025-05-27,Phone Case,Accessories,North,11.76,4,36,Upi,4.7,47.04
+ORD1919,2025-05-29,Noise Cancelling Headphones,Audio,South,110.79,2,26,Credit Card,4.4,221.58
+ORD1211,2025-06-25,Usb-C Hub,Accessories,West,21.09,4,23,COD,3.3,84.36
+ORD1537,2025-01-20,Mechanical Keyboard,Accessories,East,58.32,2,45,Credit Card,4.2,116.64
+ORD1175,2025-05-30,Noise Cancelling Headphones,Audio,East,104.34,4,37,Debit Card,4.0,417.36
