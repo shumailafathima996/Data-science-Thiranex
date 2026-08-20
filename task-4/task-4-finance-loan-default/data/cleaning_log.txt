@@ -1,0 +1,5 @@
+Initial shape: (2020, 13)
+Dropped 20 duplicate ApplicantIDs
+Imputed missing CreditScore (median) and AnnualIncome (group median by employment type)
+Capped 46 DebtToIncomeRatio outliers at 1.48
+Final shape: (2000, 13)
