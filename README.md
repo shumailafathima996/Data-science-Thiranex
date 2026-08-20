@@ -32,3 +32,13 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 ## 📂 How This Repo Is Organized
 
 Each `task-N-*` folder is independent and runnable on its own:
+
+## 📌 Future Enhancements
+Add interactive dashboards (Streamlit/Plotly).
+Deploy predictive models as APIs.
+Expand datasets for broader case studies.
+Integrate CI/CD workflows for reproducibility.
+
+## 👩‍💻 Author
+Shumaila Fathima  
+B.E. Computer Science Engineering | Data Science & AI Enthusiast
