@@ -35,8 +35,11 @@ Each `task-N-*` folder is independent and runnable on its own:
 
 ## 📌 Future Enhancements
 Add interactive dashboards (Streamlit/Plotly).
+
 Deploy predictive models as APIs.
+
 Expand datasets for broader case studies.
+
 Integrate CI/CD workflows for reproducibility.
 
 ## 👩‍💻 Author
